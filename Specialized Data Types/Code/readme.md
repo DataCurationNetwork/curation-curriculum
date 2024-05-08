@@ -17,10 +17,10 @@ This curriculum was developed by the geospatial cohort for the Data Curation Net
 
 Exercise Materials (folder): 
 
-[Code\_ChecklistExercise.pdf](<..\..\Code/Exercise Materials\Code_ChecklistExercise.pdf>) - Exercise instructions for applying the Code\_CurationChecklist to a real dataset
+[Code\_ChecklistExercise.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/4ec8bd6de6f04b87b6da6eb4f5207d51c52052b5/Specialized%20Data%20Types/Code/Exercise%20Materials/Code_ChecklistExercise.pdf) - Exercise instructions for applying the Code\_CurationChecklist to a real dataset
 
-[Code\_CurationChecklist.pdf](<Code\Exercise Materials\Code_CurationChecklist.pdf>) - Checklist for curating code
+[Code\_CurationChecklist.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/4ec8bd6de6f04b87b6da6eb4f5207d51c52052b5/Specialized%20Data%20Types/Code/Exercise%20Materials/Code_CurationChecklist.pdf) - Checklist for curating code
 
-[Code\_DepositExample.pdf](<Exercise Materials\Code_DepositExample.pdf>) - Dataset workshop discussion with example dataset
+[Code\_DepositExample.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/4ec8bd6de6f04b87b6da6eb4f5207d51c52052b5/Specialized%20Data%20Types/Code/Exercise%20Materials/Code_DepositExample.pdf) - Dataset workshop discussion with example dataset
 
-[Code\_ReadmeExample.pdf](<Exercise Materials\Code_ReadmeExample.pdf>) - An exemplar README file
+[Code\_ReadmeExample.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/4ec8bd6de6f04b87b6da6eb4f5207d51c52052b5/Specialized%20Data%20Types/Code/Exercise%20Materials/Code_ReadmeExample.pdf) - An exemplar README file
