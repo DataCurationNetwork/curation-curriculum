@@ -17,28 +17,28 @@ This curriculum was developed by the geospatial cohort for the Data Curation Net
 
 Exercise Materials (folder):
 
-[SciImag\_Curation\_Documentation\_Example.pdf](<Exercise Materials\SciImag_Curation_Documentation_Example.pdf>) - An example of the 
+[SciImag\_Curation\_Documentation\_Example.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/SciImag_Curation_Documentation_Example.pdf) - An example of the 
 "Curation\_Documentation\_Template” showing curations activities on the example dataset
 
-[SciImag\_Curation\_Documentation\_Template.pdf](<Exercise Materials\SciImag_Curation_Documentation_Template.pdf>) - Template to document curation activities 
+[SciImag\_Curation\_Documentation\_Template.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/SciImag_Curation_Documentation_Template.pdf) - Template to document curation activities 
 
-[SciImag\_InstructionsDeepBlueDataset\_AIChatbotActivity.txt](<Exercise Materials\SciImag_InstructionsDeepBlueDataset_AIChatbotActivity.txt>) - Instructions for users
+[SciImag\_InstructionsDeepBlueDataset\_AIChatbotActivity.txt](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/SciImag_InstructionsDeepBlueDataset_AIChatbotActivity.txt) - Instructions for users
 
-[SciImag\_InstructionsTemplate\_AIChatbotActivity.txt](<Exercise Materials\SciImag_InstructionsTemplate_AIChatbotActivity.txt>) - Instructions for Instructor
+[SciImag\_InstructionsTemplate\_AIChatbotActivity.txt](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/SciImag_InstructionsTemplate_AIChatbotActivity.txt) - Instructions for Instructor
 
-[SciImag\_Pre-Work.pdf](<Exercise Materials\SciImag_Pre-Work.pdf>) - Instructions for participants to download software and the dataset prior to the workshop
+[SciImag\_Pre-Work.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/SciImag_Pre-work.pdf) - Instructions for participants to download software and the dataset prior to the workshop
 
 - Worksheets (folder)
   - Folder containing the worksheets linked in the lesson plan, participants will fill them out during workshop
   - The worksheets within this folder are:
-    - [0-Curator\_log.pdf](<Exercise Materials\Worksheets\0-Curator_log.pdf>)
-    - [1-Check\_worksheet.pdf](<Exercise Materials\Worksheets\1-Check_worksheet.pdf>)
-    - [2-Understand\_worksheet.pdf](<Exercise Materials\Worksheets\2-Understand_worksheet.pdf>)
-    - [3-Request\_worksheet.pdf](<Exercise Materials\Worksheets\3-Request_worksheet.pdf>)
-    - [4-Augument\_worksheet.pdf](<Exercise Materials\Worksheets\4-Augument_worksheet.pdf>)
-    - [5-Transform\_worksheet.pdf](<Exercise Materials\Worksheets\5-Transform_worksheet.pdf>)
-    - [5-Transform\_worksheet\_no\_result.pdf](<Exercise Materials\Worksheets\5-Transform_worksheet_no_result.pdf>)
-    - [6-Evaluate\_discussion.pdf](<Exercise Materials\Worksheets\6-Evaluate_discussion.pdf>)
+    - [0-Curator\_log.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/0-Curator_log.pdf)
+    - [1-Check\_worksheet.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/1-Check_worksheet.pdf)
+    - [2-Understand\_worksheet.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/2-Understand_worksheet.pdf)
+    - [3-Request\_worksheet.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/3-Request_worksheet.pdf)
+    - [4-Augument\_worksheet.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/4-Augment_worksheet.pdf)
+    - [5-Transform\_worksheet.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/5-Transform_worksheet.pdf)
+    - [5-Transform\_worksheet\_no\_result.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/5-Transform_worksheet_no_results.pdf)
+    - [6-Evaluate\_discussion.pdf](<https://github.com/DataCurationNetwork/curation-curriculum/blob/b902242841d84a877aac5eb88c91ac79b33a7ca3/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/6-Evaluate_discussion.pdf>)
 
 Example dataset used in this workshop:
 
