@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cat="http://standards.iso.org/iso/19115/-3/cat/1.0" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gcx="http://standards.iso.org/iso/19115/-3/gcx/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:srv="http://standards.iso.org/iso/19115/-3/srv/2.0" xmlns:mac="http://standards.iso.org/iso/19115/-3/mac/1.0" xmlns:mas="http://standards.iso.org/iso/19115/-3/mas/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mda="http://standards.iso.org/iso/19115/-3/mda/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mdt="http://standards.iso.org/iso/19115/-3/mdt/1.0" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:mrl="http://standards.iso.org/iso/19115/-3/mrl/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mmi="http://standards.iso.org/iso/19115/-3/mmi/1.0" xmlns:mpc="http://standards.iso.org/iso/19115/-3/mpc/1.0" xmlns:mrc="http://standards.iso.org/iso/19115/-3/mrc/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:mrs="http://standards.iso.org/iso/19115/-3/mrs/1.0" xmlns:msr="http://standards.iso.org/iso/19115/-3/msr/1.0" xmlns:mdq="http://standards.iso.org/iso/19157/-2/mdq/1.0" xmlns:dqc="http://standards.iso.org/iso/19157/-2/dqc/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<mdb:defaultLocale>
+		<lan:PT_Locale>
+			<lan:language>
+				<lan:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">eng</lan:LanguageCode>
+			</lan:language>
+			<lan:country>
+				<lan:CountryCode codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US">US</lan:CountryCode>
+			</lan:country>
+		</lan:PT_Locale>
+	</mdb:defaultLocale>
+	<mdb:metadataScope>
+		<mdb:MD_MetadataScope>
+			<mdb:resourceScope>
+				<mcc:MD_ScopeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</mcc:MD_ScopeCode>
+			</mdb:resourceScope>
+			<mdb:name>
+				<gco:CharacterString>dataset</gco:CharacterString>
+			</mdb:name>
+		</mdb:MD_MetadataScope>
+	</mdb:metadataScope>
+	<mdb:contact>
+		<cit:CI_Responsibility>
+			<cit:role>
+				<cit:CI_RoleCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</cit:CI_RoleCode>
+			</cit:role>
+			<cit:party>
+				<cit:CI_Organisation>
+					<cit:name>
+						<gco:CharacterString>Minnesota Cooperative Fish and Wildlife Research Unit, University of Minnesota</gco:CharacterString>
+					</cit:name>
+					<cit:contactInfo>
+						<cit:CI_Contact>
+							<cit:address>
+								<cit:CI_Address>
+									<cit:deliveryPoint>
+										<gco:CharacterString>200 Hodson Hall, 1980 Folwell Ave.</gco:CharacterString>
+									</cit:deliveryPoint>
+									<cit:city>
+										<gco:CharacterString>St. Paul</gco:CharacterString>
+									</cit:city>
+									<cit:administrativeArea>
+										<gco:CharacterString>Minnesota </gco:CharacterString>
+									</cit:administrativeArea>
+									<cit:postalCode>
+										<gco:CharacterString>55108</gco:CharacterString>
+									</cit:postalCode>
+									<cit:country>
+										<lan:CountryCode codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US">US</lan:CountryCode>
+									</cit:country>
+									<cit:electronicMailAddress>
+										<gco:CharacterString>gunnarrkramer@gmail.com</gco:CharacterString>
+									</cit:electronicMailAddress>
+								</cit:CI_Address>
+							</cit:address>
+						</cit:CI_Contact>
+					</cit:contactInfo>
+					<cit:individual>
+						<cit:CI_Individual>
+							<cit:name>
+								<gco:CharacterString>Gunnar R. Kramer</gco:CharacterString>
+							</cit:name>
+						</cit:CI_Individual>
+					</cit:individual>
+				</cit:CI_Organisation>
+			</cit:party>
+		</cit:CI_Responsibility>
+	</mdb:contact>
+	<mdb:dateInfo>
+		<cit:CI_Date>
+			<cit:date>
+				<gco:DateTime>2024-02-14T00:00:00</gco:DateTime>
+			</cit:date>
+			<cit:dateType>
+				<cit:CI_DateTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_DateTypeCode" codeListValue="revision">revision</cit:CI_DateTypeCode>
+			</cit:dateType>
+		</cit:CI_Date>
+	</mdb:dateInfo>
+	<mdb:metadataStandard>
+		<cit:CI_Citation>
+			<cit:title>
+				<gco:CharacterString>ISO 19115-3 Geographic Information - Metadata - Part 1: Fundamentals</gco:CharacterString>
+			</cit:title>
+			<cit:edition>
+				<gco:CharacterString>2019</gco:CharacterString>
+			</cit:edition>
+		</cit:CI_Citation>
+	</mdb:metadataStandard>
+	<mdb:spatialRepresentationInfo>
+		<msr:MD_VectorSpatialRepresentation>
+			<msr:topologyLevel>
+				<msr:MD_TopologyLevelCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly">geometryOnly</msr:MD_TopologyLevelCode>
+			</msr:topologyLevel>
+			<msr:geometricObjects>
+				<msr:MD_GeometricObjects>
+					<msr:geometricObjectType>
+						<msr:MD_GeometricObjectTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite">composite</msr:MD_GeometricObjectTypeCode>
+					</msr:geometricObjectType>
+					<msr:geometricObjectCount>
+						<gco:Integer>228</gco:Integer>
+					</msr:geometricObjectCount>
+				</msr:MD_GeometricObjects>
+			</msr:geometricObjects>
+		</msr:MD_VectorSpatialRepresentation>
+	</mdb:spatialRepresentationInfo>
+	<mdb:referenceSystemInfo>
+		<mrs:MD_ReferenceSystem>
+			<mrs:referenceSystemIdentifier>
+				<mcc:MD_Identifier>
+					<mcc:code>
+						<gco:CharacterString>26915</gco:CharacterString>
+					</mcc:code>
+					<mcc:codeSpace>
+						<gco:CharacterString>EPSG</gco:CharacterString>
+					</mcc:codeSpace>
+					<mcc:version>
+						<gco:CharacterString>6.11(3.0.1)</gco:CharacterString>
+					</mcc:version>
+				</mcc:MD_Identifier>
+			</mrs:referenceSystemIdentifier>
+		</mrs:MD_ReferenceSystem>
+	</mdb:referenceSystemInfo>
+	<mdb:identificationInfo>
+		<mri:MD_DataIdentification>
+			<mri:citation>
+				<cit:CI_Citation>
+					<cit:title>
+						<gco:CharacterString>Study Area Cover Type</gco:CharacterString>
+					</cit:title>
+					<cit:date>
+						<cit:CI_Date>
+							<cit:date>
+								<gco:DateTime>2019-01-01T00:00:00</gco:DateTime>
+							</cit:date>
+							<cit:dateType>
+								<cit:CI_DateTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
+							</cit:dateType>
+						</cit:CI_Date>
+					</cit:date>
+					<cit:presentationForm>
+						<cit:CI_PresentationFormCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#CI_PresentationFormCode" codeListValue="mapDigital">mapDigital</cit:CI_PresentationFormCode>
+					</cit:presentationForm>
+				</cit:CI_Citation>
+			</mri:citation>
+			<mri:abstract>
+				<gco:CharacterString>Hand-digitized cover-type classification of study area at Tamarac NWR, Minnesota, USA. Digitization was based on 1-m resolution digital orthophoto quadrangles (2009; Minnesota Department of Natural Resources). Shapefile is in NAD 1983 UTM Zone 15N projected coordinate system. "GRIDCODE" values are as follows: 0 = non-nesting area, 1 = upland shrubland, 2 = grassland, 3 = wetland shrubland, 4 = mature forest, 5 = forested wetland.</gco:CharacterString>
+			</mri:abstract>
+			<mri:purpose>
+				<gco:CharacterString>Data supporting the comparison of golden-winged warbler and American woodcock productivity in northern Minnesota, USA.</gco:CharacterString>
+			</mri:purpose>
+			<mri:credit>
+				<gco:CharacterString>Principal Investigator Contact Information
+   Name: Gunnar R. Kramer
+   Institution: Minnesota Cooperative Fish and Wildlife Research Unit, University of Minnesota
+   Address: 200 Hodson Hall, 1980 Folwell Ave., St. Paul, Minnesota 55108
+   Email: gunnarrkramer@gmail.com
+   *Current institution: Department of Environmental Sciences, University of Toledo
+
+Associate or Co-investigator Contact
+   Name: Sean M. Peterson
+   Institution: Minnesota Cooperative Fish and Wildlife Research Unit, University of Minnesota 
+   *Current institution: University of California - Berkeley
+
+Associate or Co-investigator Contact
+   Name: Kyle O. Daly
+   Institution: Minnesota Cooperative Fish and Wildlife Research Unit, University of Minnesota
+   *Current address: U.S. Fish and Wildlife Service, Wildlife and Sport Fish Restoration Program, Bloomington, Minnesota
+
+Associate or Co-investigator Contact
+   Name: Henry M. Streby 
+   Institution: Department of Environmental Sciences, University of Toledo
+
+Associate or Co-investigator Contact
+   Name: David E. Andersen
+   Institution: U.S. Geological Survey, Minnesota Cooperative Fish and Wildlife Research Unit</gco:CharacterString>
+			</mri:credit>
+			<mri:spatialRepresentationType>
+				<mcc:MD_SpatialRepresentationTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</mcc:MD_SpatialRepresentationTypeCode>
+			</mri:spatialRepresentationType>
+			<mri:topicCategory>
+				<mri:MD_TopicCategoryCode>biota</mri:MD_TopicCategoryCode>
+			</mri:topicCategory>
+			<mri:topicCategory>
+				<mri:MD_TopicCategoryCode>environment</mri:MD_TopicCategoryCode>
+			</mri:topicCategory>
+			<mri:extent>
+				<gex:EX_Extent>
+					<gex:geographicElement>
+						<gex:EX_GeographicBoundingBox>
+							<gex:extentTypeCode>
+								<gco:Boolean>true</gco:Boolean>
+							</gex:extentTypeCode>
+							<gex:westBoundLongitude>
+								<gco:Decimal>-95.59511</gco:Decimal>
+							</gex:westBoundLongitude>
+							<gex:eastBoundLongitude>
+								<gco:Decimal>-95.554385</gco:Decimal>
+							</gex:eastBoundLongitude>
+							<gex:southBoundLatitude>
+								<gco:Decimal>46.997013</gco:Decimal>
+							</gex:southBoundLatitude>
+							<gex:northBoundLatitude>
+								<gco:Decimal>47.024869</gco:Decimal>
+							</gex:northBoundLatitude>
+						</gex:EX_GeographicBoundingBox>
+					</gex:geographicElement>
+				</gex:EX_Extent>
+			</mri:extent>
+			<mri:descriptiveKeywords>
+				<mri:MD_Keywords>
+					<mri:keyword>
+						<gco:CharacterString>golden-winged warbler</gco:CharacterString>
+					</mri:keyword>
+					<mri:type>
+						<mri:MD_KeywordTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#napMD_KeywordTypeCode" codeListValue="theme">theme</mri:MD_KeywordTypeCode>
+					</mri:type>
+				</mri:MD_Keywords>
+			</mri:descriptiveKeywords>
+			<mri:descriptiveKeywords>
+				<mri:MD_Keywords>
+					<mri:keyword>
+						<gco:CharacterString>Minnesota</gco:CharacterString>
+					</mri:keyword>
+					<mri:type>
+						<mri:MD_KeywordTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#napMD_KeywordTypeCode" codeListValue="place">place</mri:MD_KeywordTypeCode>
+					</mri:type>
+				</mri:MD_Keywords>
+			</mri:descriptiveKeywords>
+			<mri:descriptiveKeywords>
+				<mri:MD_Keywords>
+					<mri:keyword>
+						<gco:CharacterString>Tamarac NWR</gco:CharacterString>
+					</mri:keyword>
+					<mri:type>
+						<mri:MD_KeywordTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#napMD_KeywordTypeCode" codeListValue="place">place</mri:MD_KeywordTypeCode>
+					</mri:type>
+				</mri:MD_Keywords>
+			</mri:descriptiveKeywords>
+			<mri:descriptiveKeywords>
+				<mri:MD_Keywords>
+					<mri:keyword>
+						<gco:CharacterString>Downloadable Data</gco:CharacterString>
+					</mri:keyword>
+					<mri:thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+				</mri:MD_Keywords>
+			</mri:descriptiveKeywords>
+			<mri:resourceConstraints>
+				<mco:MD_Constraints>
+					<mco:useLimitation>
+						<gco:CharacterString>Attribution-NonCommercial-ShareAlike 3.0 United States</gco:CharacterString>
+					</mco:useLimitation>
+				</mco:MD_Constraints>
+			</mri:resourceConstraints>
+			<mri:associatedResource>
+				<mri:MD_AssociatedResource>
+					<mri:name>
+						<cit:CI_Citation>
+							<cit:title>
+								<gco:CharacterString>Data supporting the comparison of golden-winged warbler and American woodcock productivity in northern Minnesota, USA.</gco:CharacterString>
+							</cit:title>
+						</cit:CI_Citation>
+					</mri:name>
+					<mri:associationType>
+						<mri:DS_AssociationTypeCode codeList="standards.iso.org/19115/-3/lan/1.0/codelists.xml#DS_AssociationTypeCode" codeListValue="collectiveTitle">collectiveTitle</mri:DS_AssociationTypeCode>
+					</mri:associationType>
+				</mri:MD_AssociatedResource>
+			</mri:associatedResource>
+			<mri:defaultLocale>
+				<lan:PT_Locale>
+					<lan:language>
+						<lan:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng">eng</lan:LanguageCode>
+					</lan:language>
+					<lan:country>
+						<lan:CountryCode codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US">US</lan:CountryCode>
+					</lan:country>
+					<lan:characterEncoding gco:nilReason="unknown"/>
+				</lan:PT_Locale>
+			</mri:defaultLocale>
+			<mri:environmentDescription>
+				<gco:CharacterString>Microsoft Windows 10 Version 10.0 (Build 22621) ; Esri ArcGIS 13.1.3.41833</gco:CharacterString>
+			</mri:environmentDescription>
+		</mri:MD_DataIdentification>
+	</mdb:identificationInfo>
+	<mdb:distributionInfo>
+		<mrd:MD_Distribution>
+			<mrd:distributionFormat>
+				<mrd:MD_Format>
+					<mrd:formatSpecificationCitation>
+						<cit:CI_Citation>
+							<cit:title>
+								<gco:CharacterString>Shapefile</gco:CharacterString>
+							</cit:title>
+						</cit:CI_Citation>
+					</mrd:formatSpecificationCitation>
+				</mrd:MD_Format>
+			</mrd:distributionFormat>
+			<mrd:transferOptions>
+				<mrd:MD_DigitalTransferOptions>
+					<mrd:transferSize>
+						<gco:Real>0.165</gco:Real>
+					</mrd:transferSize>
+				</mrd:MD_DigitalTransferOptions>
+			</mrd:transferOptions>
+		</mrd:MD_Distribution>
+	</mdb:distributionInfo>
+</mdb:MD_Metadata>
