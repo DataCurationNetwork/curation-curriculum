@@ -19,7 +19,7 @@ All files in this dataset are related to teaching the curriculum. The files are 
 
 Exercise Materials : 
 
-This folder contains three other folders:  [1\_4\_Exercise\_Data](<Exercise Materials\1-4_Exercise_Dataset>) is for exercise activities in modules 1-4.  [5\_GIS\_Transformations](<Exercise Materials\5_GIS_Transformations>) is for exercise activities in module 5. [0\_Environment_Setup_Datasets](<Exercise Materials\0_Environment_Setup_Datasets>) is for setting up the environment.
+This folder contains three other folders:  [1\_4\_Exercise\_Data](https://github.com/DataCurationNetwork/curation-curriculum/tree/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1-4_Excercise_Dataset) is for exercise activities in modules 1-4.  [5\_GIS\_Transformations](https://github.com/DataCurationNetwork/curation-curriculum/tree/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/5_GIS_Tranformations) is for exercise activities in module 5. [0\_Environment_Setup_Datasets](https://github.com/DataCurationNetwork/curation-curriculum/tree/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/0_Environment_Setup_Datsets) is for setting up the environment.
 
 [0\_Environment\_Setup\_Handout.pdf](<0_Environment_Setup_Handout.pdf>) This handout is provided to attendees as supplemental information to the environmental set up.
 
@@ -27,33 +27,33 @@ This folder contains three other folders:  [1\_4\_Exercise\_Data](<Exercise Mate
 
 Instructor Notes (folder)
 
-[0\_Environment\_Setup\_Instructor\_Notes.pdf](<Instructor Notes\0_Environment_Setup_Instructor_Notes.pdf>) - These notes guide the instructor on leading attendees through the software installation and data downloads. If students are doing this asynchronously, relevant notes can be added as a message.
+[0\_Environment\_Setup\_Instructor\_Notes.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/0_Environment_Setup_Instructor_Notes.pdf) - These notes guide the instructor on leading attendees through the software installation and data downloads. If students are doing this asynchronously, relevant notes can be added as a message.
 
-[1\_GIS\_Introduction\_Instructor\_Notes.pdf](<Instructor Notes\1_GIS_Introduction_Instructor_Notes.pdf>) - These notes guide the instructor through the Introduction presentation.
+[1\_GIS\_Introduction\_Instructor\_Notes.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/1_GIS_Introduction_Instructor_Notes.pdf) - These notes guide the instructor through the Introduction presentation.
 
-[2\_Ethics\_and\_GIS\_Data\_Instructor\_Notes.pdf](<Instructor Notes\2_Ethics_and_GIS_Data_Instructor_Notes.pdf>) - These notes guide the instructor the Ethics and GIS presentation.
+[2\_Ethics\_and\_GIS\_Data\_Instructor\_Notes.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/2_Ethics_and_GIS_Data_Instructor_Notes.pdf) - These notes guide the instructor the Ethics and GIS presentation.
 
-[3\_Common\_GIS\_Data\_Types\_Instructor\_Notes.pdf](<Instructor Notes\3_Common_GIS_Data_Types_Instructor_Notes.pdf>) - These notes guide the instructor through the Common GIS Data Types presentation.
+[3\_Common\_GIS\_Data\_Types\_Instructor\_Notes.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/3_Common_GIS_Data_Types_Instructor_Notes.pdf) - These notes guide the instructor through the Common GIS Data Types presentation.
 
-[4\_GIS\_Metadata\_Instructor\_Notes.pdf](<Instructor Notes\4_GIS_Metadata_Instructor_Notes.pdf>) - These notes guide the instructor through the Metadata Presentation
+[4\_GIS\_Metadata\_Instructor\_Notes.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/4_GIS_Metadata_Instructor_Notes.pdf) - These notes guide the instructor through the Metadata Presentation
 
-[5\_Transformations\_Instructor\_Notes.pdf](<Instructor Notes\5_Transformations_Instructor_Notes.pdf>)  - These notes guide the instructor through the Transformation presentation.
+[5\_Transformations\_Instructor\_Notes.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/5_Transformations_Instructor_Notes.pdf)  - These notes guide the instructor through the Transformation presentation.
 
 Lecture Slides (folder)
 
-[0\_Environment\_Setup.pdf](<Lecture Slides\0_Environment_Setup.pdf>) - This presentation will take attendees through the software installation and data downloads. This can be used asynchronously by the attendee if used as pre-instruction work, or synchronously as the instructor leads attendees through it.
+[0\_Environment\_Setup.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/0_Environment_Setup.pdf) - This presentation will take attendees through the software installation and data downloads. This can be used asynchronously by the attendee if used as pre-instruction work, or synchronously as the instructor leads attendees through it.
 
-[1\_GIS\_Introduction.pdf](<Lecture Slides\1_GIS_Introduction.pdf>) - This presentation provides a high-level introduction to GIS concepts
+[1\_GIS\_Introduction.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/1_GIS_Introduction.pdf) - This presentation provides a high-level introduction to GIS concepts
 
-[2\_Ethics\_and\_GIS\_Data.pdf](<Lecture Slides\2_Ethics_and_GIS_Data.pdf>) - This presentation provides a high-level introduction to ethical issues around location information and how to address sensitive data in a geospatial dataset.
+[2\_Ethics\_and\_GIS\_Data.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/2_Ethics_and_GIS_Data.pdf) - This presentation provides a high-level introduction to ethical issues around location information and how to address sensitive data in a geospatial dataset.
 
 
 
-[3\_Common\_GIS\_Data\_Types.pdf](<Lecture Slides\3_Common_GIS_Data_Types.pdf>) - This presentation provides an introduction to various data structures and datatypes used in  geospatial research including tabular (e.g., .csv) vector (e.g. shape files) raster datasets (such .tif), and databases (.gdb). It describes the anatomy and usages.
+[3\_Common\_GIS\_Data\_Types.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/3_Common_GIS_Data_Types.pdf) - This presentation provides an introduction to various data structures and datatypes used in  geospatial research including tabular (e.g., .csv) vector (e.g. shape files) raster datasets (such .tif), and databases (.gdb). It describes the anatomy and usages.
 
-[4\_GIS\_Metadata.pdf](<Lecture Slides\4_GIS_Metadata.pdf>) - This presentation provides an introduction to standards and best practices for describing geospatial data. It will guide the student to locate geospatial metadata in the datasets, as well as defining essential documentation.
+[4\_GIS\_Metadata.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/4_GIS_Metadata.pdf) - This presentation provides an introduction to standards and best practices for describing geospatial data. It will guide the student to locate geospatial metadata in the datasets, as well as defining essential documentation.
 
-[5\_Transformations.pdf](<Lecture Slides\5_Transformations.pdf>) - A slide deck which describes transformations that curators might consider to ensure files are in a common format, as well as describing some disadvantages to those transformations. It guides students through a vector transformation.
+[5\_Transformations.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/5_Transformations.pdf) - A slide deck which describes transformations that curators might consider to ensure files are in a common format, as well as describing some disadvantages to those transformations. It guides students through a vector transformation.
 
 
 
