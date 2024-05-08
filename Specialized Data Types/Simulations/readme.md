@@ -19,8 +19,8 @@ This curriculum was developed by the geospatial cohort for the Data Curation Net
 
 Exercise Materials (folder): 
 
-[Simulations\_CuratorLog\_Example\_20230929.pdf](<Exercise Materials\Simulations_CuratorLog_Example_20230929.pdf>) - An example of a completed Curator Log
+[Simulations\_CuratorLog\_Example\_20230929.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/005dd48da6f027e016c72624f6b48950d348f3b0/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Example_20230929.pdf) - An example of a completed Curator Log
 
-[Simulations\_CuratorLog\_Template.txt](<Exercise Materials\Simulations_CuratorLog_Template.txt>) - A template for a Curator Log
+[Simulations\_CuratorLog\_Template.txt](https://github.com/DataCurationNetwork/curation-curriculum/blob/005dd48da6f027e016c72624f6b48950d348f3b0/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt) - A template for a Curator Log
 
-[Simulations\_Worksheet\_EvaluatingDataQuality.pdf](<Exercise Materials\Simulations_Worksheet_EvaluatingDataQuality.pdf>) - A workshop for evaluating the quality of simulations data
+[Simulations\_Worksheet\_EvaluatingDataQuality.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/005dd48da6f027e016c72624f6b48950d348f3b0/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_Worksheet_EvaluatingDataQuality.pdf) - A workshop for evaluating the quality of simulations data
