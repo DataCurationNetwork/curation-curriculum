@@ -284,7 +284,7 @@ short activity and small group discussion about checking file format -
 fields for generalist vs. specialized repositories. Is the data
 appropriate to be shared?</p>
 <p>Please use the worksheet <a
-href="https://docs.google.com/document/d/18SNQdQqgu8DCLlcDzmDQGATHlJMZLqkxAyD4yoRL0HM/edit?usp=sharing"><u>here</u></a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/1-Check_worksheet.pdf"><u>here</u></a>
 to assist with the activity.</p></td>
 </tr>
 <tr class="odd">
@@ -308,7 +308,7 @@ each other spatially, if at all?”.</p>
 up the list to search for answers. Answers should be referenced, and
 answers that cannot be found should be tallied for the Request step.
 Please use the worksheet <a
-href="https://docs.google.com/document/d/1M58F8LgI-S6XtusuwZLfwZ2sNTsVmu7Pg7Ce3KprfCo/edit?usp=sharing"><u>here</u></a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/2-Understand_worksheet.pdf"><u>here</u></a>
 to assist with the activity.</p>
 <p>Please save the list of questions and answers for the
 Documentation.</p></td>
@@ -335,7 +335,7 @@ for <em>Request</em>. The group members should now draft a communication
 with the data submitter requesting missing information identified
 previously, using the Request more information letter (a completed
 example/template letter <a
-href="https://docs.google.com/document/d/1anCUbR51lmyAg1hpJAv_IjXQGcnYeduREHiy0N7kKe0/edit?usp=sharing"><u>here</u></a>).</p></td>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/3-Request_worksheet.pdf"><u>here</u></a>).</p></td>
 </tr>
 <tr class="odd">
 <td><h3 id="augment-step">Augment Step</h3></td>

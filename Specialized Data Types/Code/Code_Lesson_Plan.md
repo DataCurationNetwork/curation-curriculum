@@ -40,7 +40,7 @@ href="https://github.com/DataCurationNetwork/data-primers/blob/master/SPSS%20Dat
 </tr>
 <tr class="odd">
 <td><strong>Link to Slides</strong></td>
-<td><u>Code Lecture Slides</u></td>
+<td><a href="https://docs.google.com/presentation/d/1NmwxppuUjVMmBYGwZJW1dU1wIByAFmKw0lGCeCfk0Fk/edit?usp=sharing">Code Lecture Slides</a></td>
 </tr>
 <tr class="even">
 <td><strong>Date created</strong></td>
@@ -376,9 +376,9 @@ the submission.</p></td>
 </tr>
 <tr class="even">
 <td><ul>
-<li><p>Curating Code Checklist</p></li>
-<li><p>Code Deposit Example Files (discussed in presentation)</p></li>
-<li><p>References</p></li>
+<li><p><a href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Code/Exercise%20Materials/Code_CurationChecklist.pdf">Curating Code Checklist</a></p></li>
+<li><p><a href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Code/Exercise%20Materials/code-deposit-example.zip">Code Deposit Example Files (discussed in presentation)</a></p></li>
+<li><p><a href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Code/References.pdf">References</a></p></li>
 </ul></td>
 </tr>
 </tbody>
