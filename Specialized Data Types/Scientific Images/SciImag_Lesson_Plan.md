@@ -352,7 +352,7 @@ for the “missing pieces” previously identified in the Understand step.
 Working collaboratively, the participants of each group will determine
 how and where to augment the dataset metadata and documentation to
 include the missing elements. Please use the worksheet <a
-href="https://docs.google.com/document/d/1kTO_UAGjJeSGeGqb1nzZttQ1t-y_GCmiTF4y948c1Ck/edit?usp=sharing"><u>here</u></a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/4-Augment_worksheet.pdf"><u>here</u></a>
 to assist with the activity.</p></td>
 </tr>
 <tr class="odd">
@@ -389,9 +389,9 @@ href="http://guides.library.cornell.edu/ecommons/formats"><u>http://guides.libra
 href="https://www.loc.gov/preservation/digital/formats/content/still.shtml"><u>https://www.loc.gov/preservation/digital/formats/content/still.shtml</u></a></p>
 <p>Use the worksheets here for transformation activities:</p>
 <p>Complete activity on your own: <a
-href="https://docs.google.com/document/u/0/d/1Ip420S9vQbaeA8toZWvIFoZCnEmrVAWUy5_ZXNWsLfc/edit"><u>5-Transform_worksheet_no_results</u></a></p>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/5-Transform_worksheet.pdf"><u>5-Transform_worksheet_no_results</u></a></p>
 <p>Follow along: <a
-href="https://docs.google.com/document/u/0/d/1souFAHdXsaDW6ZbnaffR4YKYVJsJiv1cv1bzWLEDuQ4/edit"><u>5-Transform_worksheet</u></a></p></td>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/5-Transform_worksheet.pdf"><u>5-Transform_worksheet</u></a></p></td>
 </tr>
 <tr class="odd">
 <td><h3 id="evaluate-step">Evaluate Step</h3></td>
@@ -408,7 +408,7 @@ group/table discussions evaluating the spiral eutectics dataset
 according to the FAIR checklist, and whether the CARE Principles apply
 to this dataset (or may apply to scientific image data in general).</p>
 <p>Use <a
-href="https://docs.google.com/document/d/1AkkuiO0bfBPCu-ofY8FLEKm07aVqyeI93rpAOv2aJaY/edit"><u>6-Evaluate_discussion</u></a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/6-Evaluate_discussion.pdf"><u>6-Evaluate_discussion</u></a>
 to guide your discussions.</p></td>
 </tr>
 <tr class="odd">

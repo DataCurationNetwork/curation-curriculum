@@ -148,7 +148,7 @@ curate simulation data</p>
 <p>c: file formats</p>
 <p>e: licensing, data use agreements</p>
 <p><strong>Terms to Know:</strong> <a
-href="https://docs.google.com/document/d/1UDn-wnp-XY9eRY1wmsHxSIme2dozndsbnOR6ePJx5Mo/edit?usp=drive_link"><u>See
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Simulations_glossary.pdf"><u>See
 Glossary</u></a></p></td>
 </tr>
 </tbody>
@@ -919,12 +919,12 @@ href="https://doi.org/10.3389/fclim.2021.763420"><u>https://doi.org/10.3389/fcli
 Replicability. <a
 href="https://zoidy.shinyapps.io/ModelDataRubric/"><u>https://zoidy.shinyapps.io/ModelDataRubric/#</u></a></p>
 <p><a
-href="https://drive.google.com/file/d/1ZcHG6Qeryv07kNqwuoIa8mfoIxkE1-R1/view?usp=drive_link"><u>CuratorLog.txt</u></a></p>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt"><u>CuratorLog.txt</u></a></p>
 <p><a
-href="https://docs.google.com/document/d/1xEFuyiSOoL0DQ5cePIM2kpg5p5U87EWNUGMkfwBrzfw/edit"><u>CuratorLog.google</u></a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt"><u>CuratorLog.google</u></a>
 (make a copy for yourself)</p>
 <p><a
-href="https://docs.google.com/document/d/1y25IJ4N0lScMKd63fOiUfHl2Vw-_k9jXIHsq6SxrRJE/edit?usp=drive_link"><u>Sample
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Example_20230929.pdf"><u>Sample
 completed/redacted Curator Log</u></a></p>
 <p><a
 href="https://drive.google.com/file/d/1UEa_fIfWRPgKYf2wstQy9siF3gc4VxX1/view?usp=drive_link"><u>Worksheet
