@@ -1,0 +1,75 @@
+﻿Dataset title:
+
+
+-----------
+Submission Contact Info: 
+Name: 
+Position: 
+Department: 
+Office Location: 
+URL: 
+e-mail/NetID: 
+phone: 
+
+
+
+
+-----------
+Owner/Author Info (if different):
+Name: 
+Position: 
+Department: 
+Office Location:  
+URL: 
+email/NetID: 
+phone: 
+
+
+-----------
+Repository:
+eCommons
+
+
+-----------
+Community/Collection URLs:
+Item Handle:
+Item DOI:
+Item Citation:
+
+
+-----------
+RDMSG Help Ticket #, if appropriate:
+
+
+-----------
+Curator: 
+
+
+-----------
+Files in Initial Archive:
+
+
+List changes:
+Added files?:
+Deleted files?:
+
+
+-----------
+Metadata Changes:
+
+
+List changes, why:
+Metadata added or removed?:
+
+
+
+
+-----------
+Other Curator Notes:
+-Newest At Top-
+
+
+ 
+-----------
+Correspondence Notes:
+(Email summaries, or paste responses to questions)
