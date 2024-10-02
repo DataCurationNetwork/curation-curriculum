@@ -105,114 +105,71 @@ href="https://doi.org/10.7302/day1-6d63">https://doi.org/10.7302/day1-6d63</a>
 # Outline and Content 
 
 
-<ol type="I">
 - Introduction
-<ol type="A">
-- Aims
-- Curator Log
-- What are scientific images?
-- Software Roundup &amp; Get ImageJ Running
-</ol>
+	- Aims
+	- Curator Log
+	- What are scientific images?
+	- Software Roundup & Get ImageJ Running
 - Check
-<ol type="A">
-- Introduce Check Worksheet
-- Activity: file format, general requirements
-</ol>
+	- Introduce Check Worksheet
+	- Activity: file format, general requirements
 - Understand
-<ol type="A">
-- Introduction to Understand step
-- Think-pair-share activity
-<ol type="1">
-- Review of questions needed to understand data
-<ol type="a">
-- Share out 1 :
-<ol type="1">
-- Did the data pass the Check step?
-</ol>
-</ol>
-- Digging Deeper
-<ol type="a">
-- Share out 2:
-<ol type="1">
-- What didn’t you understand about the dataset?
-</ol>
-</ol>
-</ol>
-</ol>
+	- Introduction to Understand step
+	- Think-pair-share activity
+		- Review of questions needed to understand data
+			- Share out 1 : Did the data pass the Check step?
+		- Digging Deeper
+			- Share out 2: What didn’t you understand about the dataset?
 - Request
-<ol type="A">
-- Introduce the Request step
-- Example Request step email template
-- Request step Activity
-<ol type="1">
-- Group role-play activity &amp; report back;
-*or*
-- Group AI activity &amp; report back
-</ol>
-</ol>
+	- Introduce the Request step
+	- Example Request step email template
+	- Request step Activity
+		- Group role-play activity & report back;
+		- Group AI activity & report back
 - Augment
-<ol type="A">
-- Introduction
-- What is metadata?
-- Considerations
-</ol>
+	- Introduction
+	- What is metadata?
+	- Considerations
 - Transformation
-<ol type="A">
-- Introduction with example
-- Transformation activity &amp; group discussion
-</ol>
+	- Introduction with example
+	- Transformation activity & group discussion
 - Evaluate
-</ol>
-<ol type="A">
-- Introduction to FAIR &amp; CARE
-- Evaluate exercise
-</ol>
-<ol start="8" type="I">
+	- Introduction to FAIR & CARE
+	- Evaluate exercise
 - Document
-<ol type="A">
-- Group Discussion about Curator Log contents
-</ol>
+	- Group Discussion about Curator Log contents
 - Review and Summary
-<ol type="A">
 - Questions
-</ol>
-</ol>
 
 
-<h3 id="introduction">Introduction</h3>
-
-
-Mode(s): Lecture
+## Introduction 
+Mode(s): Lecture <br>
 Estimated time: 15 minutes
-Describe aims of the workshop, introduce the curator log, define and
+Describe aims of the workshop, <br>introduce the curator log, define and
 describe what scientific images are and review important software to
 view and manipulate images.
 
 
-<h3 id="check-step">Check Step </h3>
-
-
+## Check Step
 Mode(s): Lecture, activity and small group
-discussion
-Estimated time: 30 minutes
+discussion<br>
+Estimated time: 30 minutes<br>
 Checking the data is the first step to determining if what
-has been submitted is curatable.
+has been submitted is curatable.<br>
 Lecture will introduce the steps to check files, then there will be a
 short activity and small group discussion about checking file format -
 (e.g., corrupt file, open-access file), and comparing different required
 fields for generalist vs. specialized repositories. Is the data
-appropriate to be shared?
+appropriate to be shared?<br>
 Please use the worksheet <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/1-Check_worksheet.pdf">here</a>
 to assist with the activity.
 
 
-<h3 id="understand-step">Understand Step</h3>
-
-
+## Understand Step
 Mode(s): Lecture, small group
-discussion
-Estimated time: 20 minutes
+discussion <br>
+Estimated time: 20 minutes <br>
 Understanding the data is an important step to ensure that
 the data content, context, and quality can be described accurately and
 precisely for someone else. Small group discussions will be used to
