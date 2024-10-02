@@ -99,7 +99,7 @@ by the input data (via training)
 
 # Lesson Outline and Content
 ## Introduction 
-Mode(s): Lecture
+Mode(s): Lecture <br>
 Estimated time: 20-25minutes
 
 ## Lesson intro
@@ -127,7 +127,7 @@ Exercise: "What I Know," "What I Want to Know," <del>and "What I
 Learned</del>. (KWL) KW mentimeter
 
 ## Document & Evaluate
-Mode(s): Lecture, download curation log template 
+Mode(s): Lecture, download curation log template <br>
 Estimated time: 5-10 minutes
 
 Lecture:
@@ -141,7 +141,7 @@ the datasets’ FAIRness, can it be made more FAIR, and how.
 
 
 ## Check step
-Mode(s):Lecture, independent exercise
+Mode(s):Lecture, independent exercise <br>
 Estimated time: 30 minutes
 
 Lecture:
@@ -215,7 +215,7 @@ not
 
 
 ## Understand Step
-Mode(s): Lecture
+Mode(s): Lecture <br>
 Estimated time: 25 minutes
 
 Lecture (25 minutes)
@@ -386,7 +386,7 @@ include a config_README
 
 ## Request Step
 
-Mode(s): Lecture, small group activity
+Mode(s): Lecture, small group activity <br>
 Estimated time: 20 minutes
 
 Lecture (5 minutes)
@@ -459,7 +459,7 @@ discuss together:
 similar experiences
 
 ## Augment Step
-Mode(s): Lecture and large group discussion
+Mode(s): Lecture and large group discussion <br>
 Estimated time: 10 minutes
 
 Metadata
@@ -475,7 +475,7 @@ attribution
 - licenses
 
 ## Transform Step 
-Mode(s): Lecture, independent exercise
+Mode(s): Lecture, independent exercise <br>
 Estimated time: 30 minutes
 
 When dealing with simulation data, it is often necessary to
@@ -586,9 +586,9 @@ problems"
 
 ## Wrap up
 
-Mode(s): independent exercise/Group
+Mode(s): independent exercise/Group <br>
 exercise
-Estimated time: 10 minutes</td>
+Estimated time: 10 minutes
 
 Exercise: "What I Learned. (KWL) and “What is still muddy” L M
 mentimeter
