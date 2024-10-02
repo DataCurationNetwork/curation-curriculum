@@ -5,35 +5,8 @@
 | ------------- | ------------- |
 | Data Type | Simulation Data, Simulation Models, Simulation Workflows |
 | Primary fields or areas of use  | <li>Oceanography and Atmospheric Sciences and Meteorology</li><li>Earth Sciences</li><li>Chemical Engineering</li><li>Astrophysics and Astronomy</li><li>Aerospace Engineering</li><li>Civil and Environmental Engineering</li><li>Physics</li><li>Chemistry</li><li>Climate</li> |
-| First Header  | Second Header |
-| First Header  | Second Header |
-| First Header  | Second Header |
-| First Header  | Second Header |
-| First Header  | Second Header |
-| First Header  | Second Header |
-
-
-
-
-</ul></td>
-</tr>
-<tr class="even">
-<td><strong>Common file formats</strong></td>
-<td><ul>
-<li>netCDF</li>
-<li>HDF, HDF5</li>
-<li>MAT</li>
-<li>.m</li>
-<li>.dat</li>
-<li>RData</li>
-<li>Tabular (.csv &amp; .xls)</li>
-<li>Text</li>
-<li>Other binary formats</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><strong>Summary</strong></td>
-<td>The curriculum covers a range of foundational background
+| Common file formats  | <li>netCDF</li><li>HDF, HDF5</li><li>MAT</li><li>.m</li><li>.dat</li><li>RData</li><li>Tabular (.csv &amp; .xls)</li><li>Text</li><li>Other binary formats</li> |
+| Summary  | The curriculum covers a range of foundational background
 information about what simulation data is and the pieces that make up
 simulation datasets. The workshop looks at two simulation datasets
 throughout and a third dataset when focusing on the Transform step. The
@@ -44,7 +17,22 @@ curriculum requires the slides for more detail.
 This curriculum assumes some prior knowledge of CURATE(D) and
 exposure curating scientific data. The size of the two datasets are 403
 MB and 2 GB and require the data to be downloaded onto a device such as
-Windows, OSX, or Linux.</td>
+Windows, OSX, or Linux. |
+| First Header  | Second Header |
+| First Header  | Second Header |
+| First Header  | Second Header |
+| First Header  | Second Header |
+
+
+
+
+
+
+</ul></td>
+</tr>
+<tr class="odd">
+<td><strong></strong></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><strong>Estimated time</strong></td>
