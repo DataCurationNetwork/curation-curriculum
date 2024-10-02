@@ -88,73 +88,42 @@ a set of initial data, a body of code processing the data and a
 resulting output
 	- input data → code → output data
 
-
-<li>All three elements need to be adequately described for curation
+- All three elements need to be adequately described for curation
 purposes
-<ul>
-<li><blockquote>
-the data archive might include only portions of the above three
-elements
-</blockquote></li>
-</ul></li>
-<li>Simulation models share many similarities to AI models. The
+	- the data archive might include only portions of the above three elements
+- Simulation models share many similarities to AI models. The
 former tend to be driven by mathematical models while the latter
 resemble a black box where the model is not known exactly and is driven
-by the input data (via training)</li>
-</ul></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+by the input data (via training)
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><h2 id="outline-and-content">Outline and Content</h2></td>
-</tr>
-<tr class="even">
-<td><h3 id="introduction">Introduction </h3></td>
-</tr>
-<tr class="odd">
-<td>Mode(s): Lecture
-Estimated time: 20-25
-minutes</td>
-</tr>
-<tr class="even">
-<td>Lesson intro
-<ul>
-<li>Introduce goals/objectives</li>
-<li>Scope
-<ul>
-<li>focus on conceptual aspects of curation</li>
-<li>no focus on specific file formats. Refer to other
-primers.</li>
-<li>no AI/ML</li>
-</ul></li>
-<li>Activity 1 (background questions)</li>
-</ul>
+
+# Lesson Outline and Content
+## Introduction 
+Mode(s): Lecture
+Estimated time: 20-25minutes
+
+## Lesson intro
+- Introduce goals/objectives
+- Scope
+	- focus on conceptual aspects of curation
+	- no focus on specific file formats. Refer to other primers.
+	- no AI/ML
+- Activity 1 (background questions)
+
 What is special about curating simulation models and data?
-<ul>
-<li>Key points of <a
-href="https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full">Open
-Science Expectations for Simulation-Based Research by Mullendore,
-Mayernik, and Shuster (2021)</a></li>
-<li>Key characteristics/unique elements of simulation data</li>
-<li>Simulation vs AI/ML</li>
-<li>Mention that CURATED is more for explanatory reasons, in reality,
-things happen non-linearly, steps might happen simultaneously</li>
-</ul>
+- Key points of <a href="https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full">Open Science Expectations for Simulation-Based Research by Mullendore, Mayernik, and Shuster (2021)</a>
+- Key characteristics/unique elements of simulation data
+- Simulation vs AI/ML
+- Mention that CURATED is more for explanatory reasons, in reality,
+things happen non-linearly, steps might happen simultaneously
+
 Simulation data and the CURATED curation model
-<ul>
-<li>Nothing special about the data themselves</li>
-<li>Lean heavily on other primers for tools and guides</li>
-<li>Especially code/software curation</li>
-</ul>
+- Nothing special about the data themselves
+- Lean heavily on other primers for tools and guides
+- Especially code/software curation
+
+
+
 Exercise: "What I Know," "What I Want to Know," <del>and "What I
 Learned</del>. (KWL) KW mentimeter</td>
 </tr>
