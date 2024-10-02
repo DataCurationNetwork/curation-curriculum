@@ -4,7 +4,7 @@
 | Lesson Components | Lesson Description |
 | ------------- | ------------- |
 | Data Type | Simulation Data, Simulation Models, Simulation Workflows |
-| First Header  | Second Header |
+| Primary fields or areas of use  | <li>Oceanography and Atmospheric Sciences and Meteorology</li><li>Earth Sciences</li><li>Chemical Engineering</li><li>Astrophysics and Astronomy</li><li>Aerospace Engineering</li><li>Civil and Environmental Engineering</li><li>Physics</li><li>Chemistry</li><li>Climate</li> |
 | First Header  | Second Header |
 | First Header  | Second Header |
 | First Header  | Second Header |
@@ -12,22 +12,9 @@
 | First Header  | Second Header |
 | First Header  | Second Header |
 
-<tr class="even">
-<td><strong>Data Type</strong></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><strong>Primary fields or areas of use</strong></td>
-<td><ul>
-<li>Oceanography and Atmospheric Sciences and Meteorology</li>
-<li>Earth Sciences</li>
-<li>Chemical Engineering</li>
-<li>Astrophysics and Astronomy</li>
-<li>Aerospace Engineering</li>
-<li>Civil and Environmental Engineering</li>
-<li>Physics</li>
-<li>Chemistry</li>
-<li>Climate</li>
+
+
+
 </ul></td>
 </tr>
 <tr class="even">
