@@ -78,35 +78,17 @@ Simulation Database. University of Illinois at Urbana-Champaign. <a
 href="https://doi.org/10.13012/B2IDB-6257171_V1">https://doi.org/10.13012/B2IDB-6257171_V1</a></td>
 
 
+# Outline/Overview of Simulation Data
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><h2 id="outlineoverview-of-simulation-data">Outline/Overview of
-Simulation Data</h2></td>
-</tr>
-<tr class="even">
-<td><table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><img src="media/image1.png" style="width:3.02083in;height:2.70833in"
-alt="Decorative image to show process of simulation data for curation purposes. Input data (initial conditions) -&gt; Code (model) -&gt;simulation output" /></td>
-<td><ul>
-<li>Simulations/models tend to follow a linear workflow process, e.g.
+<figure> <img src="simulations-1.png" alt="Decorative image to show process of simulation data for curation purposes. Input data (initial conditions), Code (model), simulation output." style=""> <fig caption>Figure 1: High-level overview of simulation data process for curation purposed.</figcaption> </figure> <br><br>
+
+
+- Simulations/models tend to follow a linear workflow process, e.g.
 a set of initial data, a body of code processing the data and a
 resulting output
-<ul>
-<li><blockquote>
-input data -&gt; code -&gt; output data
-</blockquote></li>
-</ul></li>
+	- input data → code → output data
+
+
 <li>All three elements need to be adequately described for curation
 purposes
 <ul>
