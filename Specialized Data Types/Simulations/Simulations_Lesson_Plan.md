@@ -9,41 +9,10 @@
 | Summary  | The curriculum covers a range of foundational background information about what simulation data is and the pieces that make up simulation datasets. The workshop looks at two simulation datasets throughout and a third dataset when focusing on the Transform step. The curriculum teaches learners to formulate high impact considerations that uncover traditional barriers to FAIR when curating simulation data. This curriculum leans to a high level overview of the workshop, the curriculum requires the slides for more detail. <br><br> This curriculum assumes some prior knowledge of CURATE(D) and exposure curating scientific data. The size of the two datasets are 403 MB and 2 GB and require the data to be downloaded onto a device such as Windows, OSX, or Linux. |
 | Estimated time  | 2.5 hours |
 | Related primers  | See published <a href="https://datacurationnetwork.org/outputs/data-curation-primers/">primers</a> <br><br> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md">Accessibility Data Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/PDF%20Data%20Curation%20Primer/PDF-data-curation-primer.md">Acrobat PDF Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Column%20Binary%20Data%20Curation%20Primer/column-binary-data-curation-primer.md">Column Binary Data Curation Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Jupyter%20Notebook%20Data%20Curation%20Primer/Jupyter%20Notebooks%20Data%20Curation%20Primer.md">Jupyter Notebooks Primer</a></li> <li><a href="https://deepblue.lib.umich.edu/handle/2027.42/154686">Matlab Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/MSAcess%20Data%20Curation%20Primer/MSAccessCopy2.md">Microsoft Access Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Excel%20Data%20Curation%20Primer/Excel%20Data%20Curation%20Primer.md">Microsoft Excel Primer</a></li> <li><a href="https://deepblue.lib.umich.edu/handle/2027.42/145724">netCDF Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/R%20Data%20Curation%20Primer/R-data-curation-primer.md">R Primer</a></li> |
-| First Header  | Second Header |
-| First Header  | Second Header |
+| Link to Slides  | Slide Deck: <a href="https://docs.google.com/presentation/d/1QUE-AdhvZZFzDQhe3SGfrPBtmL-dex6mb06wMVYwBkg/edit?usp=sharing">Curating simulation-based research</a> |
+| Date Created | July 2023 |
+| Created By | L. Wynholds, UCLA, https://orcid.org/0000-0002-9066-9773<br>Heather Shimon, University of Wisconsin-Madison, https://orcid.org/0000-0002-4395-0132<br>Fernando Rios, University of Arizona, https://orcid.org/0000-0001-6262-3260<br> Girmaye Misgna, University of Pennsylvania<br> Wanda Marsolek, University of Minnesota, https://orcid.org/0000-0002-1771-3969 |
 
-
-
-
-
-
-
-
-
-
-</ul></td>
-</tr>
-<tr class="even">
-<td><strong>Link to Slides</strong></td>
-<td>Curating simulation-based research</td>
-</tr>
-<tr class="odd">
-<td><strong>Date created</strong></td>
-<td>July 2023</td>
-</tr>
-<tr class="even">
-<td><strong>Created by</strong></td>
-<td>L. Wynholds, UCLA, https://orcid.org/0000-0002-9066-9773
-Heather Shimon, University of Wisconsin-Madison,
-https://orcid.org/0000-0002-4395-0132
-Fernando Rios, University of Arizona,
-https://orcid.org/0000-0001-6262-3260
-Girmaye Misgna, University of Pennsylvania
-Wanda Marsolek, University of Minnesota, <a
-href="https://orcid.org/0000-0002-1771-3969">https://orcid.org/0000-0002-1771-3969</a></td>
-</tr>
-</tbody>
-</table>
 
 # Objectives and Vocabulary
 
