@@ -115,24 +115,25 @@ href="https://orcid.org/0000-0002-1771-3969"><u>https://orcid.org/0000-0002-1771
 Learning Objectives:
 1. Participants will gain a basic understanding of simulation data
 and simulation-based research for curation purposes
-	a: key characteristics/unique elements of simulation data
-	b: intro to simulation data models
-	c: examples of uses for simulation data
-	d: pointing to other DCN primers
-	e: overview of jargon/glossary
+	- key characteristics/unique elements of simulation data
+	- intro to simulation data models
+	- examples of uses for simulation data
+	- pointing to other DCN primers
+	- overview of jargon/glossary
+
 2. Participants will understand how to develop discussions with
 researchers regarding their simulation data. Through guided interactions
 with each other, participants will develop dataset specific approaches
 to establishing key questions necessary for interacting with researchers
-and curating simulation data.</p>
-<p>a: key questions from CURATED perspective (e.g. how to document)</p>
-<p>b: common challenges related to simulation data</p>
-<p>c: helpful materials for CURATED activities (e.g. NCAR rubric)</p>
-<p>d: what to preserve</p>
-<p>e: ethical considerations</p>
-<p>f: accessibility considerations</p>
-<p>g: equity considerations</p>
-<p>III: Participants will work with example datasets to gain a better
+and curating simulation data.
+	-key questions from CURATED perspective (e.g. how to document)</p>
+	-common challenges related to simulation data</p>
+	-helpful materials for CURATED activities (e.g. NCAR rubric)</p>
+	-what to preserve</p>
+	-ethical considerations</p>
+	-accessibility considerations</p>
+	-equity considerations</p>
+3. Participants will work with example datasets to gain a better
 understanding of common tools, methods and practices used to produce and
 curate simulation data</p>
 <p>a: methods</p>
