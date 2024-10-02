@@ -446,8 +446,8 @@ href="https://deepblue.lib.umich.edu/data/concern/data_sets/sb3978457#items_disp
 Dataset B</a> in mind. Answer the questions as you would in your
 role as the researcher or data curator.
 	- You can use the file list in the README file, and/or download the
-files to explore them further.</li>
-<li>Note which questions are easier or more difficult for you to
+files to explore them further.
+- Note which questions are easier or more difficult for you to
 answer in the role that you are in.
 	- Discuss what questions you would ask the other role (researcher
 or data curator).
