@@ -144,7 +144,7 @@ href="https://doi.org/10.7302/day1-6d63">https://doi.org/10.7302/day1-6d63</a>
 
 ## Introduction 
 Mode(s): Lecture <br>
-Estimated time: 15 minutes
+Estimated time: 15 minutes<br><br>
 Describe aims of the workshop, <br>introduce the curator log, define and
 describe what scientific images are and review important software to
 view and manipulate images.
@@ -153,7 +153,7 @@ view and manipulate images.
 ## Check Step
 Mode(s): Lecture, activity and small group
 discussion<br>
-Estimated time: 30 minutes<br>
+Estimated time: 30 minutes<br><br>
 Checking the data is the first step to determining if what
 has been submitted is curatable.<br>
 Lecture will introduce the steps to check files, then there will be a
