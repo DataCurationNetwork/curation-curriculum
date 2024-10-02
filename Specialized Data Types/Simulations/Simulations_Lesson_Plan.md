@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 | Data Type | Simulation Data, Simulation Models, Simulation Workflows |
 | Primary fields or areas of use  | <li>Oceanography and Atmospheric Sciences and Meteorology</li><li>Earth Sciences</li><li>Chemical Engineering</li><li>Astrophysics and Astronomy</li><li>Aerospace Engineering</li><li>Civil and Environmental Engineering</li><li>Physics</li><li>Chemistry</li><li>Climate</li> |
-| Common file formats  | <li>netCDF</li><li>HDF, HDF5</li><li>MAT</li><li>.m</li><li>.dat</li><li>RData</li><li>Tabular (.csv &amp; .xls)</li><li>Text</li><li>Other binary formats</li> |
+| Common file formats  | <li>netCDF</li><li>HDF, HDF5</li><li>MAT</li><li>.m</li><li>.dat</li><li>RData</li><li>Tabular (.csv & .xls)</li><li>Text</li><li>Other binary formats</li> |
 | Summary  | The curriculum covers a range of foundational background information about what simulation data is and the pieces that make up simulation datasets. The workshop looks at two simulation datasets throughout and a third dataset when focusing on the Transform step. The curriculum teaches learners to formulate high impact considerations that uncover traditional barriers to FAIR when curating simulation data. This curriculum leans to a high level overview of the workshop, the curriculum requires the slides for more detail. <br><br> This curriculum assumes some prior knowledge of CURATE(D) and exposure curating scientific data. The size of the two datasets are 403 MB and 2 GB and require the data to be downloaded onto a device such as Windows, OSX, or Linux. |
 | Estimated time  | 2.5 hours |
 | Related primers  | See published <a href="https://datacurationnetwork.org/outputs/data-curation-primers/">primers</a> <br><br> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md">Accessibility Data Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/PDF%20Data%20Curation%20Primer/PDF-data-curation-primer.md">Acrobat PDF Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Column%20Binary%20Data%20Curation%20Primer/column-binary-data-curation-primer.md">Column Binary Data Curation Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Jupyter%20Notebook%20Data%20Curation%20Primer/Jupyter%20Notebooks%20Data%20Curation%20Primer.md">Jupyter Notebooks Primer</a></li> <li><a href="https://deepblue.lib.umich.edu/handle/2027.42/154686">Matlab Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/MSAcess%20Data%20Curation%20Primer/MSAccessCopy2.md">Microsoft Access Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Excel%20Data%20Curation%20Primer/Excel%20Data%20Curation%20Primer.md">Microsoft Excel Primer</a></li> <li><a href="https://deepblue.lib.umich.edu/handle/2027.42/145724">netCDF Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/R%20Data%20Curation%20Primer/R-data-curation-primer.md">R Primer</a></li> |
@@ -267,7 +267,7 @@ be repeated files due to multiple runs of the model
 		- <a href="https://windirstat.net/index.html">WinDirStat</a> (Windows Directory Statistics), <a href="https://diskanalyzer.com/">WizTree</a> (Windows) </blockquote></li>
 		- <a href="https://wiki.gnome.org/Apps/DiskUsageAnalyzer">Disk Usage Analyzer/baobab</a> (Linux, Mac, Windows/WSL)
 	- Duplicate checkers
-		- <a href="https://apps.microsoft.com/detail/9P8TBNHH1MS9?hl=en-us&amp;gl=US">Duplicate File Finder</a> (Windows)
+		- <a href="https://apps.microsoft.com/detail/9P8TBNHH1MS9?hl=en-us&gl=US">Duplicate File Finder</a> (Windows)
 		- <a href="https://github.com/adrianlopezroche/fdupes">fdupes</a> (Linux)
 - Make sure it’s clear which outputs correspond to which
 inputs
@@ -414,259 +414,190 @@ conversations with researchers is the EarthCube rubric. Review it to
 develop an understanding of the researcher perspective, identify
 questions for researchers, and see examples of use cases for how much
 data to preserve
-<ul>
-<li><a
+- <a
 href="https://zoidy.shinyapps.io/ModelDataRubric/">EarthCube
 rubric</a> tool to:
-<ul>
-<li>Understand researcher perspective</li>
-<li>Identify questions for researchers 📝</li>
-<li>Determine the <a
+	- Understand researcher perspective
+	- Identify questions for researchers 📝
+	- Determine the <a
 href="https://modeldatarcn.github.io/rubrics-worksheets/Rubric-Instructions-and-Use-Cases.pdf">Use
 Case</a> for output data to preserve
-<ul>
-<li>Use Case 1: “Preserve Few Simulation Workflow Outputs”</li>
-<li>Use Case 2: “Preserve Selected Simulation Workflow
-Outputs”</li>
-<li>Use Case 3: “Preserve the Majority of Simulation Workflow
-Outputs”</li>
-</ul></li>
-</ul></li>
-</ul>
+		- Use Case 1: “Preserve Few Simulation Workflow Outputs”
+		- Use Case 2: “Preserve Selected Simulation Workflow
+Outputs"
+		- Use Case 3: “Preserve the Majority of Simulation Workflow
+Outputs”
+
+
 Role playing activity (15 minutes)
-<ul>
-<li>In groups of 4-6 people:
-<ul>
-<li>Open the <a
+- In groups of 4-6 people:
+	- Open the <a
 href="https://deepblue.lib.umich.edu/data/concern/file_sets/d504rk54x">README
 file</a> from Example Dataset B and review it. Pay particular
 attention to the “Research Overview” and the list of files under “Files
-Contained Here.”</li>
-<li>In your group, decide who will act as the researcher depositing
+Contained Here.”
+	- In your group, decide who will act as the researcher depositing
 the output data, and who will act as the data curator receiving the data
-files.</li>
-</ul></li>
-<li>Researchers work together and data curators work together. Open
+files.
+- Researchers work together and data curators work together. Open
 the <a href="https://zoidy.shinyapps.io/ModelDataRubric/">EarthCube
 rubric</a> and answer the questions as best you can with the <a
 href="https://deepblue.lib.umich.edu/data/concern/data_sets/sb3978457#items_display">Example
 Dataset B</a> in mind. Answer the questions as you would in your
 role as the researcher or data curator.
-<ul>
-<li>You can use the file list in the README file, and/or download the
+	- You can use the file list in the README file, and/or download the
 files to explore them further.</li>
 <li>Note which questions are easier or more difficult for you to
-answer in the role that you are in.</li>
-<li>Discuss what questions you would ask the other role (researcher
-or data curator).</li>
-</ul></li>
-<li>After completing the rubric, researchers and data curators
+answer in the role that you are in.
+	- Discuss what questions you would ask the other role (researcher
+or data curator).
+- After completing the rubric, researchers and data curators
 discuss together:
-<ul>
-<li>Did you arrive at the same Use Case?</li>
-<li>What questions were easy or difficult to answer?</li>
-<li>What questions do you have for each other?</li>
-</ul></li>
-<li>If time, discuss as a large group and see if the small groups had
-similar experiences.</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><h3 id="augment-step">Augment Step</h3></td>
-</tr>
-<tr class="even">
-<td>Mode(s): Lecture and large group
-discussion
-Estimated time: 10
-minutes</td>
-</tr>
-<tr class="odd">
-<td><ul>
-<li>Metadata
-<ul>
-<li>Discipline standards
-<ul>
-<li>resources</li>
-</ul></li>
-<li>Improve findability, accessibility, and documentation
-<ul>
-<li>Cautionary tale (things that get changed/edited may need to be
-changed throughout the dataset package)</li>
-</ul></li>
-</ul></li>
-<li>Ethical Considerations
-<ul>
-<li>bibliographic information reflects correct author
-attribution</li>
-<li>licenses</li>
-</ul></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><h3 id="transformation-step">Transformation Step </h3></td>
-</tr>
-<tr class="odd">
-<td>Mode(s): Lecture, independent
-exercise
-Estimated time: 30
-minutes</td>
-</tr>
-<tr class="even">
-<td>When dealing with simulation data, it is often necessary to
+	- Did you arrive at the same Use Case?
+	- What questions were easy or difficult to answer?
+	- What questions do you have for each other?- If time, discuss as a large group and see if the small groups had
+similar experiences
+
+## Augment Step<
+Mode(s): Lecture and large group discussion
+Estimated time: 10 minutes
+
+Metadata
+- Discipline standards
+	- resources
+- Improve findability, accessibility, and documentation
+	- Cautionary tale (things that get changed/edited may need to be
+changed throughout the dataset package)
+
+Ethical Considerations
+- bibliographic information reflects correct author
+attribution
+- licenses<
+
+## Transform Step 
+Mode(s): Lecture, independent exercise
+Estimated time: 30 minutes
+
+When dealing with simulation data, it is often necessary to
 transform the data into file formats and standards that ensure
-<mark>sharing, long-term access, preservation, and</mark>
+sharing, long-term access, preservation, and
 interoperability across different tools and systems.
+
 Discussion and Important considerations:
-<ul>
-<li>Understand, Check, and Augment steps lay the foundation for
-actions to take in the Transform step.</li>
-<li>Look for opportunities to transform in all the common elements of
+- Understand, Check, and Augment steps lay the foundation for
+actions to take in the Transform step.
+- Look for opportunities to transform in all the common elements of
 simulation data (input, code, output, and documentation). However, the
 most common and less risky transformation is in the output data and
 documentation. There is a high risk of making mistakes, breaking the
 workflow, or data corruption in attempting to transform the input and
 code. For code/software suggestions can be made for open source
-alternatives.</li>
-<li>Simulation data formats can often be specific to particular
+alternatives.
+- Simulation data formats can often be specific to particular
 software or model structures varying across several disciplines,
 complicating standardization efforts and contributing to the lack of a
 clear archival standard. This makes selection of preservations formats
-for simulation data challenging.</li>
-<li>Transforming files to open formats can simplify access and
+for simulation data challenging.
+- Transforming files to open formats can simplify access and
 preserve data, but could also introduce subtle errors or loss of data
-during transformation between file formats.</li>
-<li>Considerations for transformation include complexity, effort
-required, and actual improvement in accessibility.</li>
-<li>All being equal, the preference should be for open file formats
+during transformation between file formats.
+- Considerations for transformation include complexity, effort
+required, and actual improvement in accessibility.
+- All being equal, the preference should be for open file formats
 when presented with a choice between proprietary and open file formats.
 Otherwise, following the recommended file format statement of the
 Library of Congress for Geospatial data, "preserving the most complete
 data, even if proprietary, with a preference for native formats" also
-works in the case of simulation data.</li>
-<li>It is important to involve the researcher in the transformation
+works in the case of simulation data.
+- It is important to involve the researcher in the transformation
 process to ensure data integrity and consider the best transformation
-approach.</li>
-<li>In most cases, It is advisable to let the researcher, who is the
+approach.
+- In most cases, It is advisable to let the researcher, who is the
 most familiar with the data, perform the transformation themselves. This
 helps reduce the risk of inadvertently altering important aspects of the
-data.</li>
-<li>Prioritize elements crucial for data submission and reuse when
-deciding on transformation.</li>
-<li>Also refer to other primers such as the geospatial data primer
+data.
+- Prioritize elements crucial for data submission and reuse when
+deciding on transformation.
+- Also refer to other primers such as the geospatial data primer
 and simulation code primer for specific recommendations to transforming
-data.</li>
-</ul>
+data.
+
 Some commonly used simulation platforms/software:
-<ul>
-<li>OpenFOAM: <a
-href="https://openfoam.org/">https://openfoam.org/</a></li>
-<li>GNU Octave: <a
-href="https://octave.org/">https://octave.org/</a></li>
-<li>MATLAB: <a
-href="https://www.mathworks.com/products/matlab.html">https://www.mathworks.com/products/matlab.html</a></li>
-</ul>
-Some common simulation data visualization &amp; transformation
+- OpenFOAM: <a
+href="https://openfoam.org/">https://openfoam.org/</a>
+- GNU Octave: <a
+href="https://octave.org/">https://octave.org/</a>
+- MATLAB: <a
+href="https://www.mathworks.com/products/matlab.html">https://www.mathworks.com/products/matlab.html</a>
+
+Some common simulation data visualization & transformation
 tools:
-<ul>
-<li>Paraview: <a
-href="https://www.paraview.org/">https://www.paraview.org/</a></li>
-<li>VisIt: <a
-href="https://visit-dav.github.io/visit-website/about/">https://visit-dav.github.io/visit-website/about/</a></li>
-</ul>
-<ul>
-<li>Some simulation software and frameworks (such as MATLAB) provide
+- Paraview: <a
+href="https://www.paraview.org/">https://www.paraview.org/</a>
+- VisIt: <a
+href="https://visit-dav.github.io/visit-website/about/">https://visit-dav.github.io/visit-website/about/</a>
+-  Some simulation software and frameworks (such as MATLAB) provide
 built-in tools or plugins for converting simulation data into
 standardized formats offering export capabilities to formats like CSV,
 XML, or Excel, allowing users to transform simulation data into widely
-compatible formats.</li>
-<li>Custom Scripting and Programming: Using programming languages
+compatible formats.
+- Custom Scripting and Programming: Using programming languages
 like Python, R, or MATLAB, you can write scripts to read simulation data
 in one format, perform necessary transformations, and output it in a
 different format or standard. This approach offers flexibility and
-control over the transformation process.</li>
-<li>Data Wrangling and Data Integration Platforms: Data wrangling
+control over the transformation process.
+- Data Wrangling and Data Integration Platforms: Data wrangling
 tools like OpenRefine provide features for data cleaning,
 transformation, and integration. These platforms offer functionalities
 to convert simulation data into standardized formats, resolve
 inconsistencies, and ensure compatibility with various systems and
-tools.</li>
-<li>Employing help from AI methods (eg. ChatGPT code interpreter,
+tools.
+- Employing help from AI methods (eg. ChatGPT code interpreter,
 co-pilot) to write scripts for custom transformation in a specific
-language such as python or R.</li>
-</ul>
-Exercise &amp; example dataset: Demonstrate data
+language such as python or R.
+
+Exercise & example dataset: Demonstrate data
 inspection, tool search, and transformation process to make them more
 interoperable, reusable, preservation friendly, and non-proprietary.
-<ul>
-<li>Climate engineering NetCDF files produced with the climate model
+- Climate engineering NetCDF files produced with the climate model
 CESM1(WACCM)
 https://www.cesm.ucar.edu/working_groups/Whole-Atmosphere/.
-<ul>
-<li><a
-href="https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m">https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m</a></li>
-<li>Transform older NetCDF format to HDF5 or NetCDF4</li>
-<li>Alternative data example: <a
+	- <a
+href="https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m">https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m</a>
+	- Transform older NetCDF format to HDF5 or NetCDF4
+	- Alternative data example: <a
 href="https://databank.illinois.edu/datasets/IDB-0791318">https://databank.illinois.edu/datasets/IDB-0791318</a></li>
-</ul></li>
-<li>Confluence Density Effects Simulation Database: <a
+</ul>
+- Confluence Density Effects Simulation Database: <a
 href="https://databank.illinois.edu/datasets/IDB-6257171">https://databank.illinois.edu/datasets/IDB-6257171</a>
-<ul>
-<li>Transform the two xls files to csv and the docx documentation
-file to .pdf format.</li>
-<li>What is the .lay file? Can it be transformed into an open file
+	- Transform the two xls files to csv and the docx documentation
+file to .pdf format.
+	- What is the .lay file? Can it be transformed into an open file
 format? suggest alternative open format and conversion tools to the
 proprietary tecplot, <a
-href="https://www.tecplot.com/products/tecplot-360/">https://www.tecplot.com/products/tecplot-360/</a></li>
-<li>Alternatives to Tecplot (CFD [computational fluid dynamics] 3d
-simulation &amp; visualization software): Paraview (free and
+href="https://www.tecplot.com/products/tecplot-360/">https://www.tecplot.com/products/tecplot-360/</a>
+	- Alternatives to Tecplot (CFD [computational fluid dynamics] 3d
+simulation & visualization software): Paraview (free and
 open-source), OpenFOAM (free and open-source), VisIt (free and
-open-source)</li>
-<li>Evaluate: "Check that any transformations didn’t introduce
-problems"</li>
-</ul></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+open-source)
+	- Evaluate: "Check that any transformations didn’t introduce
+problems"
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><h2 id="wrap-up">Wrap up</h2></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Mode(s): independent exercise/Group
+## Wrap up
+
+Mode(s): independent exercise/Group
 exercise
 Estimated time: 10 minutes</td>
-</tr>
-<tr class="even">
-<td>Exercise: "What I Learned. (KWL) and “What is still muddy” L M
-mentimeter</td>
-</tr>
-</tbody>
-</table>
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><h2 id="bibliography-resources">Bibliography &amp;
-Resources</h2></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Ordered as referenced throughout lesson plan and slide deck
+Exercise: "What I Learned. (KWL) and “What is still muddy” L M
+mentimeter
+
+
+# Bibliography & Resources
+Ordered as referenced throughout lesson plan and slide deck
 Interactive presentation software. Mentimeter. <a
 href="https://www.mentimeter.com/">https://www.mentimeter.com/</a>
-Mullendore, G. L., Mayernik, M. S., &amp; Schuster, D. C. (2021).
+Mullendore, G. L., Mayernik, M. S., & Schuster, D. C. (2021).
 Open science expectations for simulation-based research. Frontiers in
 Climate, 3, 763420. <a
 href="https://doi.org/10.3389/fclim.2021.763420">https://doi.org/10.3389/fclim.2021.763420</a>
@@ -690,21 +621,21 @@ Global Indigenous Data Alliance. (n.d.). The CARE Principles for
 Indigenous Data Governance. <a
 href="https://www.gida-global.org/care">https://www.gida-global.org/care</a>
 Microsoft . (2023, February 16). Fate: Fairness, accountability,
-transparency &amp; ethics in Ai. Microsoft Research.
+transparency & ethics in Ai. Microsoft Research.
 https://www.microsoft.com/en-us/research/theme/fate/overview/
 Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach,
-H., Daumé III, H., &amp; Crawford, K. (2021, December 1). Datasheets for
+H., Daumé III, H., & Crawford, K. (2021, December 1). Datasheets for
 datasets. arXiv.org. https://arxiv.org/abs/1803.09010
-<mark>Yang, H., Waugh, D. W., Orbe, C., &amp; Chen, G. (2020).
+Yang, H., Waugh, D. W., Orbe, C., & Chen, G. (2020).
 Dependence of Atmospheric Transport Into the Arctic on the Meridional
 Extent of the Hadley Cell. Geophysical Research Letters, 47(20). <a
 href="https://doi.org/10.1029/2020gl090133">doi:
-10.1029/2020gl090133</a></mark>
-Do, H. X., Smith, J. P., Fry, L. M., &amp; Gronewold, A. D. (2020).
+10.1029/2020gl090133</a>
+Do, H. X., Smith, J. P., Fry, L. M., & Gronewold, A. D. (2020).
 Seventy-year long record of monthly water balance estimates for Earth’s
 largest lake system. Scientific Data, 7(1), 276. <a
 href="https://doi.org/10.1038/s41597-020-00613-z">https://doi.org/10.1038/s41597-020-00613-z</a>
-Gronewold, A. D., Smith, J. P., Read, L., &amp; Crooks, J. L. (2020).
+Gronewold, A. D., Smith, J. P., Read, L., & Crooks, J. L. (2020).
 Reconciling the water balance of large lake systems. Advances in Water
 Resources, 103505. <a
 href="https://doi.org/10.1016/j.advwatres.2020.103505">https://doi.org/10.1016/j.advwatres.2020.103505</a>
@@ -716,7 +647,7 @@ application. ParaView. <a
 href="https://www.paraview.org/">https://www.paraview.org/</a>
 OpenFOAM. <a
 href="https://www.openfoam.com/">https://www.openfoam.com/</a>
-University of Virginia Library. Data types &amp; file formats | UVA
+University of Virginia Library. Data types & file formats | UVA
 Library. <a
 href="https://library.virginia.edu/data/data-management/plan/format-types">https://library.virginia.edu/data/data-management/plan/format-types</a>
 Library of Congress. Recommended Formats Statement – table of
@@ -725,6 +656,3 @@ href="https://www.loc.gov/preservation/resources/rfs/TOC.html">https://www.loc.g
 Cornell University Library. Ecommons: Cornell’s Digital
 Repository: Recommended File Formats. <a
 href="https://guides.library.cornell.edu/ecommons/formats">https://guides.library.cornell.edu/ecommons/formats</a></td>
-</tr>
-</tbody>
-</table>
