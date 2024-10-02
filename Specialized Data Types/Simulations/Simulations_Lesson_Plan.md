@@ -189,9 +189,7 @@ and/or machine readable?
 - related publications
 	- are the references to related publications documented adequately
 to be readily accessible for indexing?
-	- are any of the related publications required to understand the
-data? if so, is that adequately represented in the
-metadata/documentation?
+	- are any of the related publications required to understand the data? if so, is that adequately represented in the metadata/documentation?
 
 
 In addition to the standard Check steps
@@ -216,155 +214,124 @@ not
 	- Sample dataset: <a href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a>
 
 
-</ul></td>
-</tr>
-<tr class="odd">
-<td><h3 id="understand-step">Understand Step</h3></td>
-</tr>
-<tr class="even">
-<td>Mode(s): Lecture
-Estimated time: 25 minutes</td>
-</tr>
-<tr class="odd">
-<td>Lecture (25 minutes)
+## Understand Step
+Mode(s): Lecture
+Estimated time: 25 minutes
+
+Lecture (25 minutes)
 CURATE(D) Understand Step
+
 The Understand step is the deeper dive into the data/code and how it
 makes sense together.
-<ul>
-<li>After inventorying and reviewing the contents, the Understand
+- After inventorying and reviewing the contents, the Understand
 step is a closer examination of:
-<ul>
-<li>what they are</li>
-<li>how they interrelate</li>
-<li>what information is needed for reuse</li>
-</ul></li>
-<li>Check and Understand steps generate the information needed for
-the Request step.</li>
-</ul>
+	- what they are<
+	- how they interrelate
+	- what information is needed for reuse
+- Check and Understand steps generate the information needed for
+the Request step.
+
 Understand step often includes
 From the general CURATED model, we are going beyond checking, we are
 trying to understand how the files fit together, if someone with similar
 disciplinary knowledge would be able to make sense of the collection,
 and pulling from the Evaluate step to make sure that files open and meet
 ethical requirements for sharing.
-<ul>
-<li>Examining for quality assurance and usability
-issues</li>
-<li>Assessing for ethical issues including sensitive
+- Examining for quality assurance and usability
+issues
+- Assessing for ethical issues including sensitive
 data, consent, risk to persons/places, licensing/permissions,
-accessibility, etc. (see “Checking for Ethical Concerns” slide)</li>
-<li>Determining if the documentation is sufficient
-for peer researchers to understand and reuse the contents</li>
-<li>Understanding how the files relate to each
-other</li>
-</ul>
+accessibility, etc. (see “Checking for Ethical Concerns” slide)
+- Determining if the documentation is sufficient
+for peer researchers to understand and reuse the contents
+- Understanding how the files relate to each
+other
+
 Understand step: Simulations specifically
 For simulation data, we are considering a sequential workflow with
 consistent naming conventions. This means looking for missing files in a
 sequence and checking that file names follow the naming convention in
 order to understand how they relate to each other.
 Focus on how the files relate to each other
-<ul>
-<li>Simulation data can consist of sequential files - check for
-missing files in a sequence</li>
-<li>Often, experiments are repeated and datasets will contain
+- Simulation data can consist of sequential files - check for
+missing files in a sequence
+- Often, experiments are repeated and datasets will contain
 multiple similar folders and files
-<ul>
-<li>Check that naming conventions are consistent</li>
-<li>Also keep in mind that a standard duplicate file check will
+	- Check that naming conventions are consistent
+	- Also keep in mind that a standard duplicate file check will
 usually reveal multiple identical files ‒ for simulation data, this is
 often ok, since only small things may change between runs, and there can
-be repeated files due to multiple runs of the model</li>
-</ul></li>
-</ul>
-<ul>
-<li>Helpful tools</li>
-<li><blockquote>
-Directory exploration
-</blockquote>
-<ul>
-<li><blockquote>
-<a href="https://windirstat.net/index.html">WinDirStat</a>
-(Windows Directory Statistics), <a
-href="https://diskanalyzer.com/">WizTree</a> (Windows)
-</blockquote></li>
-<li><blockquote>
-<a href="https://wiki.gnome.org/Apps/DiskUsageAnalyzer">Disk Usage
-Analyzer/baobab</a> (Linux, Mac, Windows/WSL)
-</blockquote></li>
-</ul></li>
-<li><blockquote>
-Duplicate checkers
-</blockquote>
-<ul>
-<li><blockquote>
-<a
-href="https://apps.microsoft.com/detail/9P8TBNHH1MS9?hl=en-us&amp;gl=US">Duplicate
-File Finder</a> (Windows)
-</blockquote></li>
-<li><blockquote>
-<a
-href="https://github.com/adrianlopezroche/fdupes">fdupes</a>
-(Linux)
-</blockquote></li>
-</ul></li>
-<li>Make sure it’s clear which outputs correspond to which
-inputs</li>
-<li>Reference the publication if it is available. This can help you
-understand the model and how the files work together.</li>
-</ul>
+be repeated files due to multiple runs of the model
+- Helpful tools
+	- Directory exploration
+		- <a href="https://windirstat.net/index.html">WinDirStat</a> (Windows Directory Statistics), <a href="https://diskanalyzer.com/">WizTree</a> (Windows) </blockquote></li>
+		- <a href="https://wiki.gnome.org/Apps/DiskUsageAnalyzer">Disk Usage Analyzer/baobab</a> (Linux, Mac, Windows/WSL)
+	- Duplicate checkers
+		- <a href="https://apps.microsoft.com/detail/9P8TBNHH1MS9?hl=en-us&amp;gl=US">Duplicate File Finder</a> (Windows)
+		- <a href="https://github.com/adrianlopezroche/fdupes">fdupes</a> (Linux)
+- Make sure it’s clear which outputs correspond to which
+inputs
+- Reference the publication if it is available. This can help you
+understand the model and how the files work together.
+
+
 Understand: DCN primers for data formats
 The example that we looked at had familiar data formats, but
 simulation data can be in many formats. Use the data curation primers
 when working with formats that you are unfamiliar with.
-<ul>
-<li>Simulation data can be in many formats</li>
-<li><a
-href="https://datacurationnetwork.org/outputs/data-curation-primers/">Data
+
+- Simulation data can be in many formats
+- <a href="https://datacurationnetwork.org/outputs/data-curation-primers/">Data
 curation primers</a> useful when working with simulation data
-<ul>
-<li><a
+	- <a
 href="https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md">Accessibility
-Data Primer</a></li>
-<li><a
+Data Primer</a>
+	- <a
 href="https://github.com/DataCurationNetwork/data-primers/blob/master/PDF%20Data%20Curation%20Primer/PDF-data-curation-primer.md">Acrobat
-PDF Primer</a></li>
-<li><a
+PDF Primer</a>
+	- <a
 href="https://github.com/DataCurationNetwork/data-primers/blob/master/Column%20Binary%20Data%20Curation%20Primer/column-binary-data-curation-primer.md">Column
-Binary Data Curation Primer</a></li>
-<li><a
+Binary Data Curation Primer</a>
+	- <a
 href="https://github.com/DataCurationNetwork/data-primers/blob/master/Jupyter%20Notebook%20Data%20Curation%20Primer/Jupyter%20Notebooks%20Data%20Curation%20Primer.md">Jupyter
-Notebooks Primer</a></li>
-<li><a
+Notebooks Primer</a>
+	- <a
 href="https://deepblue.lib.umich.edu/handle/2027.42/154686">Matlab
-Primer</a></li>
-<li><a
+Primer</a>
+	- <a
 href="https://github.com/DataCurationNetwork/data-primers/blob/master/MSAcess%20Data%20Curation%20Primer/MSAccessCopy2.md">Microsoft
-Access Primer</a></li>
-<li><a
+Access Primer</a>
+	- <a
 href="https://github.com/DataCurationNetwork/data-primers/blob/master/Excel%20Data%20Curation%20Primer/Excel%20Data%20Curation%20Primer.md">Microsoft
-Excel Primer</a></li>
-<li><a
+Excel Primer</a>
+	- <a
 href="https://deepblue.lib.umich.edu/handle/2027.42/145724">netCDF
-Primer</a></li>
-<li><a
+Primer</a>
+	- <a
 href="https://github.com/DataCurationNetwork/data-primers/blob/master/R%20Data%20Curation%20Primer/R-data-curation-primer.md">R
-Primer</a></li>
-</ul></li>
-</ul>
+Primer</a>
+
+
 Which parts are needed? (Review from introduction
 slides)
+
 Simulation data can consist of many files -- and it might not be
 useful or possible to keep everything. That is why it is so important to
 remember that simulation data are tools for knowledge production, not
 data production; and that “knowledge production research should preserve
 minimal output in repositories.” (See “Characteristics of simulation
 data” introduction slide)
+
+
 What we DO need to preserve are the inputs (initial conditions),
 code/model, and outputs - depending on the project, could be available
 through another provider. (See “Common elements of simulation models”
 introduction slide)
+
+
 And provide documentation of how it all works together.
+
+
 One of the important parts of the Understand step is figuring out
 which parts of the dataset and model need to be curated to support
 reproducibility and knowledge production purposes. In some cases, the
@@ -374,63 +341,56 @@ the input described in detail in a publication. Each dataset is likely
 to vary in which elements are critical, which is why the Understand step
 is so important for simulation datasets.
 Knowledge production vs data production
-<ul>
-<li>“... primary goal of most projects involving computer simulations
+
+- “... primary goal of most projects involving computer simulations
 is to increase scientific knowledge and the simulations are used as a
-tool to that end.”</li>
-<li>“... we are producing far more simulation output than can be
+tool to that end.”
+- “... we are producing far more simulation output than can be
 reasonably stored in repositories. Knowledge production research should
 preserve minimal output in repositories.” Mullendore et al.
-(2021)</li>
-</ul>
+(2021)
+
 Components to preserve and share (this varies)
-<ul>
-<li>input data: initial conditions, calibration files, parameter
-values</li>
-<li>code/model: preprocessing, configuration, post
-processing</li>
-<li>outputs: depends on the simulation</li>
-<li>documentation</li>
-</ul>
+- input data: initial conditions, calibration files, parameter
+values
+- code/model: preprocessing, configuration, post
+processing
+- outputs: depends on the simulation
+- documentation
+
 What do these things look like?
 Let’s look at Example Dataset B to see what common elements of
 simulation models can look like.
+
 Example Dataset B
+
 Do, H. X., Smith, J. P., Fry, L. M., Gronewold, A. D. (2020). Monthly
 water balance estimates for the Laurentian Great Lakes from 1950 to 2019
 (v1.1) [Data set], University of Michigan - Deep Blue Data. <a
 href="https://doi.org/10.7302/tx97-nn12">https://doi.org/10.7302/tx97-nn12</a>
 From the files list, we can see that they include the inputs,
 model/source code, and outputs.
+
 [Show unzipped files]
-<ul>
-<li>Documentation, inputs, model/source code, and outputs</li>
-<li>The README gives context with an overview, software
+
+- Documentation, inputs, model/source code, and outputs
+- The README gives context with an overview, software
 specification, variable definitions, and more
-<ul>
-<li>“This data set contains new estimates of the Great Lakes water
+	- “This data set contains new estimates of the Great Lakes water
 balance together with the L2SWBM source code and inputs synthesized for
-this project…”</li>
-</ul></li>
-<li>Input files are Excel csv files</li>
-<li>The source code/model R files are organized in run order and
-include a config_README</li>
-<li>Output files are pdfs and Excel csv</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><h3 id="request-step">Request Step</h3></td>
-</tr>
-<tr class="odd">
-<td><h3
-id="modes-lecture-small-group-activity">Mode(s):
-Lecture, small group activity</h3>
-<h3 id="section-2"></h3>
-<h3 id="estimated-time-20-minutes">Estimated time:
-20 minutes</h3></td>
-</tr>
-<tr class="even">
-<td>Lecture (5 minutes)
+this project…”
+- Input files are Excel csv files
+- The source code/model R files are organized in run order and
+include a config_README
+- Output files are pdfs and Excel csv
+
+## Request Step
+
+Mode(s): Lecture, small group activity
+Estimated time: 20 minutes
+
+Lecture (5 minutes)
+
 CURATE(D) Request Step
 The Request step is your opportunity to discuss the dataset with the
 researcher. Pull the questions that have arisen from the Check and
@@ -438,20 +398,16 @@ Understand steps. This can include questions about the dataset
 components to share, inconsistencies in the data, unclear run sequence,
 missing files, bad naming conventions, sensitive data, etc.). Record
 your questions for the researcher in your curator log.
-<ul>
-<li>Data appraisal conversations with researchers
-<ul>
-<li>Conversations about the dataset</li>
-<li>Pull from the Check and Understand steps</li>
-<li>Arrive at a shared understanding of the curation process with the
-researcher (good for future conversations!)</li>
-</ul></li>
-</ul>
-<ul>
-<li>Record all questions/concerns (ethics, missing files, excessive
+- Data appraisal conversations with researchers
+	- Conversations about the dataset
+	- Pull from the Check and Understand steps
+	- Arrive at a shared understanding of the curation process with the
+researcher (good for future conversations!)
+- Record all questions/concerns (ethics, missing files, excessive
 output files, bad naming conventions, etc.) in your Curator Log
-📝</li>
-</ul>
+📝
+
+
 EarthCube rubric
 If you are unsure about what output data to preserve, a tool for
 conversations with researchers is the EarthCube rubric. Review it to
