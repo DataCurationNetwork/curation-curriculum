@@ -586,8 +586,7 @@ problems"
 
 ## Wrap up
 
-Mode(s): independent exercise/Group <br>
-exercise
+Mode(s): independent exercise/Group exercise <br>
 Estimated time: 10 minutes
 
 Exercise: "What I Learned. (KWL) and “What is still muddy” L M
