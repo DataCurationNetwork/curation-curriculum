@@ -140,11 +140,12 @@ rather than an end step, but also at the end. Constantly thinking about
 the datasets’ FAIRness, can it be made more FAIR, and how.
 
 
-## Check step <
+## Check step
 Mode(s):Lecture, independent exercise
 Estimated time: 30 minutes
 
 Lecture:
+
 CURATE(D) CHECK step revolves around inventorying and reviewing the
 contents of the dataset and verifying that it is appropriate for the
 repository. This often includes:
@@ -170,74 +171,56 @@ packages?
 	- is adequate documentation of code runs included in the metadata?
 e.g. version of coding language, details of computers used to run code,
 date of code runs, etc.
-
-
-<li>documentation of related materials
-<ul>
-<li>is the production of the model, code, programming languages,
+- documentation of related materials
+	- is the production of the model, code, programming languages,
 initial data, data processing, metadata, etc already documented
-elsewhere?</li>
-</ul></li>
-<li>documentation of data production
-<ul>
-<li>was there initial or calibration data used? Is it documented?
-included in the dataset? published elsewhere?</li>
-<li>what formats or metadata standards were used?</li>
-<li>is the initial data derived from other datasets? if so, is it
-already documented elsewhere?</li>
-</ul></li>
-<li>references to data formats/metadata standards/code
+elsewhere?
+- documentation of data production
+	- was there initial or calibration data used? Is it documented?
+included in the dataset? published elsewhere?
+	- what formats or metadata standards were used?
+	- is the initial data derived from other datasets? if so, is it
+already documented elsewhere?
+- references to data formats/metadata standards/code
 used/programming languages used
-<ul>
-<li>are the references to formats, metadata standards, code, etc
+	- are the references to formats, metadata standards, code, etc
 documented in such as manner as to be readily accessible for indexing
-and/or machine readable?</li>
-</ul></li>
-<li>related publications
-<ul>
-<li>are the references to related publications documented adequately
-to be readily accessible for indexing?</li>
-<li>are any of the related publications required to understand the
+and/or machine readable?
+- related publications
+	- are the references to related publications documented adequately
+to be readily accessible for indexing?
+	- are any of the related publications required to understand the
 data? if so, is that adequately represented in the
-metadata/documentation?</li>
-</ul></li>
-</ul>
+metadata/documentation?
+
+
 In addition to the standard Check steps
-<ul>
-<li>How to determine whether a dataset might be simulation
+- How to determine whether a dataset might be simulation
 data/code?
-<ul>
-<li>data clues</li>
-<li>software clues</li>
-<li>keywords to look for</li>
-</ul></li>
-<li>Look for ethics issues around the code, initial data, model, etc,
+	- data clues
+	- software clues
+	- keywords to look for
+- Look for ethics issues around the code, initial data, model, etc,
 especially around human subjects data, sensitive species information, or
 other issues that may be politically contentious but not necessarily
 sensitive (e.g. climate modeling)
-<ul>
-<li>ethics of access to publications (e.g. publication being behind a
-paywall)</li>
-</ul></li>
-<li>Sample data and parameters
-<ul>
-<li>Are these included or available elsewhere (other repositories,
-paper)</li>
-</ul></li>
-<li>Relevant primers to refer to
-<ul>
-<li>Code</li>
-<li>netCDF</li>
-<li></li>
-</ul></li>
-<li>Short exercise - 10 min
-<ul>
-<li>Given a dataset, determine whether it is simulation data or
-not</li>
-<li>Do the necessary files appear to be there?</li>
-<li>Sample dataset: <a
-href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a></li>
-</ul></li>
+	- ethics of access to publications (e.g. publication being behind a
+paywall)
+- Sample data and parameters
+	- Are these included or available elsewhere (other repositories,
+paper)
+- Relevant primers to refer to
+	- Code
+	- netCDF
+
+
+- Short exercise - 10 min
+	- Given a dataset, determine whether it is simulation data or
+not
+	- Do the necessary files appear to be there?
+	- Sample dataset: <a href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a>
+
+
 </ul></td>
 </tr>
 <tr class="odd">
