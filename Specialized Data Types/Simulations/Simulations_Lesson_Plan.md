@@ -1,8 +1,7 @@
-# Data Curation Network Lesson Plan: 
-# Curating Simulation-based Research 
+# Data Curation Network Lesson Plan: Curating Simulation-based Research 
 
-# Lesson Description
 
+| Lesson Components | Lesson Description |
 | ------------- | ------------- |
 | Data Type | Simulation Data, Simulation Models, Simulation Workflows |
 | First Header  | Second Header |
