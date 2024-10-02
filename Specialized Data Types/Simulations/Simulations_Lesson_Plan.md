@@ -46,37 +46,22 @@ curate simulation data
 	- licensing, data use agreements
 
 
-<strong>Terms to Know:</strong> <a
-href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Simulations_glossary.pdf">See
-Glossary</a></td>
-</tr>
-</tbody>
-</table>
+Glossary: <a href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Simulations_glossary.pdf">Terms to Know</a></td>
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><h2 id="datasets-for-lesson">Dataset(s) for Lesson</h2></td>
-</tr>
-<tr class="even">
-<td><strong>Required Tools/Software:</strong>
-<ul>
-<li>text editor</li>
-<li>PDF viewer</li>
-<li>spreadsheet program</li>
-<li>browser-based viewer for looking at simulation data formats -
-depends on dataset</li>
-</ul>
-<strong>Dataset Citations:</strong>
+# Dataset(s) for Lesson 
+
+Required Tools/Software:
+- text editor
+- PDF viewer
+- spreadsheet program<
+- browser-based viewer for looking at simulation data formats, depends on dataset
+
+## Dataset Citations:
 Dataset A:
 Yang, Huang; Waugh, Darryn W., 2020, "Data associated with Yang et
 al., 2020, Dependence of Atmospheric Transport into the Arctic on Extent
-of the Hadley Cell", <a
-href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a>,
-Johns Hopkins Research Data Repository, V1
+of the Hadley Cell", <a href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a>, Johns Hopkins Research Data Repository, V1
+
 Dataset B:
 Do, H. X., Smith, J. P., Fry, L. M., Gronewold, A. D. (2020). Monthly
 water balance estimates for the Laurentian Great Lakes from 1950 to 2019
@@ -151,8 +136,8 @@ by the input data (via training)</li>
 <td><h3 id="introduction">Introduction </h3></td>
 </tr>
 <tr class="odd">
-<td><strong>Mode(s):</strong> Lecture
-<strong>Estimated time: </strong>20-25
+<td>Mode(s): Lecture
+Estimated time: 20-25
 minutes</td>
 </tr>
 <tr class="even">
@@ -193,14 +178,14 @@ Learned</del>. (KWL) KW mentimeter</td>
 </tr>
 <tr class="even">
 <td><h3
-id="modes-lecture-download-curation-log-template"><strong>Mode(s):</strong>
+id="modes-lecture-download-curation-log-template">Mode(s):
 Lecture, download curation log template </h3>
 <h3 id="section"></h3>
-<h3 id="estimated-time-5-10-minutes"><strong>Estimated time:
-</strong>5-10 minutes</h3></td>
+<h3 id="estimated-time-5-10-minutes">Estimated time:
+5-10 minutes</h3></td>
 </tr>
 <tr class="odd">
-<td><strong>Lecture:</strong>
+<td>Lecture:
 Introduce Document and Evaluate steps, steps are iterative and
 curation is not linear.
 Download the Curation Log template and use it throughout the rest of
@@ -214,14 +199,14 @@ the datasets’ FAIRness, can it be made more FAIR, and how.</td>
 </tr>
 <tr class="odd">
 <td><h3
-id="modes-lecture-independent-exercise"><strong>Mode(s):</strong>
+id="modes-lecture-independent-exercise">Mode(s):
 Lecture, independent exercise </h3>
 <h3 id="section-1"></h3>
-<h3 id="estimated-time-30-minutes"><strong>Estimated time:
-</strong>30 minutes</h3></td>
+<h3 id="estimated-time-30-minutes">Estimated time:
+30 minutes</h3></td>
 </tr>
 <tr class="even">
-<td><strong>Lecture:</strong>
+<td>Lecture:
 CURATE(D) CHECK step revolves around inventorying and reviewing the
 contents of the dataset and verifying that it is appropriate for the
 repository. This often includes:
@@ -322,12 +307,12 @@ href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a></
 <td><h3 id="understand-step">Understand Step</h3></td>
 </tr>
 <tr class="even">
-<td><strong>Mode(s):</strong> Lecture
-<strong>Estimated time:</strong> 25 minutes</td>
+<td>Mode(s): Lecture
+Estimated time: 25 minutes</td>
 </tr>
 <tr class="odd">
-<td><strong>Lecture (25 minutes)</strong>
-<strong>CURATE(D) Understand Step</strong>
+<td>Lecture (25 minutes)
+CURATE(D) Understand Step
 The Understand step is the deeper dive into the data/code and how it
 makes sense together.
 <ul>
@@ -341,24 +326,24 @@ step is a closer examination of:
 <li>Check and Understand steps generate the information needed for
 the Request step.</li>
 </ul>
-<strong>Understand step often includes</strong>
+Understand step often includes
 From the general CURATED model, we are going beyond checking, we are
 trying to understand how the files fit together, if someone with similar
 disciplinary knowledge would be able to make sense of the collection,
 and pulling from the Evaluate step to make sure that files open and meet
 ethical requirements for sharing.
 <ul>
-<li><strong>Examining</strong> for quality assurance and usability
+<li>Examining for quality assurance and usability
 issues</li>
-<li><strong>Assessing</strong> for ethical issues including sensitive
+<li>Assessing for ethical issues including sensitive
 data, consent, risk to persons/places, licensing/permissions,
 accessibility, etc. (see “Checking for Ethical Concerns” slide)</li>
-<li><strong>Determining</strong> if the documentation is sufficient
+<li>Determining if the documentation is sufficient
 for peer researchers to understand and reuse the contents</li>
-<li><strong>Understanding</strong> how the files relate to each
+<li>Understanding how the files relate to each
 other</li>
 </ul>
-<strong>Understand step: Simulations specifically</strong>
+Understand step: Simulations specifically
 For simulation data, we are considering a sequential workflow with
 consistent naming conventions. This means looking for missing files in a
 sequence and checking that file names follow the naming convention in
@@ -413,7 +398,7 @@ inputs</li>
 <li>Reference the publication if it is available. This can help you
 understand the model and how the files work together.</li>
 </ul>
-<strong>Understand: DCN primers for data formats</strong>
+Understand: DCN primers for data formats
 The example that we looked at had familiar data formats, but
 simulation data can be in many formats. Use the data curation primers
 when working with formats that you are unfamiliar with.
@@ -452,8 +437,8 @@ href="https://github.com/DataCurationNetwork/data-primers/blob/master/R%20Data%2
 Primer</a></li>
 </ul></li>
 </ul>
-<strong>Which parts are needed? (Review from introduction
-slides)</strong>
+Which parts are needed? (Review from introduction
+slides)
 Simulation data can consist of many files -- and it might not be
 useful or possible to keep everything. That is why it is so important to
 remember that simulation data are tools for knowledge production, not
@@ -492,10 +477,10 @@ processing</li>
 <li>outputs: depends on the simulation</li>
 <li>documentation</li>
 </ul>
-<strong>What do these things look like?</strong>
+What do these things look like?
 Let’s look at Example Dataset B to see what common elements of
 simulation models can look like.
-<strong>Example Dataset B</strong>
+Example Dataset B
 Do, H. X., Smith, J. P., Fry, L. M., Gronewold, A. D. (2020). Monthly
 water balance estimates for the Laurentian Great Lakes from 1950 to 2019
 (v1.1) [Data set], University of Michigan - Deep Blue Data. <a
@@ -523,15 +508,15 @@ include a config_README</li>
 </tr>
 <tr class="odd">
 <td><h3
-id="modes-lecture-small-group-activity"><strong>Mode(s):</strong>
+id="modes-lecture-small-group-activity">Mode(s):
 Lecture, small group activity</h3>
 <h3 id="section-2"></h3>
-<h3 id="estimated-time-20-minutes"><strong>Estimated time:</strong>
+<h3 id="estimated-time-20-minutes">Estimated time:
 20 minutes</h3></td>
 </tr>
 <tr class="even">
-<td><strong>Lecture (5 minutes)</strong>
-<strong>CURATE(D) Request Step</strong>
+<td>Lecture (5 minutes)
+CURATE(D) Request Step
 The Request step is your opportunity to discuss the dataset with the
 researcher. Pull the questions that have arisen from the Check and
 Understand steps. This can include questions about the dataset
@@ -552,7 +537,7 @@ researcher (good for future conversations!)</li>
 output files, bad naming conventions, etc.) in your Curator Log
 📝</li>
 </ul>
-<strong>EarthCube rubric</strong>
+EarthCube rubric
 If you are unsure about what output data to preserve, a tool for
 conversations with researchers is the EarthCube rubric. Review it to
 develop an understanding of the researcher perspective, identify
@@ -577,7 +562,7 @@ Outputs”</li>
 </ul></li>
 </ul></li>
 </ul>
-<strong>Role playing activity (15 minutes)</strong>
+Role playing activity (15 minutes)
 <ul>
 <li>In groups of 4-6 people:
 <ul>
@@ -619,9 +604,9 @@ similar experiences.</li>
 <td><h3 id="augment-step">Augment Step</h3></td>
 </tr>
 <tr class="even">
-<td><strong>Mode(s):</strong> Lecture and large group
+<td>Mode(s): Lecture and large group
 discussion
-<strong>Estimated time: </strong>10
+Estimated time: 10
 minutes</td>
 </tr>
 <tr class="odd">
@@ -650,9 +635,9 @@ attribution</li>
 <td><h3 id="transformation-step">Transformation Step </h3></td>
 </tr>
 <tr class="odd">
-<td><strong>Mode(s):</strong> Lecture, independent
+<td>Mode(s): Lecture, independent
 exercise
-<strong>Estimated time: </strong>30
+Estimated time: 30
 minutes</td>
 </tr>
 <tr class="even">
@@ -738,7 +723,7 @@ tools.</li>
 co-pilot) to write scripts for custom transformation in a specific
 language such as python or R.</li>
 </ul>
-<strong>Exercise &amp; example dataset:</strong> Demonstrate data
+Exercise &amp; example dataset: Demonstrate data
 inspection, tool search, and transformation process to make them more
 interoperable, reusable, preservation friendly, and non-proprietary.
 <ul>
@@ -784,9 +769,9 @@ problems"</li>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Mode(s):</strong> independent exercise/Group
+<td>Mode(s): independent exercise/Group
 exercise
-<strong>Estimated time:</strong> 10 minutes</td>
+Estimated time: 10 minutes</td>
 </tr>
 <tr class="even">
 <td>Exercise: "What I Learned. (KWL) and “What is still muddy” L M
