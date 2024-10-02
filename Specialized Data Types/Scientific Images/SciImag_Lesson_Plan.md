@@ -254,40 +254,38 @@ alongside the data)
 
 [^1]: See Cornell’s list of preservation format
 recommendations: <a
-href="http://guides.library.cornell.edu/ecommons/formats">http://guides.library.cornell.edu/ecommons/formats</a>
+href="http://guides.library.cornell.edu/ecommons/formats">http://guides.library.cornell.edu/ecommons/formats</a> <br>
 Library of Congress - Sustainability of Digital Formats:
 <a
-href="https://www.loc.gov/preservation/digital/formats/content/still.shtml">https://www.loc.gov/preservation/digital/formats/content/still.shtml</a>
+href="https://www.loc.gov/preservation/digital/formats/content/still.shtml">https://www.loc.gov/preservation/digital/formats/content/still.shtml</a> <br>
 Use the worksheets here for transformation activities:
 Complete activity on your own: <a
-href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/5-Transform_worksheet.pdf">5-Transform_worksheet_no_results</a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/5-Transform_worksheet.pdf">5-Transform_worksheet_no_results</a> <br>
 Follow along: <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/5-Transform_worksheet.pdf">5-Transform_worksheet</a>
 
 
-Evaluate Step
-
+## Evaluate Step
 
 Mode: Lecture, small group
-discussion
-Estimated time: 15 minutes
+discussion <br>
+Estimated time: 15 minutes <br><br>
 Evaluating the dataset ensures that space for
 self-reflection on the augmented and transformed data submission is in
-place.
+place. <br><br>
 This will include a short overview of FAIR and CARE, then short
 group/table discussions evaluating the spiral eutectics dataset
 according to the FAIR checklist, and whether the CARE Principles apply
-to this dataset (or may apply to scientific image data in general).
+to this dataset (or may apply to scientific image data in general). <br><br>
 Use <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/6-Evaluate_discussion.pdf">6-Evaluate_discussion</a>
 to guide your discussions.
 
 
-Document Step
+## Document Step
 
-
-Mode: Whole room discussion
-Estimated time: 10-15 minutes
+Mode: Whole room discussion <br>
+Estimated time: 10-15 minutes <br><br>
 A whole room discussion about the documentation process. Please
 revisit your curator log.
 
