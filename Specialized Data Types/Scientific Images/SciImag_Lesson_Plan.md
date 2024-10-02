@@ -155,12 +155,12 @@ Mode(s): Lecture, activity and small group
 discussion<br>
 Estimated time: 30 minutes<br><br>
 Checking the data is the first step to determining if what
-has been submitted is curatable.<br>
+has been submitted is curatable.<br><br>
 Lecture will introduce the steps to check files, then there will be a
 short activity and small group discussion about checking file format -
 (e.g., corrupt file, open-access file), and comparing different required
 fields for generalist vs. specialized repositories. Is the data
-appropriate to be shared?<br>
+appropriate to be shared?<br><br>
 Please use the worksheet <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/1-Check_worksheet.pdf">here</a>
 to assist with the activity.
@@ -169,7 +169,7 @@ to assist with the activity.
 ## Understand Step
 Mode(s): Lecture, small group
 discussion <br>
-Estimated time: 20 minutes <br>
+Estimated time: 20 minutes <br><br>
 Understanding the data is an important step to ensure that
 the data content, context, and quality can be described accurately and
 precisely for someone else. Small group discussions will be used to
@@ -178,31 +178,28 @@ Each participant will come up with a list of up to five questions that
 they have based on their attempt to understand the data. A question may
 be as straightforward as, “how are .CTF files read?”. Alternatively, a
 question may be as complex as, “how do the included .PNG files relate to
-each other spatially, if at all?”.
--
+each other spatially, if at all?”. <br><br>
+
 Group members will compile a list of their questions, and then divide
 up the list to search for answers. Answers should be referenced, and
-answers that cannot be found should be tallied for the Request step.
+answers that cannot be found should be tallied for the Request step. <br><br>
 Please use the worksheet <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/2-Understand_worksheet.pdf">here</a>
 to assist with the activity.
 Please save the list of questions and answers for the
 Documentation.
 
-
-<h3 id="request-step">Request Step</h3>
-
-
+## Request Step
 Mode(s): Lecture, activity and small group
-discussion
-Estimated time: 20-25 minutes
+discussion<br>
+Estimated time: 20-25 minutes <br><br>
 Requesting additional information is an important mechanism
-to ensure that the data will pass additional quality checks.
+to ensure that the data will pass additional quality checks. <br><br>
 Consider using a <a
 href="https://www.lucidmeetings.com/glossary/plus-delta">plus-delta</a>
 model of requesting information by describing what content was helpful,
 and requesting additional information that enhances the dataset’s
-accessibility.
+accessibility. <br><br>
 A useful approach for this step is to refer to which questions from
 the Understand step either 1) cannot be answered with
 documentation available, and/or 2) require additional confirmation to
@@ -213,40 +210,38 @@ previously, using the Request more information letter (a completed
 example/template letter <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/3-Request_worksheet.pdf">here</a>).
 
-
-<h3 id="augment-step">Augment Step</h3>
-
-
-Mode(s): Lecture, discussion
-Estimated time: 15 minutes
+## Augment Step
+Mode(s): Lecture, discussion <br>
+Estimated time: 15 minutes <br><br>
 Augmenting the original dataset submitted is how incomplete
 submissions become curatable. This step includes appreciating metadata
-relevant to the submission.
+relevant to the submission. <br><br>
 Small groups will examine the information gathered in the Understand
 and Request steps of the CURATED workflow. Participants will parse these
 for the “missing pieces” previously identified in the Understand step.
 Working collaboratively, the participants of each group will determine
 how and where to augment the dataset metadata and documentation to
-include the missing elements. Please use the worksheet <a
+include the missing elements. <br><br> 
+
+Please use the worksheet <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/4-Augment_worksheet.pdf">here</a>
 to assist with the activity.
 
 
-<h3 id="transformation-step">Transformation Step</h3>
-
+## Transformation Step
 
 Mode(s): Lecture, activity, small group
-discussion
-Estimated time: 35 minutes
+discussion <br>
+Estimated time: 35 minutes <br><br>
 Transforming data into widely accessible formats ensures
 that the curated dataset can be maximally utilized. Lecture on
 file-format transformation and transformation activity. Participants
 will transform the image datasets, examine the changes made to the data,
 and discuss the implications of the transformation for curation and data
-sharing.
+sharing. <br><br>
 In this step, consider the file formats in the dataset to make them
 more interoperable, reusable, preservation friendly, and non-proprietary
-when possible.<sup>1</sup>
+when possible.[^1] <br><br>
 Common TRANSFORM steps include:
 
 - Identify specialized file formats and their restrictions (e.g.,
@@ -257,7 +252,7 @@ alongside the data)
 (*.png))
 - Retain original file formats
 
-<sup>1</sup> See Cornell’s list of preservation format
+[^1]: See Cornell’s list of preservation format
 recommendations: <a
 href="http://guides.library.cornell.edu/ecommons/formats">http://guides.library.cornell.edu/ecommons/formats</a>
 Library of Congress - Sustainability of Digital Formats:
@@ -270,7 +265,7 @@ Follow along: <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Scientific%20Images/Exercise%20Materials/Worksheets/5-Transform_worksheet.pdf">5-Transform_worksheet</a>
 
 
-<h3 id="evaluate-step">Evaluate Step</h3>
+Evaluate Step
 
 
 Mode: Lecture, small group
