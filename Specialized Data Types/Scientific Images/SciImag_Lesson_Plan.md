@@ -11,72 +11,70 @@
 | Date Created | June 2023 |
 | Created By | Created by <br> The Pixels: <br> Sarah J. Wright, Cornell University, <a href="https://orcid.org/0000-0002-1502-131X">https://orcid.org/0000-0002-1502-131X</a><br> Mariah Kenney, Carnegie Mellon University, <a href="https://orcid.org/0000-0003-4884-108X">https://orcid.org/0000-0003-4884-108X</a><br> Paul M. Gignac, University of Arizona, <a href="https://orcid.org/0000-0001-9181-3258">https://orcid.org/0000-0001-9181-3258</a><br> Amy Schuler, Cary Institute of Ecosystem Studies, <a href="https://orcid.org/0000-0002-2459-2413">https://orcid.org/0000-0002-2459-2413</a><br> Neggin Keshavarzian, Princeton University, <a href="https://orcid.org/0000-0001-6753-1226">https://orcid.org/0000-0001-6753-1226</a> |
 
-
-
 # Objectives and Vocabulary
 
 Learning Objectives:
 
-<li>Understand the steps of the DCN CURATED workflow.</li>
-<li>Apply the CURATED workflow to a real-world image dataset</li>
-<li>Through reflection and discussion, evaluate the CURATED
+- Understand the steps of the DCN CURATED workflow.
+- Apply the CURATED workflow to a real-world image dataset
+- Through reflection and discussion, evaluate the CURATED
 activities proposed in the workshop against those proposed by an
-experienced curator</li>
+experienced curator
 
 Terms to Know (organized alphabetically):
 
-<li>Data Curation Primers: Data curation primers are <a
+- Data Curation Primers: Data curation primers are <a
 href="https://datacurationnetwork.org/outputs/data-curation-primers/">peer-reviewed,
 living documents</a> that detail a specific subject, disciplinary
 area or curation task and that can be used as a reference to curate
-research data.</li>
-<li>Deep Blue Data: a repository offered by the University
+research data.
+- Deep Blue Data: a repository offered by the University
 of Michigan Library that provides access and preservation services for
 digital research data that were developed or used in the support of
-research activities at U-M.</li>
-<li>Lossless file format: File compression in which file
+research activities at U-M.
+- Lossless file format: File compression in which file
 size is reduced without losing data or quality from the original file.
 When a lossless file is uncompressed, it is identical to the original
-file before compression (e.g., PNG, TIFF, RAW files).</li>
-<li>Lossy file format: File compression in which file size
+file before compression (e.g., PNG, TIFF, RAW files).
+- Lossy file format: File compression in which file size
 is reduced by permanently eliminating some amount of information,
 especially redundant or less important data. This process results in
 some loss of quality compared to the original file (e.g., JPEG
-files)</li>
-<li>Pixel: The smallest unit of a 2D image, representing
+files)
+- Pixel: The smallest unit of a 2D image, representing
 brightness and/or color. The width and length of a pixel may correspond
-to physical measurements of distance.</li>
-<li>Raster: A type of digital image (e.g., in PNG or TIFF
+to physical measurements of distance.
+- Raster: A type of digital image (e.g., in PNG or TIFF
 file format) that is composed of a discrete grid of pixels corresponding
 to specific picture elements. Raster images have inherent limitations
 when it comes to size scaling due to their pixel-based nature (in
-contrast to vector.)</li>
-<li>Scientific Images: Visual representations of recorded
+contrast to vector.)
+- Scientific Images: Visual representations of recorded
 factual material, 1) composed of a finite number of elements with a
 particular location and value, and 2) commonly accepted in the
 scientific community as of sufficient quality to validate and replicate
-research findings.</li>
-<li>Small: A peer-reviewed and primary research-focused
+research findings.
+- Small: A peer-reviewed and primary research-focused
 scientific journal addressing nano/micro-scale materials and phenomena.
 With a 2021 Journal Impact Factor of 15, Small continues to be
 among the top multidisciplinary journals covering a broad spectrum of
 topics at the nano- and microscale at the interface of materials
 science, chemistry, physics, engineering, medicine, and
-biology.</li>
-<li>Vector: A type of digital image (e.g.,in EPS file
+biology.
+- Vector: A type of digital image (e.g.,in EPS file
 format) that is composed of mathematical equations used to represent
 picture elements. The equations define discrete paths that create simple
 geometric shapes (e.g., points, lines, curves, circles, and polygons)
 and complex images. Vector images can be size scaled without losing
-quality.</li>
-<li>Voxel: The smallest unit of a 3D volume, representing
+quality.
+- Voxel: The smallest unit of a 3D volume, representing
 brightness and/or color (i.e., a “3D pixel”). The width, length, and
 depth of a voxel may correspond to physical measurements of
-distance.</li>
-<li>Z-stack: A series of 2D images, each with X and Y
+distance.
+- Z-stack: A series of 2D images, each with X and Y
 dimensions, aligned along a third axis of depth (the Z-axis). This
 alignment forms a coherent sequence, creating a 3D representation by
-adding volume information to traditionally flat X and Y axes.</li>
+adding volume information to traditionally flat X and Y axes.
 
 See <a
 href="https://www.pearson.com/en-gb/subject-catalog/p/digital-image-processing-global-edition/P200000004313/9781292223070">this
@@ -97,20 +95,20 @@ definitions.
 <tr class="even">
 Required Tools/Software:
 
-<li>Web browser</li>
-<li>text editing software</li>
-<li>ImageJ (a.k.a., FIJI)</li>
+- Web browser
+- text editing software
+- ImageJ (a.k.a., FIJI)
 
 
-<li>Instructions can be found in “Pre-Work” document</li>
+- Instructions can be found in “Pre-Work” document
 
 Dataset Citations:
 
-<li><mark>Moniri, S., Bale, H., Volkenandt, T., Wang, Y., Gao, J.,
+- <mark>Moniri, S., Bale, H., Volkenandt, T., Wang, Y., Gao, J.,
 Lu, T., Sun, K., Shahani, A. J. (2020). Dataset for 'Multi‑Step
 Crystallization of Self‑Organized Spiral Eutectics' [Data set],
 University of Michigan - Deep Blue Data. <a
-href="https://doi.org/10.7302/day1-6d63">https://doi.org/10.7302/day1-6d63</a></mark></li>
+href="https://doi.org/10.7302/day1-6d63">https://doi.org/10.7302/day1-6d63</a></mark>
 
 
 </tbody>
@@ -126,76 +124,76 @@ href="https://doi.org/10.7302/day1-6d63">https://doi.org/10.7302/day1-6d63</a></
 
 <tr class="even">
 <ol type="I">
-<li>Introduction
+- Introduction
 <ol type="A">
-<li>Aims</li>
-<li>Curator Log</li>
-<li>What are scientific images?</li>
-<li>Software Roundup &amp; Get ImageJ Running</li>
-</ol></li>
-<li>Check
+- Aims
+- Curator Log
+- What are scientific images?
+- Software Roundup &amp; Get ImageJ Running
+</ol>
+- Check
 <ol type="A">
-<li>Introduce Check Worksheet</li>
-<li>Activity: file format, general requirements</li>
-</ol></li>
-<li>Understand
+- Introduce Check Worksheet
+- Activity: file format, general requirements
+</ol>
+- Understand
 <ol type="A">
-<li>Introduction to Understand step</li>
-<li>Think-pair-share activity
+- Introduction to Understand step
+- Think-pair-share activity
 <ol type="1">
-<li>Review of questions needed to understand data
+- Review of questions needed to understand data
 <ol type="a">
-<li>Share out 1 :
+- Share out 1 :
 <ol type="1">
-<li>Did the data pass the Check step?</li>
-</ol></li>
-</ol></li>
-<li>Digging Deeper
+- Did the data pass the Check step?
+</ol>
+</ol>
+- Digging Deeper
 <ol type="a">
-<li>Share out 2:
+- Share out 2:
 <ol type="1">
-<li>What didn’t you understand about the dataset?</li>
-</ol></li>
-</ol></li>
-</ol></li>
-</ol></li>
-<li>Request
+- What didn’t you understand about the dataset?
+</ol>
+</ol>
+</ol>
+</ol>
+- Request
 <ol type="A">
-<li>Introduce the Request step</li>
-<li>Example Request step email template</li>
-<li>Request step Activity
+- Introduce the Request step
+- Example Request step email template
+- Request step Activity
 <ol type="1">
-<li>Group role-play activity &amp; report back;
-*or*</li>
-<li>Group AI activity &amp; report back</li>
-</ol></li>
-</ol></li>
-<li>Augment
+- Group role-play activity &amp; report back;
+*or*
+- Group AI activity &amp; report back
+</ol>
+</ol>
+- Augment
 <ol type="A">
-<li>Introduction</li>
-<li>What is metadata?</li>
-<li>Considerations</li>
-</ol></li>
-<li>Transformation
+- Introduction
+- What is metadata?
+- Considerations
+</ol>
+- Transformation
 <ol type="A">
-<li>Introduction with example</li>
-<li>Transformation activity &amp; group discussion</li>
-</ol></li>
-<li>Evaluate</li>
+- Introduction with example
+- Transformation activity &amp; group discussion
+</ol>
+- Evaluate
 </ol>
 <ol type="A">
-<li>Introduction to FAIR &amp; CARE</li>
-<li>Evaluate exercise</li>
+- Introduction to FAIR &amp; CARE
+- Evaluate exercise
 </ol>
 <ol start="8" type="I">
-<li>Document
+- Document
 <ol type="A">
-<li>Group Discussion about Curator Log contents</li>
-</ol></li>
-<li>Review and Summary
+- Group Discussion about Curator Log contents
+</ol>
+- Review and Summary
 <ol type="A">
-<li>Questions</li>
-</ol></li>
+- Questions
+</ol>
 </ol>
 
 
@@ -312,13 +310,13 @@ more interoperable, reusable, preservation friendly, and non-proprietary
 when possible.<sup>1</sup>
 Common TRANSFORM steps include:
 
-<li>Identify specialized file formats and their restrictions (e.g.,
+- Identify specialized file formats and their restrictions (e.g.,
 Is the software freely available? If so, link to it or archive it
-alongside the data)</li>
-<li>Propose open source or more reusable formats when appropriate
+alongside the data)
+- Propose open source or more reusable formats when appropriate
 (e.g., TIFF (uncompressed), JPEG2000 (lossless) (*.jp2), or PNG
-(*.png))</li>
-<li>Retain original file formats</li>
+(*.png))
+- Retain original file formats
 
 <sup>1</sup> See Cornell’s list of preservation format
 recommendations: <a
