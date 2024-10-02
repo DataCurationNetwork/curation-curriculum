@@ -458,7 +458,7 @@ discuss together:
 	- What questions do you have for each other?- If time, discuss as a large group and see if the small groups had
 similar experiences
 
-## Augment Step<
+## Augment Step
 Mode(s): Lecture and large group discussion
 Estimated time: 10 minutes
 
@@ -566,8 +566,9 @@ https://www.cesm.ucar.edu/working_groups/Whole-Atmosphere/.
 href="https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m">https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m</a>
 	- Transform older NetCDF format to HDF5 or NetCDF4
 	- Alternative data example: <a
-href="https://databank.illinois.edu/datasets/IDB-0791318">https://databank.illinois.edu/datasets/IDB-0791318</a></li>
-</ul>
+href="https://databank.illinois.edu/datasets/IDB-0791318">https://databank.illinois.edu/datasets/IDB-0791318</a>
+
+
 - Confluence Density Effects Simulation Database: <a
 href="https://databank.illinois.edu/datasets/IDB-6257171">https://databank.illinois.edu/datasets/IDB-6257171</a>
 	- Transform the two xls files to csv and the docx documentation
