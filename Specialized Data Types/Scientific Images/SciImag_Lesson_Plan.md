@@ -13,7 +13,7 @@
 
 # Objectives and Vocabulary
 
-Learning Objectives:
+## Learning Objectives:
 
 - Understand the steps of the DCN CURATED workflow.
 - Apply the CURATED workflow to a real-world image dataset
@@ -21,7 +21,7 @@ Learning Objectives:
 activities proposed in the workshop against those proposed by an
 experienced curator
 
-Terms to Know (organized alphabetically):
+## Terms to Know (organized alphabetically):
 
 - Data Curation Primers: Data curation primers are <a
 href="https://datacurationnetwork.org/outputs/data-curation-primers/">peer-reviewed,
@@ -81,18 +81,9 @@ href="https://www.pearson.com/en-gb/subject-catalog/p/digital-image-processing-g
 resource</a> for further scientific imaging terminology and
 definitions.
 
-</tbody>
-</table>
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
+# Dataset(s) for Lesson 
 
-<h2 id="datasets-for-lesson">Dataset(s) for Lesson</h2>
-
-<tr class="even">
 Required Tools/Software:
 
 - Web browser
@@ -102,27 +93,18 @@ Required Tools/Software:
 
 - Instructions can be found in “Pre-Work” document
 
-Dataset Citations:
+## Dataset Citations:
 
-- <mark>Moniri, S., Bale, H., Volkenandt, T., Wang, Y., Gao, J.,
+Moniri, S., Bale, H., Volkenandt, T., Wang, Y., Gao, J.,
 Lu, T., Sun, K., Shahani, A. J. (2020). Dataset for 'Multi‑Step
 Crystallization of Self‑Organized Spiral Eutectics' [Data set],
 University of Michigan - Deep Blue Data. <a
-href="https://doi.org/10.7302/day1-6d63">https://doi.org/10.7302/day1-6d63</a></mark>
+href="https://doi.org/10.7302/day1-6d63">https://doi.org/10.7302/day1-6d63</a>
 
 
-</tbody>
-</table>
+# Outline and Content 
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
 
-<h2 id="outline-and-content">Outline and Content</h2>
-
-<tr class="even">
 <ol type="I">
 - Introduction
 <ol type="A">
@@ -199,7 +181,7 @@ href="https://doi.org/10.7302/day1-6d63">https://doi.org/10.7302/day1-6d63</a></
 
 <h3 id="introduction">Introduction</h3>
 
-<tr class="even">
+
 Mode(s): Lecture
 Estimated time: 15 minutes
 Describe aims of the workshop, introduce the curator log, define and
@@ -209,7 +191,7 @@ view and manipulate images.
 
 <h3 id="check-step">Check Step </h3>
 
-<tr class="even">
+
 Mode(s): Lecture, activity and small group
 discussion
 Estimated time: 30 minutes
@@ -227,7 +209,7 @@ to assist with the activity.
 
 <h3 id="understand-step">Understand Step</h3>
 
-<tr class="even">
+
 Mode(s): Lecture, small group
 discussion
 Estimated time: 20 minutes
@@ -253,7 +235,7 @@ Documentation.
 
 <h3 id="request-step">Request Step</h3>
 
-<tr class="even">
+
 Mode(s): Lecture, activity and small group
 discussion
 Estimated time: 20-25 minutes
@@ -277,7 +259,7 @@ href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b65
 
 <h3 id="augment-step">Augment Step</h3>
 
-<tr class="even">
+
 Mode(s): Lecture, discussion
 Estimated time: 15 minutes
 Augmenting the original dataset submitted is how incomplete
@@ -295,7 +277,7 @@ to assist with the activity.
 
 <h3 id="transformation-step">Transformation Step</h3>
 
-<tr class="even">
+
 Mode(s): Lecture, activity, small group
 discussion
 Estimated time: 35 minutes
@@ -333,7 +315,7 @@ href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b65
 
 <h3 id="evaluate-step">Evaluate Step</h3>
 
-<tr class="even">
+
 Mode: Lecture, small group
 discussion
 Estimated time: 15 minutes
@@ -351,7 +333,7 @@ to guide your discussions.
 
 Document Step
 
-<tr class="even">
+
 Mode: Whole room discussion
 Estimated time: 10-15 minutes
 A whole room discussion about the documentation process. Please
@@ -368,7 +350,7 @@ revisit your curator log.
 
 <h2 id="additional-resources">Additional Resources </h2>
 
-<tr class="even">
+
 Bibliography
 <blockquote>
 Bray, M.-A., S.M. Gustafsdottir, M.H. Rohban, S. Singh, V. Ljosa,
@@ -409,10 +391,10 @@ Piovesan, A., V. Vancauwenberghe, T. Van De Looverbosch, P. Verboven,
 and B. Nicolaï. “X-Ray Computed Tomography for 3D Plant Imaging.”
 Trends in Plant Science 26, no. 11 (2021): 1171–85. <a
 href="https://doi.org/10.1016/j.tplants.2021.07.010">https://doi.org/10.1016/j.tplants.2021.07.010</a>.
-<mark>Sarkans, U., Chiu, W., Collinson, L. et al. REMBI:
+Sarkans, U., Chiu, W., Collinson, L. et al. REMBI:
 Recommended Metadata for Biological Images—enabling reuse of microscopy
 data in biology. Nat Methods 18, 1418–1422 (2021). <a
-href="https://doi.org/10.1038/s41592-021-01166-8">https://doi.org/10.1038/s41592-021-01166-8</a></mark>
+href="https://doi.org/10.1038/s41592-021-01166-8">https://doi.org/10.1038/s41592-021-01166-8</a>
 Williams, E., J. Moore, S.W. Li, G. Rustici, A. Tarkowska, A.
 Chessel, S. Leo, et al. “Image Data Resource: A Bioimage Data
 Integration and Publication Platform.” Nature Methods 14, no. 8
