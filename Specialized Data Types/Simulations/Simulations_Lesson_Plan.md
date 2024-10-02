@@ -1,11 +1,21 @@
-# <a name="_heading=h.w9klu5phc851"></a>Data Curation Network Lesson Plan: 
-# <a name="_heading=h.iwfwnp9t11tx"></a>Curating Simulation-based Research 
+# Data Curation Network Lesson Plan: 
+# Curating Simulation-based Research 
 
-<table>
-<tr><th colspan="2" valign="top"><h2>Lesson Description</h2></th></tr>
+# Lesson Description
+
+| ------------- | ------------- |
+| Data Type | Simulation Data, Simulation Models, Simulation Workflows |
+| First Header  | Second Header |
+| First Header  | Second Header |
+| First Header  | Second Header |
+| First Header  | Second Header |
+| First Header  | Second Header |
+| First Header  | Second Header |
+| First Header  | Second Header |
+
 <tr class="even">
 <td><strong>Data Type</strong></td>
-<td>Simulation Data, Simulation Models, Simulation Workflows</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>Primary fields or areas of use</strong></td>
