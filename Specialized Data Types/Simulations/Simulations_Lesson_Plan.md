@@ -7,63 +7,27 @@
 | Primary fields or areas of use  | <li>Oceanography and Atmospheric Sciences and Meteorology</li><li>Earth Sciences</li><li>Chemical Engineering</li><li>Astrophysics and Astronomy</li><li>Aerospace Engineering</li><li>Civil and Environmental Engineering</li><li>Physics</li><li>Chemistry</li><li>Climate</li> |
 | Common file formats  | <li>netCDF</li><li>HDF, HDF5</li><li>MAT</li><li>.m</li><li>.dat</li><li>RData</li><li>Tabular (.csv &amp; .xls)</li><li>Text</li><li>Other binary formats</li> |
 | Summary  | The curriculum covers a range of foundational background information about what simulation data is and the pieces that make up simulation datasets. The workshop looks at two simulation datasets throughout and a third dataset when focusing on the Transform step. The curriculum teaches learners to formulate high impact considerations that uncover traditional barriers to FAIR when curating simulation data. This curriculum leans to a high level overview of the workshop, the curriculum requires the slides for more detail. <br><br> This curriculum assumes some prior knowledge of CURATE(D) and exposure curating scientific data. The size of the two datasets are 403 MB and 2 GB and require the data to be downloaded onto a device such as Windows, OSX, or Linux. |
+| Estimated time  | 2.5 hours |
+| Related primers  | See published <a href="https://datacurationnetwork.org/outputs/data-curation-primers/">primers</a> <br><br> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md">Accessibility Data Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/PDF%20Data%20Curation%20Primer/PDF-data-curation-primer.md">Acrobat PDF Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Column%20Binary%20Data%20Curation%20Primer/column-binary-data-curation-primer.md">Column
+Binary Data Curation Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Jupyter%20Notebook%20Data%20Curation%20Primer/Jupyter%20Notebooks%20Data%20Curation%20Primer.md">Jupyter
+Notebooks Primer</a></li> <li><a href="https://deepblue.lib.umich.edu/handle/2027.42/154686">Matlab Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/MSAcess%20Data%20Curation%20Primer/MSAccessCopy2.md">Microsoft Access Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Excel%20Data%20Curation%20Primer/Excel%20Data%20Curation%20Primer.md">Microsoft Excel Primer</a></li> <li><a href="https://deepblue.lib.umich.edu/handle/2027.42/145724">netCDF Primer</a></li> <li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/R%20Data%20Curation%20Primer/R-data-curation-primer.md">R Primer</a></li> |
 | First Header  | Second Header |
 | First Header  | Second Header |
-| First Header  | Second Header |
-| First Header  | Second Header |
 
 
 
 
 
 
-</ul></td>
-</tr>
-<tr class="odd">
-<td><strong></strong></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>Estimated time</strong></td>
-<td><em>2.5 hours</em></td>
-</tr>
-<tr class="odd">
-<td><strong>Related primers</strong></td>
-<td><em>See published <a
-href="https://datacurationnetwork.org/outputs/data-curation-primers/"><u>primers</u></a></em>
-<ul>
-<li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md"><em><u>Accessibility
-Data Primer</u></em></a></li>
-<li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/PDF%20Data%20Curation%20Primer/PDF-data-curation-primer.md"><em><u>Acrobat
-PDF Primer</u></em></a></li>
-<li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Column%20Binary%20Data%20Curation%20Primer/column-binary-data-curation-primer.md"><em><u>Column
-Binary Data Curation Primer</u></em></a></li>
-<li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Jupyter%20Notebook%20Data%20Curation%20Primer/Jupyter%20Notebooks%20Data%20Curation%20Primer.md"><em><u>Jupyter
-Notebooks Primer</u></em></a></li>
-<li><a
-href="https://deepblue.lib.umich.edu/handle/2027.42/154686"><em><u>Matlab
-Primer</u></em></a></li>
-<li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/MSAcess%20Data%20Curation%20Primer/MSAccessCopy2.md"><em><u>Microsoft
-Access Primer</u></em></a></li>
-<li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Excel%20Data%20Curation%20Primer/Excel%20Data%20Curation%20Primer.md"><em><u>Microsoft
-Excel Primer</u></em></a></li>
-<li><a
-href="https://deepblue.lib.umich.edu/handle/2027.42/145724"><em><u>netCDF
-Primer</u></em></a></li>
-<li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/R%20Data%20Curation%20Primer/R-data-curation-primer.md"><em><u>R
-Primer</u></em></a></li>
+
+
+
+
 </ul></td>
 </tr>
 <tr class="even">
 <td><strong>Link to Slides</strong></td>
-<td><u>Curating simulation-based research</u></td>
+<td>Curating simulation-based research</td>
 </tr>
 <tr class="odd">
 <td><strong>Date created</strong></td>
@@ -78,7 +42,7 @@ Fernando Rios, University of Arizona,
 https://orcid.org/0000-0001-6262-3260
 Girmaye Misgna, University of Pennsylvania
 Wanda Marsolek, University of Minnesota, <a
-href="https://orcid.org/0000-0002-1771-3969"><u>https://orcid.org/0000-0002-1771-3969</u></a></td>
+href="https://orcid.org/0000-0002-1771-3969">https://orcid.org/0000-0002-1771-3969</a></td>
 </tr>
 </tbody>
 </table>
@@ -116,8 +80,8 @@ curate simulation data
 
 
 <strong>Terms to Know:</strong> <a
-href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Simulations_glossary.pdf"><u>See
-Glossary</u></a></td>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Simulations_glossary.pdf">See
+Glossary</a></td>
 </tr>
 </tbody>
 </table>
@@ -144,18 +108,18 @@ Dataset A:
 Yang, Huang; Waugh, Darryn W., 2020, "Data associated with Yang et
 al., 2020, Dependence of Atmospheric Transport into the Arctic on Extent
 of the Hadley Cell", <a
-href="https://doi.org/10.7281/T1/AWJUGZ"><u>https://doi.org/10.7281/T1/AWJUGZ</u></a>,
+href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a>,
 Johns Hopkins Research Data Repository, V1
 Dataset B:
 Do, H. X., Smith, J. P., Fry, L. M., Gronewold, A. D. (2020). Monthly
 water balance estimates for the Laurentian Great Lakes from 1950 to 2019
 (v1.1) [Data set], University of Michigan - Deep Blue Data. <a
-href="https://doi.org/10.7302/tx97-nn12"><u>https://doi.org/10.7302/tx97-nn12</u></a>
+href="https://doi.org/10.7302/tx97-nn12">https://doi.org/10.7302/tx97-nn12</a>
 Dataset C:
 Horna Munoz, Daniel; Constantinescu, George; Rhoads, Bruce ; Lewis,
 Quinn; Sukhodolov, Alexander (2020): Confluence Density Effects
 Simulation Database. University of Illinois at Urbana-Champaign. <a
-href="https://doi.org/10.13012/B2IDB-6257171_V1"><u>https://doi.org/10.13012/B2IDB-6257171_V1</u></a></td>
+href="https://doi.org/10.13012/B2IDB-6257171_V1">https://doi.org/10.13012/B2IDB-6257171_V1</a></td>
 </tr>
 </tbody>
 </table>
@@ -220,9 +184,9 @@ by the input data (via training)</li>
 <td><h3 id="introduction">Introduction </h3></td>
 </tr>
 <tr class="odd">
-<td><strong>Mode(s):</strong> <em>Lecture</em>
-<strong>Estimated time<em>: </em></strong><em>20-25
-minutes</em></td>
+<td><strong>Mode(s):</strong> Lecture
+<strong>Estimated time: </strong>20-25
+minutes</td>
 </tr>
 <tr class="even">
 <td>Lesson intro
@@ -240,9 +204,9 @@ primers.</li>
 What is special about curating simulation models and data?
 <ul>
 <li>Key points of <a
-href="https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full"><em><u>Open
+href="https://www.frontiersin.org/articles/10.3389/fclim.2021.763420/full">Open
 Science Expectations for Simulation-Based Research by Mullendore,
-Mayernik, and Shuster (2021)</u></em></a></li>
+Mayernik, and Shuster (2021)</a></li>
 <li>Key characteristics/unique elements of simulation data</li>
 <li>Simulation vs AI/ML</li>
 <li>Mention that CURATED is more for explanatory reasons, in reality,
@@ -263,10 +227,10 @@ Learned</del>. (KWL) KW mentimeter</td>
 <tr class="even">
 <td><h3
 id="modes-lecture-download-curation-log-template"><strong>Mode(s):</strong>
-<em>Lecture, download curation log template</em> </h3>
+Lecture, download curation log template </h3>
 <h3 id="section"></h3>
-<h3 id="estimated-time-5-10-minutes"><strong>Estimated time<em>:
-</em></strong><em>5-10 minutes</em></h3></td>
+<h3 id="estimated-time-5-10-minutes"><strong>Estimated time:
+</strong>5-10 minutes</h3></td>
 </tr>
 <tr class="odd">
 <td><strong>Lecture:</strong>
@@ -284,10 +248,10 @@ the datasets’ FAIRness, can it be made more FAIR, and how.</td>
 <tr class="odd">
 <td><h3
 id="modes-lecture-independent-exercise"><strong>Mode(s):</strong>
-<em>Lecture, independent exercise</em> </h3>
+Lecture, independent exercise </h3>
 <h3 id="section-1"></h3>
-<h3 id="estimated-time-30-minutes"><strong>Estimated time<em>:
-</em></strong><em>30 minutes</em></h3></td>
+<h3 id="estimated-time-30-minutes"><strong>Estimated time:
+</strong>30 minutes</h3></td>
 </tr>
 <tr class="even">
 <td><strong>Lecture:</strong>
@@ -383,7 +347,7 @@ paper)</li>
 not</li>
 <li>Do the necessary files appear to be there?</li>
 <li>Sample dataset: <a
-href="https://doi.org/10.7281/T1/AWJUGZ"><u>https://doi.org/10.7281/T1/AWJUGZ</u></a></li>
+href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a></li>
 </ul></li>
 </ul></td>
 </tr>
@@ -391,8 +355,8 @@ href="https://doi.org/10.7281/T1/AWJUGZ"><u>https://doi.org/10.7281/T1/AWJUGZ</u
 <td><h3 id="understand-step">Understand Step</h3></td>
 </tr>
 <tr class="even">
-<td><strong>Mode(s):</strong> <em>Lecture</em>
-<strong>Estimated time:</strong> <em>25 minutes</em></td>
+<td><strong>Mode(s):</strong> Lecture
+<strong>Estimated time:</strong> 25 minutes</td>
 </tr>
 <tr class="odd">
 <td><strong>Lecture (25 minutes)</strong>
@@ -453,13 +417,13 @@ Directory exploration
 </blockquote>
 <ul>
 <li><blockquote>
-<a href="https://windirstat.net/index.html"><u>WinDirStat</u></a>
+<a href="https://windirstat.net/index.html">WinDirStat</a>
 (Windows Directory Statistics), <a
-href="https://diskanalyzer.com/"><u>WizTree</u></a> (Windows)
+href="https://diskanalyzer.com/">WizTree</a> (Windows)
 </blockquote></li>
 <li><blockquote>
-<a href="https://wiki.gnome.org/Apps/DiskUsageAnalyzer"><u>Disk Usage
-Analyzer/baobab</u></a> (Linux, Mac, Windows/WSL)
+<a href="https://wiki.gnome.org/Apps/DiskUsageAnalyzer">Disk Usage
+Analyzer/baobab</a> (Linux, Mac, Windows/WSL)
 </blockquote></li>
 </ul></li>
 <li><blockquote>
@@ -468,12 +432,12 @@ Duplicate checkers
 <ul>
 <li><blockquote>
 <a
-href="https://apps.microsoft.com/detail/9P8TBNHH1MS9?hl=en-us&amp;gl=US"><u>Duplicate
-File Finder</u></a> (Windows)
+href="https://apps.microsoft.com/detail/9P8TBNHH1MS9?hl=en-us&amp;gl=US">Duplicate
+File Finder</a> (Windows)
 </blockquote></li>
 <li><blockquote>
 <a
-href="https://github.com/adrianlopezroche/fdupes"><u>fdupes</u></a>
+href="https://github.com/adrianlopezroche/fdupes">fdupes</a>
 (Linux)
 </blockquote></li>
 </ul></li>
@@ -489,36 +453,36 @@ when working with formats that you are unfamiliar with.
 <ul>
 <li>Simulation data can be in many formats</li>
 <li><a
-href="https://datacurationnetwork.org/outputs/data-curation-primers/"><u>Data
-curation primers</u></a> useful when working with simulation data
+href="https://datacurationnetwork.org/outputs/data-curation-primers/">Data
+curation primers</a> useful when working with simulation data
 <ul>
 <li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md"><u>Accessibility
-Data Primer</u></a></li>
+href="https://github.com/DataCurationNetwork/data-primers/blob/master/Accessibility%20Data%20Curation%20Primer/accessibility-data-curation-primer.md">Accessibility
+Data Primer</a></li>
 <li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/PDF%20Data%20Curation%20Primer/PDF-data-curation-primer.md"><u>Acrobat
-PDF Primer</u></a></li>
+href="https://github.com/DataCurationNetwork/data-primers/blob/master/PDF%20Data%20Curation%20Primer/PDF-data-curation-primer.md">Acrobat
+PDF Primer</a></li>
 <li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Column%20Binary%20Data%20Curation%20Primer/column-binary-data-curation-primer.md"><u>Column
-Binary Data Curation Primer</u></a></li>
+href="https://github.com/DataCurationNetwork/data-primers/blob/master/Column%20Binary%20Data%20Curation%20Primer/column-binary-data-curation-primer.md">Column
+Binary Data Curation Primer</a></li>
 <li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Jupyter%20Notebook%20Data%20Curation%20Primer/Jupyter%20Notebooks%20Data%20Curation%20Primer.md"><u>Jupyter
-Notebooks Primer</u></a></li>
+href="https://github.com/DataCurationNetwork/data-primers/blob/master/Jupyter%20Notebook%20Data%20Curation%20Primer/Jupyter%20Notebooks%20Data%20Curation%20Primer.md">Jupyter
+Notebooks Primer</a></li>
 <li><a
-href="https://deepblue.lib.umich.edu/handle/2027.42/154686"><u>Matlab
-Primer</u></a></li>
+href="https://deepblue.lib.umich.edu/handle/2027.42/154686">Matlab
+Primer</a></li>
 <li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/MSAcess%20Data%20Curation%20Primer/MSAccessCopy2.md"><u>Microsoft
-Access Primer</u></a></li>
+href="https://github.com/DataCurationNetwork/data-primers/blob/master/MSAcess%20Data%20Curation%20Primer/MSAccessCopy2.md">Microsoft
+Access Primer</a></li>
 <li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Excel%20Data%20Curation%20Primer/Excel%20Data%20Curation%20Primer.md"><u>Microsoft
-Excel Primer</u></a></li>
+href="https://github.com/DataCurationNetwork/data-primers/blob/master/Excel%20Data%20Curation%20Primer/Excel%20Data%20Curation%20Primer.md">Microsoft
+Excel Primer</a></li>
 <li><a
-href="https://deepblue.lib.umich.edu/handle/2027.42/145724"><u>netCDF
-Primer</u></a></li>
+href="https://deepblue.lib.umich.edu/handle/2027.42/145724">netCDF
+Primer</a></li>
 <li><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/R%20Data%20Curation%20Primer/R-data-curation-primer.md"><u>R
-Primer</u></a></li>
+href="https://github.com/DataCurationNetwork/data-primers/blob/master/R%20Data%20Curation%20Primer/R-data-curation-primer.md">R
+Primer</a></li>
 </ul></li>
 </ul>
 <strong>Which parts are needed? (Review from introduction
@@ -568,7 +532,7 @@ simulation models can look like.
 Do, H. X., Smith, J. P., Fry, L. M., Gronewold, A. D. (2020). Monthly
 water balance estimates for the Laurentian Great Lakes from 1950 to 2019
 (v1.1) [Data set], University of Michigan - Deep Blue Data. <a
-href="https://doi.org/10.7302/tx97-nn12"><u>https://doi.org/10.7302/tx97-nn12</u></a>
+href="https://doi.org/10.7302/tx97-nn12">https://doi.org/10.7302/tx97-nn12</a>
 From the files list, we can see that they include the inputs,
 model/source code, and outputs.
 [Show unzipped files]
@@ -593,10 +557,10 @@ include a config_README</li>
 <tr class="odd">
 <td><h3
 id="modes-lecture-small-group-activity"><strong>Mode(s):</strong>
-<em>Lecture, small group activity</em></h3>
+Lecture, small group activity</h3>
 <h3 id="section-2"></h3>
 <h3 id="estimated-time-20-minutes"><strong>Estimated time:</strong>
-<em>20 minutes</em></h3></td>
+20 minutes</h3></td>
 </tr>
 <tr class="even">
 <td><strong>Lecture (5 minutes)</strong>
@@ -629,14 +593,14 @@ questions for researchers, and see examples of use cases for how much
 data to preserve
 <ul>
 <li><a
-href="https://zoidy.shinyapps.io/ModelDataRubric/"><u>EarthCube
-rubric</u></a> tool to:
+href="https://zoidy.shinyapps.io/ModelDataRubric/">EarthCube
+rubric</a> tool to:
 <ul>
 <li>Understand researcher perspective</li>
 <li>Identify questions for researchers 📝</li>
 <li>Determine the <a
-href="https://modeldatarcn.github.io/rubrics-worksheets/Rubric-Instructions-and-Use-Cases.pdf"><u>Use
-Case</u></a> for output data to preserve
+href="https://modeldatarcn.github.io/rubrics-worksheets/Rubric-Instructions-and-Use-Cases.pdf">Use
+Case</a> for output data to preserve
 <ul>
 <li>Use Case 1: “Preserve Few Simulation Workflow Outputs”</li>
 <li>Use Case 2: “Preserve Selected Simulation Workflow
@@ -651,8 +615,8 @@ Outputs”</li>
 <li>In groups of 4-6 people:
 <ul>
 <li>Open the <a
-href="https://deepblue.lib.umich.edu/data/concern/file_sets/d504rk54x"><u>README
-file</u></a> from Example Dataset B and review it. Pay particular
+href="https://deepblue.lib.umich.edu/data/concern/file_sets/d504rk54x">README
+file</a> from Example Dataset B and review it. Pay particular
 attention to the “Research Overview” and the list of files under “Files
 Contained Here.”</li>
 <li>In your group, decide who will act as the researcher depositing
@@ -660,10 +624,10 @@ the output data, and who will act as the data curator receiving the data
 files.</li>
 </ul></li>
 <li>Researchers work together and data curators work together. Open
-the <a href="https://zoidy.shinyapps.io/ModelDataRubric/"><u>EarthCube
-rubric</u></a> and answer the questions as best you can with the <a
-href="https://deepblue.lib.umich.edu/data/concern/data_sets/sb3978457#items_display"><u>Example
-Dataset B</u></a> in mind. Answer the questions as you would in your
+the <a href="https://zoidy.shinyapps.io/ModelDataRubric/">EarthCube
+rubric</a> and answer the questions as best you can with the <a
+href="https://deepblue.lib.umich.edu/data/concern/data_sets/sb3978457#items_display">Example
+Dataset B</a> in mind. Answer the questions as you would in your
 role as the researcher or data curator.
 <ul>
 <li>You can use the file list in the README file, and/or download the
@@ -688,10 +652,10 @@ similar experiences.</li>
 <td><h3 id="augment-step">Augment Step</h3></td>
 </tr>
 <tr class="even">
-<td><strong>Mode(s):</strong> <em>Lecture and large group
-discussion</em>
-<strong>Estimated time<em>: </em></strong><em>10
-minutes</em></td>
+<td><strong>Mode(s):</strong> Lecture and large group
+discussion
+<strong>Estimated time: </strong>10
+minutes</td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -719,10 +683,10 @@ attribution</li>
 <td><h3 id="transformation-step">Transformation Step </h3></td>
 </tr>
 <tr class="odd">
-<td><strong>Mode(s):</strong> <em>Lecture, independent
-exercise</em>
-<strong>Estimated time<em>: </em></strong><em>30
-minutes</em></td>
+<td><strong>Mode(s):</strong> Lecture, independent
+exercise
+<strong>Estimated time: </strong>30
+minutes</td>
 </tr>
 <tr class="even">
 <td>When dealing with simulation data, it is often necessary to
@@ -772,19 +736,19 @@ data.</li>
 Some commonly used simulation platforms/software:
 <ul>
 <li>OpenFOAM: <a
-href="https://openfoam.org/"><u>https://openfoam.org/</u></a></li>
+href="https://openfoam.org/">https://openfoam.org/</a></li>
 <li>GNU Octave: <a
-href="https://octave.org/"><u>https://octave.org/</u></a></li>
+href="https://octave.org/">https://octave.org/</a></li>
 <li>MATLAB: <a
-href="https://www.mathworks.com/products/matlab.html"><u>https://www.mathworks.com/products/matlab.html</u></a></li>
+href="https://www.mathworks.com/products/matlab.html">https://www.mathworks.com/products/matlab.html</a></li>
 </ul>
 Some common simulation data visualization &amp; transformation
 tools:
 <ul>
 <li>Paraview: <a
-href="https://www.paraview.org/"><u>https://www.paraview.org/</u></a></li>
+href="https://www.paraview.org/">https://www.paraview.org/</a></li>
 <li>VisIt: <a
-href="https://visit-dav.github.io/visit-website/about/"><u>https://visit-dav.github.io/visit-website/about/</u></a></li>
+href="https://visit-dav.github.io/visit-website/about/">https://visit-dav.github.io/visit-website/about/</a></li>
 </ul>
 <ul>
 <li>Some simulation software and frameworks (such as MATLAB) provide
@@ -816,20 +780,20 @@ CESM1(WACCM)
 https://www.cesm.ucar.edu/working_groups/Whole-Atmosphere/.
 <ul>
 <li><a
-href="https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m"><u>https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m</u></a></li>
+href="https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m">https://cornell.app.box.com/s/h18flj5i5oerjlkixcckns7vsz1v1o6m</a></li>
 <li>Transform older NetCDF format to HDF5 or NetCDF4</li>
 <li>Alternative data example: <a
-href="https://databank.illinois.edu/datasets/IDB-0791318"><u>https://databank.illinois.edu/datasets/IDB-0791318</u></a></li>
+href="https://databank.illinois.edu/datasets/IDB-0791318">https://databank.illinois.edu/datasets/IDB-0791318</a></li>
 </ul></li>
 <li>Confluence Density Effects Simulation Database: <a
-href="https://databank.illinois.edu/datasets/IDB-6257171"><u>https://databank.illinois.edu/datasets/IDB-6257171</u></a>
+href="https://databank.illinois.edu/datasets/IDB-6257171">https://databank.illinois.edu/datasets/IDB-6257171</a>
 <ul>
 <li>Transform the two xls files to csv and the docx documentation
 file to .pdf format.</li>
 <li>What is the .lay file? Can it be transformed into an open file
 format? suggest alternative open format and conversion tools to the
 proprietary tecplot, <a
-href="https://www.tecplot.com/products/tecplot-360/"><u>https://www.tecplot.com/products/tecplot-360/</u></a></li>
+href="https://www.tecplot.com/products/tecplot-360/">https://www.tecplot.com/products/tecplot-360/</a></li>
 <li>Alternatives to Tecplot (CFD [computational fluid dynamics] 3d
 simulation &amp; visualization software): Paraview (free and
 open-source), OpenFOAM (free and open-source), VisIt (free and
@@ -853,9 +817,9 @@ problems"</li>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Mode(s):</strong> <em>independent exercise/Group
-exercise</em>
-<strong>Estimated time:</strong> <em>10 minutes</em></td>
+<td><strong>Mode(s):</strong> independent exercise/Group
+exercise
+<strong>Estimated time:</strong> 10 minutes</td>
 </tr>
 <tr class="even">
 <td>Exercise: "What I Learned. (KWL) and “What is still muddy” L M
@@ -878,30 +842,30 @@ Resources</h2></th>
 <tr class="odd">
 <td>Ordered as referenced throughout lesson plan and slide deck
 Interactive presentation software. Mentimeter. <a
-href="https://www.mentimeter.com/"><u>https://www.mentimeter.com/</u></a>
+href="https://www.mentimeter.com/">https://www.mentimeter.com/</a>
 Mullendore, G. L., Mayernik, M. S., &amp; Schuster, D. C. (2021).
 Open science expectations for simulation-based research. Frontiers in
 Climate, 3, 763420. <a
-href="https://doi.org/10.3389/fclim.2021.763420"><u>https://doi.org/10.3389/fclim.2021.763420</u></a>
+href="https://doi.org/10.3389/fclim.2021.763420">https://doi.org/10.3389/fclim.2021.763420</a>
 What About Model Data? Best Practices for Preservation and
 Replicability. <a
-href="https://zoidy.shinyapps.io/ModelDataRubric/"><u>https://zoidy.shinyapps.io/ModelDataRubric/#</u></a>
+href="https://zoidy.shinyapps.io/ModelDataRubric/">https://zoidy.shinyapps.io/ModelDataRubric/#</a>
 <a
-href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt"><u>CuratorLog.txt</u></a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt">CuratorLog.txt</a>
 <a
-href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt"><u>CuratorLog.google</u></a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt">CuratorLog.google</a>
 (make a copy for yourself)
 <a
-href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Example_20230929.pdf"><u>Sample
-completed/redacted Curator Log</u></a>
+href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Example_20230929.pdf">Sample
+completed/redacted Curator Log</a>
 <a
-href="https://drive.google.com/file/d/1UEa_fIfWRPgKYf2wstQy9siF3gc4VxX1/view?usp=drive_link"><u>Worksheet
-for evaluating data quality</u></a>
+href="https://drive.google.com/file/d/1UEa_fIfWRPgKYf2wstQy9siF3gc4VxX1/view?usp=drive_link">Worksheet
+for evaluating data quality</a>
 Fair principles. GO FAIR. (2022, January 21). <a
-href="https://www.go-fair.org/fair-principles/"><u>https://www.go-fair.org/fair-principles/</u></a>
+href="https://www.go-fair.org/fair-principles/">https://www.go-fair.org/fair-principles/</a>
 Global Indigenous Data Alliance. (n.d.). The CARE Principles for
 Indigenous Data Governance. <a
-href="https://www.gida-global.org/care"><u>https://www.gida-global.org/care</u></a>
+href="https://www.gida-global.org/care">https://www.gida-global.org/care</a>
 Microsoft . (2023, February 16). Fate: Fairness, accountability,
 transparency &amp; ethics in Ai. Microsoft Research.
 https://www.microsoft.com/en-us/research/theme/fate/overview/
@@ -916,28 +880,28 @@ href="https://doi.org/10.1029/2020gl090133">doi:
 Do, H. X., Smith, J. P., Fry, L. M., &amp; Gronewold, A. D. (2020).
 Seventy-year long record of monthly water balance estimates for Earth’s
 largest lake system. Scientific Data, 7(1), 276. <a
-href="https://doi.org/10.1038/s41597-020-00613-z"><u>https://doi.org/10.1038/s41597-020-00613-z</u></a>
+href="https://doi.org/10.1038/s41597-020-00613-z">https://doi.org/10.1038/s41597-020-00613-z</a>
 Gronewold, A. D., Smith, J. P., Read, L., &amp; Crooks, J. L. (2020).
 Reconciling the water balance of large lake systems. Advances in Water
 Resources, 103505. <a
-href="https://doi.org/10.1016/j.advwatres.2020.103505"><u>https://doi.org/10.1016/j.advwatres.2020.103505</u></a>
+href="https://doi.org/10.1016/j.advwatres.2020.103505">https://doi.org/10.1016/j.advwatres.2020.103505</a>
 Metadata standards catalog. Metadata Standards Catalog. <a
-href="https://rdamsc.bath.ac.uk/"><u>https://rdamsc.bath.ac.uk/</u></a>
+href="https://rdamsc.bath.ac.uk/">https://rdamsc.bath.ac.uk/</a>
 Tecplot. Tecplot 360. https://tecplot.com/products/tecplot-360/
 kitware. Open-source, multi-platform data analysis and visualization
 application. ParaView. <a
-href="https://www.paraview.org/"><u>https://www.paraview.org/</u></a>
+href="https://www.paraview.org/">https://www.paraview.org/</a>
 OpenFOAM. <a
-href="https://www.openfoam.com/"><u>https://www.openfoam.com/</u></a>
+href="https://www.openfoam.com/">https://www.openfoam.com/</a>
 University of Virginia Library. Data types &amp; file formats | UVA
 Library. <a
-href="https://library.virginia.edu/data/data-management/plan/format-types"><u>https://library.virginia.edu/data/data-management/plan/format-types</u></a>
+href="https://library.virginia.edu/data/data-management/plan/format-types">https://library.virginia.edu/data/data-management/plan/format-types</a>
 Library of Congress. Recommended Formats Statement – table of
 contents | Resources (Preservation, Library of Congress). <a
-href="https://www.loc.gov/preservation/resources/rfs/TOC.html"><u>https://www.loc.gov/preservation/resources/rfs/TOC.html</u></a>
-Cornell University Library. <em>Ecommons: Cornell’s Digital
-Repository: Recommended File Formats</em>. <a
-href="https://guides.library.cornell.edu/ecommons/formats"><u>https://guides.library.cornell.edu/ecommons/formats</u></a></td>
+href="https://www.loc.gov/preservation/resources/rfs/TOC.html">https://www.loc.gov/preservation/resources/rfs/TOC.html</a>
+Cornell University Library. Ecommons: Cornell’s Digital
+Repository: Recommended File Formats. <a
+href="https://guides.library.cornell.edu/ecommons/formats">https://guides.library.cornell.edu/ecommons/formats</a></td>
 </tr>
 </tbody>
 </table>
