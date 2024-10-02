@@ -53,28 +53,31 @@ Glossary: <a href="https://github.com/DataCurationNetwork/curation-curriculum/bl
 Required Tools/Software:
 - text editor
 - PDF viewer
-- spreadsheet program<
+- spreadsheet program
 - browser-based viewer for looking at simulation data formats, depends on dataset
 
 ## Dataset Citations:
 Dataset A:
+
 Yang, Huang; Waugh, Darryn W., 2020, "Data associated with Yang et
 al., 2020, Dependence of Atmospheric Transport into the Arctic on Extent
 of the Hadley Cell", <a href="https://doi.org/10.7281/T1/AWJUGZ">https://doi.org/10.7281/T1/AWJUGZ</a>, Johns Hopkins Research Data Repository, V1
 
 Dataset B:
+
 Do, H. X., Smith, J. P., Fry, L. M., Gronewold, A. D. (2020). Monthly
 water balance estimates for the Laurentian Great Lakes from 1950 to 2019
 (v1.1) [Data set], University of Michigan - Deep Blue Data. <a
 href="https://doi.org/10.7302/tx97-nn12">https://doi.org/10.7302/tx97-nn12</a>
+
 Dataset C:
+
 Horna Munoz, Daniel; Constantinescu, George; Rhoads, Bruce ; Lewis,
 Quinn; Sukhodolov, Alexander (2020): Confluence Density Effects
 Simulation Database. University of Illinois at Urbana-Champaign. <a
 href="https://doi.org/10.13012/B2IDB-6257171_V1">https://doi.org/10.13012/B2IDB-6257171_V1</a></td>
-</tr>
-</tbody>
-</table>
+
+
 
 <table>
 <colgroup>
