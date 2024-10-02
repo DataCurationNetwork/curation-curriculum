@@ -40,7 +40,7 @@ href="https://github.com/DataCurationNetwork/data-primers/blob/master/SPSS%20Dat
 </tr>
 <tr class="odd">
 <td><strong>Link to Slides</strong></td>
-<td><a href="https://docs.google.com/presentation/d/1NmwxppuUjVMmBYGwZJW1dU1wIByAFmKw0lGCeCfk0Fk/edit?usp=sharing">Code Lecture Slides</a></td>
+<td><a href="https://docs.google.com/presentation/d/1xMkrJkQEYCNNAsMGYCiNqRcN2WXH3P0xXb98O2KtSMk/edit#slide=id.g28fceffc8a9_0_308">Code Lecture Slides</a></td>
 </tr>
 <tr class="even">
 <td><strong>Date created</strong></td>

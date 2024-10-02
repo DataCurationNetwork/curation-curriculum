@@ -110,25 +110,17 @@ href="https://orcid.org/0000-0002-1771-3969"><u>https://orcid.org/0000-0002-1771
 </tbody>
 </table>
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><h2 id="objectives-and-vocabulary">Objectives and
-Vocabulary</h2></td>
-</tr>
-<tr class="even">
-<td><p><strong>Learning Objectives:</strong></p>
-<p>I: Participants will gain a basic understanding of simulation data
-and simulation-based research for curation purposes</p>
-<p>a: key characteristics/unique elements of simulation data</p>
-<p>b: intro to simulation data models</p>
-<p>c: examples of uses for simulation data</p>
-<p>e: pointing to other DCN primers</p>
-<p>f: overview of jargon/glossary</p>
-<p>II: Participants will understand how to develop discussions with
+# Objectives and Vocabulary
+
+Learning Objectives:
+1. Participants will gain a basic understanding of simulation data
+and simulation-based research for curation purposes
+	a: key characteristics/unique elements of simulation data
+	b: intro to simulation data models
+	c: examples of uses for simulation data
+	d: pointing to other DCN primers
+	e: overview of jargon/glossary
+2. Participants will understand how to develop discussions with
 researchers regarding their simulation data. Through guided interactions
 with each other, participants will develop dataset specific approaches
 to establishing key questions necessary for interacting with researchers
