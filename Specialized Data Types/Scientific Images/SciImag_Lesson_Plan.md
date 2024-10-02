@@ -297,58 +297,81 @@ K.L. Sokolnicki, J.A. Bittker, et al. “A Dataset of Images and
 Morphological Profiles of 30 000 Small-Molecule Treatments Using the
 Cell Painting Assay.” GigaScience 6, no. 12 (2017): 1–5. <a
 href="https://doi.org/10.1093/gigascience/giw014">https://doi.org/10.1093/gigascience/giw014</a>.
+
+
 Driscoll, M.K., and A. Zaritsky. “Data Science in Cell Imaging.”
 Journal of Cell Science 134, no. 7 (2021). <a
 href="https://doi.org/10.1242/jcs.254292">https://doi.org/10.1242/jcs.254292</a>.
+
+
 Goldberg, I.G., Allan, C., Burel, JM. et al. The Open Microscopy
 Environment (OME) Data Model and XML file: open tools for informatics
 and quantitative analysis in biological imaging. Genome Biol 6, R47
 (2005). <a
 href="https://doi.org/10.1186/gb-2005-6-5-r47">https://doi.org/10.1186/gb-2005-6-5-r47</a>
+
+
 Gonzalez, R.C. and Woods, R.E. Digital Image Processing,
 Global Edition, 4th Edition. Pearson (2018) <a
 href="https://www.pearson.com/en-gb/subject-catalog/p/digital-image-processing-global-edition/P200000004313/9781292223070">https://www.pearson.com/en-gb/subject-catalog/p/digital-image-processing-global-edition/P200000004313/9781292223070</a>
+
+
 Gonzalez-Beltran, A.N., P. Masuzzo, C. Ampe, G.-J. Bakker, S. Besson,
 R.H. Eibl, P. Friedl, et al. “Community Standards for Open Cell
 Migration Data.” GigaScience 9, no. 5 (2020). <a
 href="https://doi.org/10.1093/gigascience/giaa041">https://doi.org/10.1093/gigascience/giaa041</a>.
+
+
 Linkert, M., C.T. Rueden, C. Allan, J.-M. Burel, W. Moore, A.
 Patterson, B. Loranger, et al. “Metadata Matters: Access to Image Data
 in the Real World.” Journal of Cell Biology 189, no. 5 (2010):
 777–82. <a
 href="https://doi.org/10.1083/jcb.201004104">https://doi.org/10.1083/jcb.201004104</a>.
+
+
 Marmo, C., T.M. Hare, S. Erard, M. Minin, F.-X. Pineau, A. Zinzi, B.
 Cecconi, and A.P. Rossi. “FITS Format for Planetary Surfaces:
 Definitions, Applications, and Best Practices.” Earth and Space
 Science 5, no. 10 (2018): 640–51. <a
 href="https://doi.org/10.1029/2018EA000388">https://doi.org/10.1029/2018EA000388</a>.
+
+
 Pence, W.D., L. Chiappetti, C.G. Page, R.A. Shaw, and E. Stobie.
 “Definition of the Flexible Image Transport System (FITS), Version 3.0.”
 Astronomy and Astrophysics 524, no. 10 (2010). <a
 href="https://doi.org/10.1051/0004-6361/201015362">https://doi.org/10.1051/0004-6361/201015362</a>.
+
+
 Piovesan, A., V. Vancauwenberghe, T. Van De Looverbosch, P. Verboven,
 and B. Nicolaï. “X-Ray Computed Tomography for 3D Plant Imaging.”
 Trends in Plant Science 26, no. 11 (2021): 1171–85. <a
 href="https://doi.org/10.1016/j.tplants.2021.07.010">https://doi.org/10.1016/j.tplants.2021.07.010</a>.
+
+
 Sarkans, U., Chiu, W., Collinson, L. et al. REMBI:
 Recommended Metadata for Biological Images—enabling reuse of microscopy
 data in biology. Nat Methods 18, 1418–1422 (2021). <a
 href="https://doi.org/10.1038/s41592-021-01166-8">https://doi.org/10.1038/s41592-021-01166-8</a>
+
+
 Williams, E., J. Moore, S.W. Li, G. Rustici, A. Tarkowska, A.
 Chessel, S. Leo, et al. “Image Data Resource: A Bioimage Data
 Integration and Publication Platform.” Nature Methods 14, no. 8
 (2017): 775–81. <a
 href="https://doi.org/10.1038/nmeth.4326">https://doi.org/10.1038/nmeth.4326</a>.
+
+
 Wilson, S.L., G.P. Way, W. Bittremieux, J.-P. Armache, M.A. Haendel,
 and M.M. Hoffman. “Sharing Biological Data: Why, When, and How.”
 FEBS Letters 595, no. 7 (2021): 847–63. <a
 href="https://doi.org/10.1002/1873-3468.14067">https://doi.org/10.1002/1873-3468.14067</a>.
+
+
 Zaritsky, A. “Sharing and Reusing Cell Image Data.” Molecular
 Biology of the Cell 29, no. 11 (2018): 1274–80. <a
 href="https://doi.org/10.1091/mbc.E17-10-0606">https://doi.org/10.1091/mbc.E17-10-0606</a>.
-</blockquote>
-Other Resources
-<blockquote>
+
+### Other Resources
 <a
 href="https://carpentries.org/blog/2023/01/dc-image-processing-stable-release/">Data
 Carpentry: Image Processing with Python</a>
