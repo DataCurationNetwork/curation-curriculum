@@ -472,7 +472,7 @@ changed throughout the dataset package)
 Ethical Considerations
 - bibliographic information reflects correct author
 attribution
-- licenses<
+- licenses
 
 ## Transform Step 
 Mode(s): Lecture, independent exercise
@@ -596,64 +596,87 @@ mentimeter
 
 # Bibliography & Resources
 Ordered as referenced throughout lesson plan and slide deck
+
 Interactive presentation software. Mentimeter. <a
 href="https://www.mentimeter.com/">https://www.mentimeter.com/</a>
+
 Mullendore, G. L., Mayernik, M. S., & Schuster, D. C. (2021).
 Open science expectations for simulation-based research. Frontiers in
 Climate, 3, 763420. <a
 href="https://doi.org/10.3389/fclim.2021.763420">https://doi.org/10.3389/fclim.2021.763420</a>
+
 What About Model Data? Best Practices for Preservation and
 Replicability. <a
 href="https://zoidy.shinyapps.io/ModelDataRubric/">https://zoidy.shinyapps.io/ModelDataRubric/#</a>
+
 <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt">CuratorLog.txt</a>
+
 <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt">CuratorLog.google</a>
 (make a copy for yourself)
+
 <a
 href="https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Example_20230929.pdf">Sample
 completed/redacted Curator Log</a>
+
 <a
 href="https://drive.google.com/file/d/1UEa_fIfWRPgKYf2wstQy9siF3gc4VxX1/view?usp=drive_link">Worksheet
 for evaluating data quality</a>
+
 Fair principles. GO FAIR. (2022, January 21). <a
 href="https://www.go-fair.org/fair-principles/">https://www.go-fair.org/fair-principles/</a>
+
 Global Indigenous Data Alliance. (n.d.). The CARE Principles for
 Indigenous Data Governance. <a
 href="https://www.gida-global.org/care">https://www.gida-global.org/care</a>
+
 Microsoft . (2023, February 16). Fate: Fairness, accountability,
 transparency & ethics in Ai. Microsoft Research.
 https://www.microsoft.com/en-us/research/theme/fate/overview/
+
 Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach,
 H., Daumé III, H., & Crawford, K. (2021, December 1). Datasheets for
 datasets. arXiv.org. https://arxiv.org/abs/1803.09010
+
 Yang, H., Waugh, D. W., Orbe, C., & Chen, G. (2020).
 Dependence of Atmospheric Transport Into the Arctic on the Meridional
 Extent of the Hadley Cell. Geophysical Research Letters, 47(20). <a
 href="https://doi.org/10.1029/2020gl090133">doi:
 10.1029/2020gl090133</a>
+
 Do, H. X., Smith, J. P., Fry, L. M., & Gronewold, A. D. (2020).
 Seventy-year long record of monthly water balance estimates for Earth’s
 largest lake system. Scientific Data, 7(1), 276. <a
 href="https://doi.org/10.1038/s41597-020-00613-z">https://doi.org/10.1038/s41597-020-00613-z</a>
+
 Gronewold, A. D., Smith, J. P., Read, L., & Crooks, J. L. (2020).
 Reconciling the water balance of large lake systems. Advances in Water
 Resources, 103505. <a
 href="https://doi.org/10.1016/j.advwatres.2020.103505">https://doi.org/10.1016/j.advwatres.2020.103505</a>
+
 Metadata standards catalog. Metadata Standards Catalog. <a
 href="https://rdamsc.bath.ac.uk/">https://rdamsc.bath.ac.uk/</a>
+
 Tecplot. Tecplot 360. https://tecplot.com/products/tecplot-360/
+
 kitware. Open-source, multi-platform data analysis and visualization
-application. ParaView. <a
+application. 
+
+ParaView. <a
 href="https://www.paraview.org/">https://www.paraview.org/</a>
+
 OpenFOAM. <a
 href="https://www.openfoam.com/">https://www.openfoam.com/</a>
+
 University of Virginia Library. Data types & file formats | UVA
 Library. <a
 href="https://library.virginia.edu/data/data-management/plan/format-types">https://library.virginia.edu/data/data-management/plan/format-types</a>
+
 Library of Congress. Recommended Formats Statement – table of
 contents | Resources (Preservation, Library of Congress). <a
 href="https://www.loc.gov/preservation/resources/rfs/TOC.html">https://www.loc.gov/preservation/resources/rfs/TOC.html</a>
+
 Cornell University Library. Ecommons: Cornell’s Digital
 Repository: Recommended File Formats. <a
-href="https://guides.library.cornell.edu/ecommons/formats">https://guides.library.cornell.edu/ecommons/formats</a></td>
+href="https://guides.library.cornell.edu/ecommons/formats">https://guides.library.cornell.edu/ecommons/formats</a>
