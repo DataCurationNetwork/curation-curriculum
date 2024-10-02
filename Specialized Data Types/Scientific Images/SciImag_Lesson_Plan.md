@@ -289,20 +289,9 @@ Estimated time: 10-15 minutes <br><br>
 A whole room discussion about the documentation process. Please
 revisit your curator log.
 
-</tbody>
-</table>
+## Additional Resources 
+### Bibliography
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-
-<h2 id="additional-resources">Additional Resources </h2>
-
-
-Bibliography
-<blockquote>
 Bray, M.-A., S.M. Gustafsdottir, M.H. Rohban, S. Singh, V. Ljosa,
 K.L. Sokolnicki, J.A. Bittker, et al. “A Dataset of Images and
 Morphological Profiles of 30 000 Small-Molecule Treatments Using the
@@ -363,7 +352,4 @@ Other Resources
 <a
 href="https://carpentries.org/blog/2023/01/dc-image-processing-stable-release/">Data
 Carpentry: Image Processing with Python</a>
-</blockquote>
 
-</tbody>
-</table>
