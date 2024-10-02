@@ -247,158 +247,152 @@ the submission.
 # Bibliography & Resources
 
 Foundations for Curating Research Software (must-cite
-literature)
+literature) <br>
 
-<li>Barker, M., Chue Hong, N. P., Katz, D. S., Lamprecht, A.-L.,
+- Barker, M., Chue Hong, N. P., Katz, D. S., Lamprecht, A.-L.,
 Martinez-Ortiz, C., Psomopoulos, F., Harrow, J., Castro, L. J.,
 Gruenpeter, M., Martinez, P. A., & Honeyman, T. (2022). Introducing
 the FAIR Principles for research software. Scientific Data, 9(1),
 Article 1. <a
-href="https://doi.org/10.1038/s41597-022-01710-x">https://doi.org/10.1038/s41597-022-01710-x</a></li>
-<li>Research Software Engineering with Python (The Alan Turing
+href="https://doi.org/10.1038/s41597-022-01710-x">https://doi.org/10.1038/s41597-022-01710-x</a>
+- Research Software Engineering with Python (The Alan Turing
 Institute): <a
 href="https://alan-turing-institute.github.io/rse-course/html/index.html#support-and-contributing">Research
 Software Engineering with Python — Research Software Engineering with
-Python (alan-turing-institute.github.io)</a></li>
+Python (alan-turing-institute.github.io)</a>
 
-Conceptualizing Research Software
+Conceptualizing Research Software< br>
 
-<li>Defining Research Software: a controversial discussion (<a
-href="https://doi.org/10.5281/zenodo.5504016">https://doi.org/10.5281/zenodo.5504016</a>)</li>
-<li>Defining Roles of Research Software (<a
+- Defining Research Software: a controversial discussion (<a
+href="https://doi.org/10.5281/zenodo.5504016">https://doi.org/10.5281/zenodo.5504016</a>)
+- Defining Roles of Research Software (<a
 href="https://upstream.force11.org/defining-the-roles-of-research-software/">https://upstream.force11.org/defining-the-roles-of-research-software/</a>)</li>
 
 Software Licensing
 
-<li>Morin, A., Urban, J., & Sliz, P. (2012). A Quick Guide to
+- Morin, A., Urban, J., & Sliz, P. (2012). A Quick Guide to
 Software Licensing for the Scientist-Programmer. PLOS Computational
 Biology, 8(7), e1002598. <a
-href="https://doi.org/10.1371/journal.pcbi.1002598">https://doi.org/10.1371/journal.pcbi.1002598</a></li>
-<li>Stodden, V. (2009). The Legal Framework for Reproducible
+href="https://doi.org/10.1371/journal.pcbi.1002598">https://doi.org/10.1371/journal.pcbi.1002598</a>
+- Stodden, V. (2009). The Legal Framework for Reproducible
 Scientific Research: Licensing and Copyright. Computing in Science
 Engineering, 11(1), 35–40. <a
-href="https://doi.org/10.1109/MCSE.2009.19">https://doi.org/10.1109/MCSE.2009.19</a></li>
-<li>OSI’s open source definition (<a
-href="https://opensource.org/definition-annotated/">https://opensource.org/definition-annotated/</a>)</li>
-<li>TLDR Legan (useful guide for comparing the characteristics of
+href="https://doi.org/10.1109/MCSE.2009.19">https://doi.org/10.1109/MCSE.2009.19</a>
+- OSI’s open source definition (<a
+href="https://opensource.org/definition-annotated/">https://opensource.org/definition-annotated/</a>)
+- TLDR Legan (useful guide for comparing the characteristics of
 different licenses <a
-href="https://tldrlegal.com/">https://tldrlegal.com/</a>)</li>
-<li>Copyright Guide for Scientific Software: <a
-href="https://www.softwarepreservationnetwork.org/wp-content/uploads/2020/03/Copyright_Guide_for_Scientific_Software_12172019.pdf">https://www.softwarepreservationnetwork.org/wp-content/uploads/2020/03/Copyright_Guide_for_Scientific_Software_12172019.pdf</a></li>
+href="https://tldrlegal.com/">https://tldrlegal.com/</a>)
+- Copyright Guide for Scientific Software: <a
+href="https://www.softwarepreservationnetwork.org/wp-content/uploads/2020/03/Copyright_Guide_for_Scientific_Software_12172019.pdf">https://www.softwarepreservationnetwork.org/wp-content/uploads/2020/03/Copyright_Guide_for_Scientific_Software_12172019.pdf</a>
 
-Documentation best practices
+Documentation best practices<br>
 READMEs
 
-<li>A guide for READMEs: <a
-href="https://www.welcometothejungle.com/en/articles/btc-readme-documentation-best-practices">https://www.welcometothejungle.com/en/articles/btc-readme-documentation-best-practices</a></li>
-<li>A browser-based template for READMEs:
-https://www.makeareadme.com/</li>
-<li>R-specific README guide <a
-href="https://github.com/benmarwick/rrtools">https://github.com/benmarwick/rrtools</a></li>
-<li>Python-specific README guide <a
-href="https://www.pyopensci.org/python-package-guide/documentation/repository-files/readme-file-best-practices.html">https://www.pyopensci.org/python-package-guide/documentation/repository-files/readme-file-best-practices.html</a></li>
-<li>Cornell README template (for data): <a
-href="https://data.research.cornell.edu/content/readme">https://data.research.cornell.edu/content/readme</a></li>
+- A guide for READMEs: <a
+href="https://www.welcometothejungle.com/en/articles/btc-readme-documentation-best-practices">https://www.welcometothejungle.com/en/articles/btc-readme-documentation-best-practices</a>
+- A browser-based template for READMEs:
+https://www.makeareadme.com/
+- R-specific README guide <a
+href="https://github.com/benmarwick/rrtools">https://github.com/benmarwick/rrtools</a>
+- Python-specific README guide <a
+href="https://www.pyopensci.org/python-package-guide/documentation/repository-files/readme-file-best-practices.html">https://www.pyopensci.org/python-package-guide/documentation/repository-files/readme-file-best-practices.html</a>
+- Cornell README template (for data): <a
+href="https://data.research.cornell.edu/content/readme">https://data.research.cornell.edu/content/readme</a>
 
-Research Software Engineering Practices (in general):
+Research Software Engineering Practices (in general): <br>
 
-<li>“Software Engineering Practices in Academia: Promoting the
+- “Software Engineering Practices in Academia: Promoting the
 3Rs—Readability, Resilience, and Reuse”: <a
-href="https://hdsr.mitpress.mit.edu/pub/f0f7h5cu/release/2">https://hdsr.mitpress.mit.edu/pub/f0f7h5cu/release/2</a></li>
+href="https://hdsr.mitpress.mit.edu/pub/f0f7h5cu/release/2">https://hdsr.mitpress.mit.edu/pub/f0f7h5cu/release/2</a> 
 
-Dependency Management (overview of the challenge)
+Dependency Management (overview of the challenge) <br>
 
-<li>Blog post by Noah Brenowitz <a
-href="https://www.noahbrenowitz.com/post/2021-version-pinning/">https://www.noahbrenowitz.com/post/2021-version-pinning/</a></li>
-<li>Beaulieu-Jones, B., Greene, C. Reproducibility of computational
+- Blog post by Noah Brenowitz <a
+href="https://www.noahbrenowitz.com/post/2021-version-pinning/">https://www.noahbrenowitz.com/post/2021-version-pinning/</a>
+- Beaulieu-Jones, B., Greene, C. Reproducibility of computational
 workflows is automated using continuous analysis. Nat
 Biotechnol 35, 342–346 (2017). <a
-href="https://doi.org/10.1038/nbt.3780">https://doi.org/10.1038/nbt.3780</a></li>
-<li>Blog post by Alex Remedios (Python-specific, some interesting
+href="https://doi.org/10.1038/nbt.3780">https://doi.org/10.1038/nbt.3780</a>
+- Blog post by Alex Remedios (Python-specific, some interesting
 thoughts on pinning dependencies) <a
-href="https://towardsdatascience.com/devops-for-data-science-making-your-python-project-reproducible-f55646e110fa">https://towardsdatascience.com/devops-for-data-science-making-your-python-project-reproducible-f55646e110fa</a></li>
+href="https://towardsdatascience.com/devops-for-data-science-making-your-python-project-reproducible-f55646e110fa">https://towardsdatascience.com/devops-for-data-science-making-your-python-project-reproducible-f55646e110fa</a>
 
-Empirical studies of research software
+Empirical studies of research software <br>
 
-<li>The Rise of GitHub in Scholarly Publications:<br />
-<a
-href="https://link.springer.com/chapter/10.1007/978-3-031-16802-4_15">https://link.springer.com/chapter/10.1007/978-3-031-16802-4_15</a></li>
-<li>A large-scale study on research code quality and execution <a
-href="https://www.nature.com/articles/s41597-022-01143-6">https://www.nature.com/articles/s41597-022-01143-6</a></li>
+- The Rise of GitHub in Scholarly Publications: <a
+href="https://link.springer.com/chapter/10.1007/978-3-031-16802-4_15">https://link.springer.com/chapter/10.1007/978-3-031-16802-4_15</a>
+- A large-scale study on research code quality and execution <a
+href="https://www.nature.com/articles/s41597-022-01143-6">https://www.nature.com/articles/s41597-022-01143-6</a>
 
-Tools and Standards for Research Software & Reproducibility
+Tools and Standards for Research Software & Reproducibility <br>
 
-<li>CodeMeta - metadata standard (<a
-href="https://codemeta.github.io/user-guide/">https://codemeta.github.io/user-guide/</a>)</li>
-<li>Software Heritage Archive - code repository (<a
-href="https://archive.softwareheritage.org">https://archive.softwareheritage.org</a>)</li>
-<li>ReproZip! - packaging reproducible bundles (<a
-href="https://www.reprozip.org/">https://www.reprozip.org/</a>)</li>
-<li>Zenodo - general purpose repository with github integration (<a
-href="https://zenodo.org">https://zenodo.org</a>)</li>
-<li>Git / GitHub / GitLab</li>
-<li>BinderHub - platform for sharing reproducible code (<a
-href="https://binderhub.readthedocs.io">https://binderhub.readthedocs.io</a>)</li>
-<li>Singularity</li>
-<li>WholeTale (<a
-href="https://wholetale.org/">https://wholetale.org/</a>)</li>
-<li>Poetry (<a href="https://python-poetry.org/">Poetry - Python
+- CodeMeta - metadata standard (<a
+href="https://codemeta.github.io/user-guide/">https://codemeta.github.io/user-guide/</a>)
+- Software Heritage Archive - code repository (<a
+href="https://archive.softwareheritage.org">https://archive.softwareheritage.org</a>)
+- ReproZip! - packaging reproducible bundles (<a
+href="https://www.reprozip.org/">https://www.reprozip.org/</a>)
+- Zenodo - general purpose repository with github integration (<a
+href="https://zenodo.org">https://zenodo.org</a>)
+- Git / GitHub / GitLab<
+- BinderHub - platform for sharing reproducible code (<a
+href="https://binderhub.readthedocs.io">https://binderhub.readthedocs.io</a>)
+- Singularity
+- WholeTale (<a
+href="https://wholetale.org/">https://wholetale.org/</a>)
+- Poetry (<a href="https://python-poetry.org/">Poetry - Python
 dependency management and packaging made easy
-(python-poetry.org)</a></li>
-<li>Renv for R</li>
-<li>Sinfo for Python (<a
-href="https://pypi.org/project/sinfo/">https://pypi.org/project/sinfo/</a>)</li>
+(python-poetry.org)</a>
+- Renv for R 
+- Sinfo for Python (<a
+href="https://pypi.org/project/sinfo/">https://pypi.org/project/sinfo/</a>)
 
-Relevant Communities, Organizations, and Projects
+Relevant Communities, Organizations, and Projects <br>
 
-<li>Software Sustainability Institute (<a
-href="https://www.software.ac.uk/">https://www.software.ac.uk/</a>)</li>
-<li>Software Preservation Network (<a
-href="https://www.softwarepreservationnetwork.org/">https://www.softwarepreservationnetwork.org/</a>)</li>
-<li>Software Heritage (<a
-href="https://www.softwareheritage.org/">https://www.softwareheritage.org/</a>)</li>
-<li>US Research Software Engineering Association (<a
-href="https://us-rse.org/">https://us-rse.org/</a>)</li>
-<li>Carpentries (<a
-href="https://carpentries.org/">https://carpentries.org/</a>)</li>
-<li>Force11 (<a
-href="https://force11.org/">https://force11.org/</a>)</li>
-<li>Journal of Open Source Software (<a
-href="https://joss.theoj.org/">https://joss.theoj.org/</a>)</li>
-<li>The Turing Way (<a
-href="https://the-turing-way.netlify.app/welcome">https://the-turing-way.netlify.app/welcome</a>)</li>
-<li>PyOpenSci (<a
-href="https://www.pyopensci.org">https://www.pyopensci.org</a>)</li>
-<li>Cornell’s “Results Reproduction” project : <a
-href="https://socialsciences.cornell.edu/research-support/R-squared">https://socialsciences.cornell.edu/research-support/R-squared</a></li>
-<li>Johns Hopkins Data Science “Reproducibility In Cancer
+- Software Sustainability Institute (<a
+href="https://www.software.ac.uk/">https://www.software.ac.uk/</a>)
+- Software Preservation Network (<a
+href="https://www.softwarepreservationnetwork.org/">https://www.softwarepreservationnetwork.org/</a>)
+- Software Heritage (<a
+href="https://www.softwareheritage.org/">https://www.softwareheritage.org/</a>)
+- US Research Software Engineering Association (<a
+href="https://us-rse.org/">https://us-rse.org/</a>)
+- Carpentries (<a
+href="https://carpentries.org/">https://carpentries.org/</a>)
+- Force11 (<a
+href="https://force11.org/">https://force11.org/</a>)
+- Journal of Open Source Software (<a
+href="https://joss.theoj.org/">https://joss.theoj.org/</a>)
+- The Turing Way (<a
+href="https://the-turing-way.netlify.app/welcome">https://the-turing-way.netlify.app/welcome</a>)
+- PyOpenSci (<a
+href="https://www.pyopensci.org">https://www.pyopensci.org</a>)
+- Cornell’s “Results Reproduction” project : <a
+href="https://socialsciences.cornell.edu/research-support/R-squared">https://socialsciences.cornell.edu/research-support/R-squared</a>
+- Johns Hopkins Data Science “Reproducibility In Cancer
 Informatics” <a
-href="https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/index.html">https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/index.html</a>.</li>
+href="https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/index.html">https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/index.html</a>.
 
 Programming languages commonly used in research (and observed in
-curation workflows)
+curation workflows) <br>
 
-<li>General Overview (MATLAB, Python, R)
-
-<li><a
-href="https://medium.com/@mygreatlearning/programming-languages-for-data-science-python-vs-r-vs-matlab-d3bfd04c991e">https://medium.com/@mygreatlearning/programming-languages-for-data-science-python-vs-r-vs-matlab-d3bfd04c991e</a></li>
-</li>
-<li>Codecademy- Python (<a
-href="https://www.codecademy.com/resources/blog/what-is-python-used-for/">https://www.codecademy.com/resources/blog/what-is-python-used-for/</a>)</li>
-<li>Codecademy- R (<a
-href="https://www.codecademy.com/resources/blog/what-is-r-used-for/">https://www.codecademy.com/resources/blog/what-is-r-used-for/</a>)</li>
-<li>Coursera - Python (<a
-href="https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python">https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python</a>)</li>
-<li>MATLAB Introductions:
-
-<li><a
-href="https://cimss.ssec.wisc.edu/wxwise/class/aos340/spr00/whatismatlab.htm">https://cimss.ssec.wisc.edu/wxwise/class/aos340/spr00/whatismatlab.htm</a></li>
-<li><a
-href="https://www.simplilearn.com/tutorials/matlab-tutorial/what-is-matlab-introduction-for-beginners">https://www.simplilearn.com/tutorials/matlab-tutorial/what-is-matlab-introduction-for-beginners</a></li>
-</li>
-<li>MATLAB in chemical and petrochemical research: <a
-href="https://www.mathworks.com/solutions/chemicals-and-petrochemicals.html">https://www.mathworks.com/solutions/chemicals-and-petrochemicals.html</a></li>
-<li>Association for Psychological Science: <a
-href="https://www.psychologicalscience.org/observer/why-you-should-become-a-user-a-brief-introduction-to-r">https://www.psychologicalscience.org/observer/why-you-should-become-a-user-a-brief-introduction-to-r</a></li>
-<li>American Psychological Association: <a
-href="https://psycnet.apa.org/record/2014-21523-009">https://psycnet.apa.org/record/2014-21523-009</a></li>
+- General Overview (MATLAB, Python, R): <a
+href="https://medium.com/@mygreatlearning/programming-languages-for-data-science-python-vs-r-vs-matlab-d3bfd04c991e">https://medium.com/@mygreatlearning/programming-languages-for-data-science-python-vs-r-vs-matlab-d3bfd04c991e</a>
+- Codecademy- Python (<a
+href="https://www.codecademy.com/resources/blog/what-is-python-used-for/">https://www.codecademy.com/resources/blog/what-is-python-used-for/</a>)
+- Codecademy- R (<a
+href="https://www.codecademy.com/resources/blog/what-is-r-used-for/">https://www.codecademy.com/resources/blog/what-is-r-used-for/</a>)
+- Coursera - Python (<a
+href="https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python">https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python</a>)
+- MATLAB Introductions:
+	- <a
+href="https://cimss.ssec.wisc.edu/wxwise/class/aos340/spr00/whatismatlab.htm">https://cimss.ssec.wisc.edu/wxwise/class/aos340/spr00/whatismatlab.htm</a>
+	- <a
+href="https://www.simplilearn.com/tutorials/matlab-tutorial/what-is-matlab-introduction-for-beginners">https://www.simplilearn.com/tutorials/matlab-tutorial/what-is-matlab-introduction-for-beginners</a>
+- MATLAB in chemical and petrochemical research: <a
+href="https://www.mathworks.com/solutions/chemicals-and-petrochemicals.html">https://www.mathworks.com/solutions/chemicals-and-petrochemicals.html</a>
+- Association for Psychological Science: <a
+href="https://www.psychologicalscience.org/observer/why-you-should-become-a-user-a-brief-introduction-to-r">https://www.psychologicalscience.org/observer/why-you-should-become-a-user-a-brief-introduction-to-r</a>
+- American Psychological Association: <a
+href="https://psycnet.apa.org/record/2014-21523-009">https://psycnet.apa.org/record/2014-21523-009</a>
