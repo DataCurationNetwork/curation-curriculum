@@ -195,17 +195,12 @@ metadata/documentation?
 
 
 In addition to the standard Check steps
-- How to determine whether a dataset might be simulation
-data/code?
+- How to determine whether a dataset might be simulation data/code?
 	- data clues
 	- software clues
 	- keywords to look for
-- Look for ethics issues around the code, initial data, model, etc,
-especially around human subjects data, sensitive species information, or
-other issues that may be politically contentious but not necessarily
-sensitive (e.g. climate modeling)
-	- ethics of access to publications (e.g. publication being behind a
-paywall)
+- Look for ethics issues around the code, initial data, model, etc, especially around human subjects data, sensitive species information, or other issues that may be politically contentious but not necessarily sensitive (e.g. climate modeling)
+	- ethics of access to publications (e.g. publication being behind a paywall)
 - Sample data and parameters
 	- Are these included or available elsewhere (other repositories,
 paper)
