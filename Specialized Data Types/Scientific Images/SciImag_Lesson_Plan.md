@@ -6,23 +6,11 @@
 | Primary fields or areas of use  | All |
 | Summary  | This workshop introduces basic concepts of curating scientific images.<br><br> This workshop also provides an overview of the general CURATE(D) curriculum. |
 | Estimated time  | 3 hours (not including breaks) |
-| Related primers  | <li> <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Confocal%20Microscopy%20Images%20Data%20Curation%20Primer/confocal-microscopy-images-data-curation-primer.md">Confocal Microscopy Image Primer</a></li><li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/GeoTIFF%20Data%20Curation%20Primer/geotiff-data-curation-primer.md">GeoTIFF Primer</a></li><li> <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Human%20Participants%20Data%20Essentials%20Data%20Curation%20Primer/human-participants-data-essentials-data-curation-primer.md">Human
-Participants Data Essentials Primer</a></li><li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Neuroimaging%20DICOM%20and%20NIfTI%20Data%20Curation%20Primer/neuroimaging-dicom-and-nifti-data-curation-primer.md">Neuroimaging DICOM and NIfTI Primer</a></li><li> <a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/CARE%20Primer/care-primer.md">CARE Data Principles, Indigenous data, Data related to Indigenous Peoples and
-Interest</a></li> |
+| Related primers  | <li> <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Confocal%20Microscopy%20Images%20Data%20Curation%20Primer/confocal-microscopy-images-data-curation-primer.md">Confocal Microscopy Image Primer</a></li><li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/GeoTIFF%20Data%20Curation%20Primer/geotiff-data-curation-primer.md">GeoTIFF Primer</a></li><li> <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Human%20Participants%20Data%20Essentials%20Data%20Curation%20Primer/human-participants-data-essentials-data-curation-primer.md">Human Participants Data Essentials Primer</a></li><li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Neuroimaging%20DICOM%20and%20NIfTI%20Data%20Curation%20Primer/neuroimaging-dicom-and-nifti-data-curation-primer.md">Neuroimaging DICOM and NIfTI Primer</a></li><li> <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/CARE%20Primer/care-primer.md">CARE Data Principles, Indigenous data, Data related to Indigenous Peoples and Interest</a></li> |
 | Link to Slides  | <a href="https://docs.google.com/presentation/d/132W5LhMi3qazK1S60ihdSzLeiYCFNM-xonQWoCGuox4/edit#slide=id.g257084923a6_0_0">Scientific Images Slides Deck</a> |
 | Date Created | June 2023 |
-| Created By | Created by <br>
-The Pixels: <br>
-Sarah J. Wright, Cornell University, <a href="https://orcid.org/0000-0002-1502-131X">https://orcid.org/0000-0002-1502-131X</a><br>
-Mariah Kenney, Carnegie Mellon University, <a
-href="https://orcid.org/0000-0003-4884-108X">https://orcid.org/0000-0003-4884-108X</a><br>
-Paul M. Gignac, University of Arizona, <a
-href="https://orcid.org/0000-0001-9181-3258">https://orcid.org/0000-0001-9181-3258</a><br>
-Amy Schuler, Cary Institute of Ecosystem Studies, <a
-href="https://orcid.org/0000-0002-2459-2413">https://orcid.org/0000-0002-2459-2413</a><br>
-Neggin Keshavarzian, Princeton University, <a
-href="https://orcid.org/0000-0001-6753-1226">https://orcid.org/0000-0001-6753-1226</a> |
+| Created By | Created by <br> The Pixels: <br> Sarah J. Wright, Cornell University, <a href="https://orcid.org/0000-0002-1502-131X">https://orcid.org/0000-0002-1502-131X</a><br>
+Mariah Kenney, Carnegie Mellon University, <a href="https://orcid.org/0000-0003-4884-108X">https://orcid.org/0000-0003-4884-108X</a><br> Paul M. Gignac, University of Arizona, <a href="https://orcid.org/0000-0001-9181-3258">https://orcid.org/0000-0001-9181-3258</a><br> Amy Schuler, Cary Institute of Ecosystem Studies, <a href="https://orcid.org/0000-0002-2459-2413">https://orcid.org/0000-0002-2459-2413</a><br> Neggin Keshavarzian, Princeton University, <a href="https://orcid.org/0000-0001-6753-1226">https://orcid.org/0000-0001-6753-1226</a> |
 
 
 
