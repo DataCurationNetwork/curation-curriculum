@@ -123,72 +123,55 @@ Simulation data and the CURATED curation model
 - Especially code/software curation
 
 
-
 Exercise: "What I Know," "What I Want to Know," <del>and "What I
-Learned</del>. (KWL) KW mentimeter</td>
-</tr>
-<tr class="odd">
-<td><h3 id="document-evaluate">Document &amp; Evaluate </h3></td>
-</tr>
-<tr class="even">
-<td><h3
-id="modes-lecture-download-curation-log-template">Mode(s):
-Lecture, download curation log template </h3>
-<h3 id="section"></h3>
-<h3 id="estimated-time-5-10-minutes">Estimated time:
-5-10 minutes</h3></td>
-</tr>
-<tr class="odd">
-<td>Lecture:
+Learned</del>. (KWL) KW mentimeter
+
+## Document & Evaluate
+Mode(s): Lecture, download curation log template 
+Estimated time: 5-10 minutes
+
+Lecture:
 Introduce Document and Evaluate steps, steps are iterative and
-curation is not linear.
+curation is not linear.<br><br>
 Download the Curation Log template and use it throughout the rest of
-the workshop for the document step.
+the workshop for the document step.<br><br>
 Evaluation will be done throughout the curation process, in each step
 rather than an end step, but also at the end. Constantly thinking about
-the datasets’ FAIRness, can it be made more FAIR, and how.</td>
-</tr>
-<tr class="even">
-<td><h3 id="check-step">Check step </h3></td>
-</tr>
-<tr class="odd">
-<td><h3
-id="modes-lecture-independent-exercise">Mode(s):
-Lecture, independent exercise </h3>
-<h3 id="section-1"></h3>
-<h3 id="estimated-time-30-minutes">Estimated time:
-30 minutes</h3></td>
-</tr>
-<tr class="even">
-<td>Lecture:
+the datasets’ FAIRness, can it be made more FAIR, and how.
+
+
+## Check step <
+Mode(s):Lecture, independent exercise
+Estimated time: 30 minutes
+
+Lecture:
 CURATE(D) CHECK step revolves around inventorying and reviewing the
 contents of the dataset and verifying that it is appropriate for the
 repository. This often includes:
-<ul>
-<li>Review to ensure data is in scope for the repository</li>
-<li>Inventory the contents of the data files (e.g., open and sample
-the files or code)</li>
-<li>Verify all metadata provided by the researcher; check available
-documentation</li>
-</ul>
+- Review to ensure data is in scope for the repository
+- Inventory the contents of the data files (e.g., open and sample
+the files or code)
+- Verify all metadata provided by the researcher; check available
+documentation
+
+
 Simulation data tends to be the result of interactions between
 models, datasets and code. The check step needs to document how the data
 was produced, including documenting the details of the code and data
 used to produce the dataset.
 When checking simulation data pay special attention to checking
 for:
-<ul>
-<li>code used to produce the dataset
-<ul>
-<li>is the code used to produce the dataset included in the dataset
-packages?</li>
-<li>is the code archived elsewhere?</li>
-<li>is the code part of another project?</li>
-<li>is the version of the code documented?</li>
-<li>is adequate documentation of code runs included in the metadata?
+- code used to produce the dataset
+	- is the code used to produce the dataset included in the dataset
+packages?
+	- is the code archived elsewhere?
+	- is the code part of another project?
+	- is the version of the code documented?
+	- is adequate documentation of code runs included in the metadata?
 e.g. version of coding language, details of computers used to run code,
-date of code runs, etc.</li>
-</ul></li>
+date of code runs, etc.
+
+
 <li>documentation of related materials
 <ul>
 <li>is the production of the model, code, programming languages,
