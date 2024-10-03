@@ -1,4 +1,4 @@
-# <a name="_40qxyxr531dz"></a>Summary of the Code Workshop Materials
+# Summary of the Code Workshop Materials
 **Current Version:** V1.0
 
 **License:** CC BY 4.0
@@ -13,7 +13,7 @@ This curriculum was developed by the geospatial cohort for the Data Curation Net
 
 [Code\_Lesson\_Plan.md](<Code_Lesson_Plan.md>) - The lesson plan
 
-[Code\_Lecture\_Slides.pdf](<Code_Lecture_Slides.pdf>) - Slide deck for the Curation Code workshop (note another version of the Slide deck is available in Google Slides with lecture notes)
+[Code\_Lecture\_Slides.pdf](<Code_Lecture_Slides.pdf>) - Slide deck for the Curation Code workshop (note another version of the Slide deck is available in [Google Slides with lecture notes](https://docs.google.com/presentation/d/1xMkrJkQEYCNNAsMGYCiNqRcN2WXH3P0xXb98O2KtSMk/edit#slide=id.g28fceffc8a9_0_308))
 
 Exercise Materials (folder): 
 

@@ -1,4 +1,4 @@
-# <a name="_40qxyxr531dz"></a>Summary of the Scientific Images Workshop Materials
+# Summary of the Scientific Images Workshop Materials
 **Current Version:** V1.0
 
 **License:** CC BY 4.0
@@ -13,7 +13,7 @@ This curriculum was developed by the geospatial cohort for the Data Curation Net
 
 [SciImag\_Lesson\_Plan.md](<SciImag_Lesson_Plan.md>) - The lesson plan 
 
-[SciImag\_Lecture\_Slides.pdf](<SciImag_Lecture_Slides.pdf>) - Slide deck for the Scientific Images workshop (note another version of the Slide deck is available in Google Slides with lecture notes)
+[SciImag\_Lecture\_Slides.pdf](<SciImag_Lecture_Slides.pdf>) - Slide deck for the Scientific Images workshop (note another version of the Slide deck is available in [Google Slides with lecture notes](https://docs.google.com/presentation/d/132W5LhMi3qazK1S60ihdSzLeiYCFNM-xonQWoCGuox4/edit#slide=id.g257084923a6_0_0))
 
 Exercise Materials (folder):
 
