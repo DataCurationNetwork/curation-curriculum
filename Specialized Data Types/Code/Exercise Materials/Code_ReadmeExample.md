@@ -1,8 +1,8 @@
-***README File Examples***
+# README File Examples
 
-***Exemplar README File***
+## Exemplar README File
 
-**Description**
+### Description
 
 This research software is a Python-based digital humanities project
 designed to analyze and extract insights from large collections of
@@ -14,7 +14,7 @@ within the texts, enabling researchers to gain deeper insights into the
 literary works. All texts are written by women who were unable to secure
 publishing deals in 19th century America.
 
-**Contributors**
+### Contributors
 
 This project is developed and maintained by the following contributors:
 
@@ -22,7 +22,7 @@ Jean Garcia
 
 Victoria Novice
 
-**Technical Requirements**
+### Technical Requirements
 
 System Specifications
 
@@ -32,7 +32,7 @@ Processor: 1 GHz or faster
 
 RAM: 2 GB or higher
 
-**Language and Library Specifications**
+### Language and Library Specifications
 
 Python 3.7 or above
 
@@ -40,7 +40,7 @@ Pandas 2.1.1
 
 Numpy 1.26.0
 
-**Working Directory**
+Working Directory
 
 .
 
@@ -52,36 +52,36 @@ Numpy 1.26.0
 
 └── README.md \# This file
 
-**Known Bugs**
+### Known Bugs
 
 Issue \#1: The sentiment analysis module occasionally fails to classify
 certain sentences correctly. Efforts are being made to resolve this
 issue in the next update.
 
-**Output Files Created and Storage Location**
+### Output Files Created and Storage Location
 
 The project generates the following output files:
 
-*results.csv* - Contains the analysis results in a CSV format.
+results.csv - Contains the analysis results in a CSV format.
 
-*plots/* - A directory that stores various plots and visualizations
+plots/ - A directory that stores various plots and visualizations
 generated during the analysis.
 
 All output files are saved in the project's root directory.
 
-**Naming Conventions**
+### Naming Conventions
 
 The project follows the Python naming conventions as recommended by PEP
 8. Descriptive and meaningful names are used for variables, functions,
 and classes. Additionally, file names are lowercase with words separated
 by underscores.
 
-**License**
+### License
 
 This project is licensed under the MIT License. Please refer to the
 license file for more details.
 
-**Acknowledgements**
+### Acknowledgements
 
 We would like to acknowledge the following individuals and organizations
 for their contributions and support:
@@ -90,11 +90,11 @@ Dr. Raquel Horlick, Department of Literature, University XYZ
 
 Digital Humanities Research Lab, University XYZ
 
-**Contact Information**
+Contact Information
 
 If you have any questions, suggestions, or feedback regarding this
 project, please feel free to contact us:
 
-Jean Garcia - [<u>jgarcia@</u>](mailto:jgarcia@gmail.com)xyzmail.com
+Jean Garcia - jgarcia@xyzmail.com
 
 Victoria Novice - vnovice@xyzmail.com
