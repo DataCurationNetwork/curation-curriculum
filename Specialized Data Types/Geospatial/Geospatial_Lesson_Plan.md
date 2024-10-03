@@ -53,8 +53,8 @@ Estimated time: 5 hours 30 minutes
 
 1. Environment Setup (Approximately 40 minutes)
 This portion of the workshop deals with software setup. It is highly encouraged that the instructor(s) ask participants to download software prior to the workshop and dedicate some time at the start of the workshop to troubleshoot issues people may experience when downloading. It is also encouraged that there be a helper at each table for this portion of the workshop. 
-	a. [Environment Setup Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/0_Environment_Setup_Instructor_Notes.pdf)
-	b. [Environment Setup Slides](https://docs.google.com/presentation/d/1MudCrH6CtWErZ629jg31FsPcT7C_RpSagUTck7Lg-14/edit?usp=sharing)
+	a. [Environment Setup Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/0_Environment_Setup_Instructor_Notes.pdf) <br>
+	b. [Environment Setup Slides](https://docs.google.com/presentation/d/1MudCrH6CtWErZ629jg31FsPcT7C_RpSagUTck7Lg-14/edit?usp=sharing)<br>
 	c. [Environment Setup Handout](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/0_Environment_Setup_Handout.pdf)
 
 2. Introduction to GIS (Approximately 65 minutes) 
