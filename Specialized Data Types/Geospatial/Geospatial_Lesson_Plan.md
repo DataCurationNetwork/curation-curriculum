@@ -1,46 +1,89 @@
-# <a name="_heading=h.w9klu5phc851"></a>Data Curation Network Lesson Plan: 
-# <a name="_heading=h.iwfwnp9t11tx"></a>Curating Geospatial Data
-
-<table><tr><th colspan="2" valign="top"><h2>Lesson Description</h2></th></tr>
-<tr><td valign="top"><b>Data Type</b></td><td valign="top">Geospatial</td></tr>
-<tr><td valign="top"><b>Primary fields or areas of use</b></td><td valign="top">trans-disciplinary</td></tr>
-<tr><td valign="top"><b>Summary</b></td><td valign="top">This workshop is designed to introduce learners to the basic concepts of GIS and how this data is curated. Learners will be taken through initial steps of environment setup, introduction to GIS concepts, a review of common GIS data types, how GIS data is transformed, an overview of GIS metadata, and a discussion of the ethical considerations related to GIS data. This workshop includes lecture, hands-on activities, and discussion.</td></tr>
-<tr><td valign="top"><b>Estimated time</b></td><td valign="top"><i>5 Hours 30 minutes</i></td></tr>
-<tr><td valign="top"><b>Related primers</b></td><td valign="top"><p><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/Geodatabase%20Data%20Curation%20Primer/Geodata-Primer.md"><u>Geodatabase
-Primer</u></a></p>
-<p><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/GeoJSON%20Data%20Curation%20Primer/GeoJSON-data-curation-primer.md"><u>GeoJSON
-Primer</u></a></p>
-<p><a
-href="https://github.com/DataCurationNetwork/data-primers/blob/master/GeoTIFF%20Data%20Curation%20Primer/geotiff-data-curation-primer.md"><u>GeoTIFF
-Primer</u></a></p>
-<p><a
-href="https://deepblue.lib.umich.edu/handle/2027.42/145724"><u>netCDF
-Primer</u></a></p></td></tr>
-<tr><td valign="top"><b>Link to Slides</b></td><td valign="top"><i>See links to slides and lesson plans in outline below</i></td></tr>
-<tr><td valign="top"><b>Date created</b></td><td valign="top"></td></tr>
-<tr><td rowspan="5" valign="top"><b>Created by</b></td><td valign="top"><p>Leighton Christiansen, OrcID: <https://orcid.org/0000-0002-0543-4268></p><p><LChristiansen@cdc.gov> </p><p>Centers for Disease Control and Prevention, <https://ror.org/042twtr12></p><p>1600 Clifton Rd. Atlanta, GA 30329</p></td></tr>
-<tr><td valign="top"><p>Kelly Grove, <https://orcid.org/0000-0001-7926-169X></p><p><kegrove@fsu.edu> </p><p>Florida State University, <https://ror.org/05g3dte14></p><p>222 South Copeland Street, Suite 424, Tallahassee, Florida 32306-1400</p></td></tr>
-<tr><td valign="top"><p>Melinda Kernik,  <https://orcid.org/0000-0002-1050-4152></p><p><kerni016@umn.edu> </p><p>University of Minnesota, <https://ror.org/017zqws13> </p><p>309 S 19th Ave #0438, Minneapolis, MN 55455</p></td></tr>
-<tr><td valign="top"><p>Timothy Norris, <https://orcid.org/0000-0002-0898-3027> </p><p><tnorris@miami.edu> </p><p>University of Miami, https://ror.org/02dgjyy92</p><p>Coral Gables, FL 33124</p></td></tr>
-<tr><td valign="top"><p>Jennifer Moore, <https://orcid.org/0000-0001-6628-6820> </p><p><j.moore@wustl.edu> </p><p>Washington University in St. Louis, <https://ror.org/01yc7t268>  </p><p>1 Brookings Drive, St. Louis, MO 63130</p></td></tr>
-</table>
-
-|<h2>Objectives and Vocabulary</h2>|
-| :- |
-|<p></p><p>**Learning Objectives:**</p><p>1. Students can recognize Geospatial Data terms and have a tool for reference (glossary)</p><p>2. Students can recognize essential Geospatial metadata elements</p><p>3. Students are able to evaluate geospatial metadata and documentation</p><p>4. Students are able to differentiate between raster and vector data in the geodatabase</p><p>5. Students are able to use basic transformation tools to create open format files for sharing</p><p>6. Students will be introduced to Ethical, Equitable, and Accessible geospatial data considerations</p><p>**Terms to Know:** Below are some key terms, a fuller list can be found in the list can be found in[ the Glossary](https://docs.google.com/spreadsheets/d/1V1IXOaC-CfZUqvBbbnky0LFpIL9xkuXRFmD5PdhwvBs/edit?usp=sharing) (first tab)</p><p>- Projection</p><p>- Datum</p><p>- Vector</p><p>- Raster</p><p>- Geodatabase</p><p>- Shapefile</p><p>- Feature Class</p><p>- FGDC</p><p>- ISO 19139 and 19115</p><p>- Attributes</p>|
-
-|<h2>Dataset(s) for Lesson</h2>|
-| :- |
-|<p></p><p>**Required Tools/Software:** a Geographic Information System (GIS) of some description, (e.g., **[QGIS](https://www.qgis.org/en/site/)**, ArcGIS Pro) - this material emphasizes the use of QGIS.</p><p></p><p>**Dataset Citations:**</p><p>Harrison, Clement, A. C., Maranto, G. L., Purkis, S., Lombard, J. L., Clark-Hughes, A. C., Parrish, A. K., Reamer, M. B., Collins, O., Lewis, C., Cruz, M., & Solace, A. (2021). *Data for Hyperlocalism: Transforming the Paradigm for Climate Adaptation study* [Data set]. University of Miami. <https://doi.org/10.17604/p318-6n41></p><p></p><p>Kramer, Gunnar R; Peterson, Sean M; Daly, Kyle O; Streby, Henry M; Andersen, David E. (2019). Data supporting the comparison of golden-winged warbler and American woodcock productivity in northern Minnesota, USA. Retrieved from the Data Repository for the University of Minnesota, <https://doi.org/10.13020/znag-tn48>.</p><p></p><p></p>|
+#  Data Curation Network Lesson Plan: Curating Geospatial Data
 
 
-|<h2>Outline and Content </h2>|
-| :- |
-|<p>**Mode(s):** *all modes are indicated in the lesson plan for each module*</p><p></p><p>**Estimated time**: *5 hours 30 minutes* </p>|
-|<p></p><p>1. **Environment Setup (Approximately 40 minutes)**</p><p>&emsp;This portion of the workshop deals with software setup. It is highly encouraged that the instructor(s) ask participants to download software prior to the workshop and dedicate some time at the start of the workshop to troubleshoot issues people may experience when downloading. It is also encouraged that there be a helper at each table for this portion of the workshop. </p><p>&emsp;a. [Environment Setup Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/0_Environment_Setup_Instructor_Notes.pdf)</p><p>&emsp;b. [Environment Setup Slides](https://docs.google.com/presentation/d/1MudCrH6CtWErZ629jg31FsPcT7C_RpSagUTck7Lg-14/edit?usp=sharing)</p><p>&emsp;c. [Environment Setup Handout](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/0_Environment_Setup_Handout.pdf)</p><p>2. **Introduction to GIS (Approximately 65 minutes)** </p><p>&emsp;The objectives for this module are for learners to be able to describe a geographic information system (GIS); identify common tool sets for working with GIS data; describe characteristics of vector GIS data; describe characteristics of raster GIS data; conceptualize structure of a GIS project; understand the three principal components of a Coordinate Reference System (CRS).</p><p>&emsp;a. [GIS Introduction Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/1_GIS_Introduction_Instructor_Notes.pdf)</p><p>&emsp;b. [GIS Introduction Slides](https://docs.google.com/presentation/d/1mEjOVsL4Qi4mFGqB7UVBlVsySj922GCm8yfg0QbS8T4/edit?usp=sharing)</p><p>&emsp;c. [GIS Cheat Sheet Handout](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1_3_GIS_Cheat_Sheet.pdf)</p><p>3. **Ethics and GIS Data (Approximately 45 min)**</p><p>&emsp;The objectives for this module are for learners to be able to identify where there would be ethical concerns when sharing geospatial data; provide recommendations for action when there are ethical concerns.</p><p>&emsp;a. [Ethics and GIS Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/2_Ethics_and_GIS_Data_Instructor_Notes.pdf)</p><p>&emsp;b. [Ethics and GIS Slides](https://docs.google.com/presentation/d/1h2Yftz-GS7IybSLz84jAS74qxW87uUmIZ2Y3_vT8cic/edit?usp=sharing)</p><p>4. **Common GIS Data Types (approximately 120 minutes [2 hours])**</p><p>&emsp;Common GIS Data Types. This module has many short activities for skill building, thus the module length. Participants are expected to have a GIS tool open during this module, and opening and exploring GIS files. The objectives for this module are for learners to be able to differentiate between raster data, vector data, and geodatabases; identify three common file formats for vector data; identify two common raster file formats; identify four common tools to open GIS data; gain an understand complex GIS file structures.</p><p>&emsp;a. [Common GIS Data Types Instructor notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/3_Common_GIS_Data_Types_Instructor_Notes.pdf)</p><p>&emsp;b. [Common GIS Data Types Slides](https://docs.google.com/presentation/d/1c7e3WgETTdr-to48phpXjEwqKQG6wkwbnrbn-gKv4rQ/edit?usp=sharing)</p><p>&emsp;c. [Common GIS Data Types Cheat Sheet Handout](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1_3_GIS_Cheat_Sheet.pdf)</p><p>5. **GIS Metadata (Approximately 50 minutes)**</p><p>&emsp;The objectives for this module are for learners to recognize essential geospatial metadata element; be able to evaluate geospatial metadata and documentation; prioritize reproducibility and usability over standards; locate where metadata is recorded in either QGIS or ArcGIS; name two GIS metadata standards.</p><p>&emsp;a. [GIS Metadata Instructor notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/4_GIS_Metadata_Instructor_Notes.pdf)</p><p>&emsp;b. [GIS Metadata Slides](https://docs.google.com/presentation/d/1Ksu-cU4N8dJZs6BLx0Q544rS9FndEw0M29TeTdVybx8/edit?usp=sharing) </p><p>6. **Transformations (Approximately 60 minutes)**</p><p>&emsp;The objectives for this module are for learners to understand common reasons for recommending transforming file formats; assess benefits and downsides of common file formats; be able to perform transformation of vector data in QGIS; be able to reproject a vector file in QGIS.</p><p>&emsp;a. [Transformations Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/5_Transformations_Instructor_Notes.pdf)</p><p>&emsp;b. [Transformations Slides](https://docs.google.com/presentation/d/1cQhxAH_psS5bi4s4CTgM5Z2r7RJfmtPyY8Z6A7zgAqI/edit?usp=sharing)</p><p></p>|
+| Lesson Components | Lesson Description |
+| ------------- | ------------- |
+| Data Type | Geospatial |
+| Primary fields or areas of use | trans-disciplinary |
+| Summary | This workshop is designed to introduce learners to the basic concepts of GIS and how this data is curated. Learners will be taken through initial steps of environment setup, introduction to GIS concepts, a review of common GIS data types, how GIS data is transformed, an overview of GIS metadata, and a discussion of the ethical considerations related to GIS data. This workshop includes lecture, hands-on activities, and discussion. |
+| Estimated time | 5 Hours 30 minutes |
+| Related primers | <li> <a href="https://github.com/DataCurationNetwork/data-primers/blob/master/Geodatabase%20Data%20Curation%20Primer/Geodata-Primer.md">Geodatabase Primer</a></li><li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/GeoJSON%20Data%20Curation%20Primer/GeoJSON-data-curation-primer.md">GeoJSON Primer</a></li><li><a href="https://github.com/DataCurationNetwork/data-primers/blob/master/GeoTIFF%20Data%20Curation%20Primer/geotiff-data-curation-primer.md">GeoTIFF Primer</a></li><li> <a href="https://deepblue.lib.umich.edu/handle/2027.42/145724">netCDF Primer</a></li> |
+| Link to slides | See links to slides and lesson plans in outline below |
+| Date Created | October 2024 |
+| Created By | Leighton Christiansen, Centers for Disease Control and Prevention, <https://orcid.org/0000-0002-0543-4268><br><br>Kelly Grove, Florida State University, <https://orcid.org/0000-0001-7926-169X><br><br>Melinda Kernik, University of Minnesota, <https://orcid.org/0000-0002-1050-4152><br><br>Timothy Norris, University of Miami, <https://orcid.org/0000-0002-0898-3027><br><br>Jennifer Moore, Washington University in St. Louis, <https://orcid.org/0000-0001-6628-6820> |
 
-|<h2><a name="_heading=h.jc0l26ewqflf"></a>Additional Resources </h2>|
-| :- |
-|<p></p><p></p><p>[Glossary and Resources from Curricular Material ](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Glossary_of_GIS_Terms.xlsx)</p><p></p>|
+
+# Objectives and Vocabulary
+
+Learning Objectives:
+1. Students can recognize Geospatial Data terms and have a tool for reference (glossary)
+2. Students can recognize essential Geospatial metadata elements
+3. Students are able to evaluate geospatial metadata and documentation
+4. Students are able to differentiate between raster and vector data in the geodatabase
+5. Students are able to use basic transformation tools to create open format files for sharing6. Students will be introduced to Ethical, Equitable, and Accessible geospatial data considerations
+
+Terms to Know: Below are some key terms, a fuller list can be found in the list can be found in
+[the Glossary](https://github.com/DataCurationNetwork/curation-curriculum/blob/main/Specialized%20Data%20Types/Geospatial/Glossary_of_GIS_Terms.xlsx)(first tab).
+- Projection
+- Datum
+- Vector
+- Raster
+- Geodatabase
+- Shapefile
+- Feature Class
+- FGDC
+- ISO 19139 and 19115
+- Attributes
+
+# Dataset(s) for Lesson 
+
+Required Tools/Software: a Geographic Information System (GIS) of some description, (e.g., [QGIS](https://www.qgis.org/en/site/), ArcGIS Pro) - this material emphasizes the use of QGIS.
+
+Dataset Citations:
+
+Harrison, Clement, A. C., Maranto, G. L., Purkis, S., Lombard, J. L., Clark-Hughes, A. C., Parrish, A. K., Reamer, M. B., Collins, O., Lewis, C., Cruz, M., & Solace, A. (2021). Data for Hyperlocalism: Transforming the Paradigm for Climate Adaptation study [Data set]. University of Miami. <https://doi.org/10.17604/p318-6n41>
+
+Kramer, Gunnar R; Peterson, Sean M; Daly, Kyle O; Streby, Henry M; Andersen, David E. (2019). Data supporting the comparison of golden-winged warbler and American woodcock productivity in northern Minnesota, USA. Retrieved from the Data Repository for the University of Minnesota, <https://doi.org/10.13020/znag-tn48>.
+
+
+# Outline and Content
+
+Mode(s): all modes are indicated in the lesson plan for each module
+Estimated time: 5 hours 30 minutes 
+
+0. Environment Setup (Approximately 40 minutes)
+This portion of the workshop deals with software setup. It is highly encouraged that the instructor(s) ask participants to download software prior to the workshop and dedicate some time at the start of the workshop to troubleshoot issues people may experience when downloading. It is also encouraged that there be a helper at each table for this portion of the workshop. <br>
+	a. [Environment Setup Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/0_Environment_Setup_Instructor_Notes.pdf) <br>
+	b. [Environment Setup Slides](https://docs.google.com/presentation/d/1MudCrH6CtWErZ629jg31FsPcT7C_RpSagUTck7Lg-14/edit?usp=sharing)<br>
+	c. [Environment Setup Handout](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/0_Environment_Setup_Handout.pdf)
+
+1. Introduction to GIS (Approximately 65 minutes) 
+The objectives for this module are for learners to be able to describe a geographic information system (GIS); identify common tool sets for working with GIS data; describe characteristics of vector GIS data; describe characteristics of raster GIS data; conceptualize structure of a GIS project; understand the three principal components of a Coordinate Reference System (CRS).<br>
+	a. [GIS Introduction Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/1_GIS_Introduction_Instructor_Notes.pdf)<br>
+	b. [GIS Introduction Slides](https://docs.google.com/presentation/d/1mEjOVsL4Qi4mFGqB7UVBlVsySj922GCm8yfg0QbS8T4/edit?usp=sharing)<br>
+	c. [GIS Cheat Sheet Handout](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1_3_GIS_Cheat_Sheet.pdf)
+
+2. Ethics and GIS Data (Approximately 45 min)
+The objectives for this module are for learners to be able to identify where there would be ethical concerns when sharing geospatial data; provide recommendations for action when there are ethical concerns.<br>
+	a. [Ethics and GIS Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/2_Ethics_and_GIS_Data_Instructor_Notes.pdf)<br>
+	b. [Ethics and GIS Slides](https://docs.google.com/presentation/d/1h2Yftz-GS7IybSLz84jAS74qxW87uUmIZ2Y3_vT8cic/edit?usp=sharing)
+
+3. Common GIS Data Types (approximately 120 minutes [2 hours])
+Common GIS Data Types. This module has many short activities for skill building, thus the module length. Participants are expected to have a GIS tool open during this module, and opening and exploring GIS files. The objectives for this module are for learners to be able to differentiate between raster data, vector data, and geodatabases; identify three common file formats for vector data; identify two common raster file formats; identify four common tools to open GIS data; gain an understand complex GIS file structures.<br>
+	a. [Common GIS Data Types Instructor notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/3_Common_GIS_Data_Types_Instructor_Notes.pdf)<br>
+	b. [Common GIS Data Types Slides](https://docs.google.com/presentation/d/1c7e3WgETTdr-to48phpXjEwqKQG6wkwbnrbn-gKv4rQ/edit?usp=sharing)<br>
+	c. [Common GIS Data Types Cheat Sheet Handout](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1_3_GIS_Cheat_Sheet.pdf)
+
+4. GIS Metadata (Approximately 50 minutes)
+The objectives for this module are for learners to recognize essential geospatial metadata element; be able to evaluate geospatial metadata and documentation; prioritize reproducibility and usability over standards; locate where metadata is recorded in either QGIS or ArcGIS; name two GIS metadata standards.<br>
+	a. [GIS Metadata Instructor notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/4_GIS_Metadata_Instructor_Notes.pdf)<br>
+	b. [GIS Metadata Slides](https://docs.google.com/presentation/d/1Ksu-cU4N8dJZs6BLx0Q544rS9FndEw0M29TeTdVybx8/edit?usp=sharing) 
+
+5. Transformations (Approximately 60 minutes)
+The objectives for this module are for learners to understand common reasons for recommending transforming file formats; assess benefits and downsides of common file formats; be able to perform transformation of vector data in QGIS; be able to reproject a vector file in QGIS.<br>
+	a. [Transformations Instructor Notes](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Instructor%20Notes/5_Transformations_Instructor_Notes.pdf)<br>
+	b. [Transformations Slides](https://docs.google.com/presentation/d/1cQhxAH_psS5bi4s4CTgM5Z2r7RJfmtPyY8Z6A7zgAqI/edit?usp=sharing)
+
+# Additional Resources 
+
+[Glossary and Resources from Curricular Material](https://github.com/DataCurationNetwork/curation-curriculum/blob/b3ceb41b653b5bef5a1a3569bc005550b571b1a6/Specialized%20Data%20Types/Geospatial/Glossary_of_GIS_Terms.xlsx)
