@@ -49,7 +49,8 @@ Kramer, Gunnar R; Peterson, Sean M; Daly, Kyle O; Streby, Henry M; Andersen, Dav
 # Outline and Content
 
 Mode(s): all modes are indicated in the lesson plan for each module
-Estimated time: 5 hours 30 minutes 
+Estimated time: 5 hours 30 minutes.
+[Folder of slides](https://drive.google.com/drive/folders/1Ezz0HUL20yXkvaJ4ecrwhEWxecoBkbdG?usp=sharing) 
 
 0. Environment Setup (Approximately 40 minutes)
 This portion of the workshop deals with software setup. It is highly encouraged that the instructor(s) ask participants to download software prior to the workshop and dedicate some time at the start of the workshop to troubleshoot issues people may experience when downloading. It is also encouraged that there be a helper at each table for this portion of the workshop. <br>
