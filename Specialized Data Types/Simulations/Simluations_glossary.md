@@ -6,7 +6,6 @@ when curating with simulations and associated materials.
 
 | **Term** | **Definition** |
 |----------|----------------|
-
 | Benchmark data  | Data that can be used for verification and validation. “Ground truth” that the simulation can be compared to. It can also be synthetic data produced via theoretical/mathematical means to ensure the computational algorithms are behaving as expected. |
 | Calibration| The process of tuning the model parameters to match observed data. |
 | Computational science| A field of research concerned with applying computer science and software engineering principles to problems in a particular scientific discipline. For example, “computational hydrogeology” refers to solving problems in hydrogeology (the study of water in the ground) computationally using simulation. Also referred to as Scientific Computing.|
