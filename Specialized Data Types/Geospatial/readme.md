@@ -1,4 +1,4 @@
-# <a name="_n8o47u4ta0zv"></a>Summary of the Geospatial Workshop Materials
+# Summary of the Geospatial Workshop Materials
 **Current Version:** V1.0
 
 **License:** CC BY 4.0
@@ -47,14 +47,12 @@ Lecture Slides (folder)
 
 [2\_Ethics\_and\_GIS\_Data.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/2_Ethics_and_GIS_Data.pdf) - This presentation provides a high-level introduction to ethical issues around location information and how to address sensitive data in a geospatial dataset.
 
-
-
 [3\_Common\_GIS\_Data\_Types.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/3_Common_GIS_Data_Types.pdf) - This presentation provides an introduction to various data structures and datatypes used in  geospatial research including tabular (e.g., .csv) vector (e.g. shape files) raster datasets (such .tif), and databases (.gdb). It describes the anatomy and usages.
 
 [4\_GIS\_Metadata.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/4_GIS_Metadata.pdf) - This presentation provides an introduction to standards and best practices for describing geospatial data. It will guide the student to locate geospatial metadata in the datasets, as well as defining essential documentation.
 
 [5\_Transformations.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/2ac581994acb8824e664ff797534d3de78741da7/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/5_Transformations.pdf) - A slide deck which describes transformations that curators might consider to ensure files are in a common format, as well as describing some disadvantages to those transformations. It guides students through a vector transformation.
 
-
+[Folder of GIS Lecture Slides](https://drive.google.com/drive/folders/1Ezz0HUL20yXkvaJ4ecrwhEWxecoBkbdG?usp=sharing)
 
 Version History

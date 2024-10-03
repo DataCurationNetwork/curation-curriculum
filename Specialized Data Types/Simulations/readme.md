@@ -1,4 +1,4 @@
-# <a name="_n8o47u4ta0zv"></a>Summary of the Simulations Workshop Materials
+# Summary of the Simulations Workshop Materials
 **Current Version:** V1.0
 
 **License:** CC BY 4.0
@@ -13,7 +13,7 @@ This curriculum was developed by the simulations cohort for the Data Curation Ne
 
 [Simulations\_Lesson\_Plan.md](<Simulations_Lesson_Plan.md>) - The lesson plan 
 
-[Simulations\_Lecture\_Slides.pdf](<Simulations_Lecture_Slides.pdf>) - Slide deck for the Curation Simulations Based Research Workshop (note another version of the Slide deck is available in Google Slides with lecture notes)
+[Simulations\_Lecture\_Slides.pdf](<Simulations_Lecture_Slides.pdf>) - Slide deck for the Curation Simulations Based Research Workshop (note another version of the Slide deck is available in [Google Slides with lecture notes](https://docs.google.com/presentation/d/1QUE-AdhvZZFzDQhe3SGfrPBtmL-dex6mb06wMVYwBkg/edit#slide=id.g250b1be951a_0_0))
 
 [Simulations\_glossary.pdf](<Simulations_glossary.pdf>) - A glossary of terms related to simulation research
 
