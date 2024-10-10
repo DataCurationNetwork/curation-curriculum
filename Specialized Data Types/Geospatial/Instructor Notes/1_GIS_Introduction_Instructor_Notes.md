@@ -1,3 +1,5 @@
+# Module 1: GIS Introduction Instructor Notes
+
 \[This handout accompanies a slidedeck with the file name
 “1_GIS_Introduction”\]
 
