@@ -3,7 +3,7 @@
 \[This handout accompanies a slidedeck with the file name
 4_GIS_Metadata”\]
 
-2024-02-16 1000
+Last updated: 2024-02-16 1000
 
 Lesson Plan: GIS Metadata
 
