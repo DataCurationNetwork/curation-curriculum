@@ -116,8 +116,7 @@ use QGIS to view, edit, analyze, and print geospatial data.
 We will now go into touring the interface and walking through the steps
 of performing a few functions
 
-#### 5. Download Instructions for QGIS (30 seconds - 5+ minutes depending
-on if downloads need to be done)
+#### 5. Download Instructions for QGIS (30 seconds - 5+ minutes depending on if downloads need to be done)
 
 These are the instructions for downloading the program if the
 participants have not been already prompted to do so. If everyone has
@@ -344,8 +343,7 @@ but does require a login from a purchased license.
 The next few slides will be covering how to perform a series of
 functions using the ArcGIS Pro interface.
 
-#### 21. Download/Login Instructions for ArcGIS Pro (30 seconds - 5+
-minutes depending on if downloads need to be done)
+#### 21. Download/Login Instructions for ArcGIS Pro (30 seconds - 5+ minutes depending on if downloads need to be done)
 
 These are the instructions for downloading the program if the
 participants have not been already prompted to do so. If everyone has
@@ -448,8 +446,7 @@ Note: This video is not showing the example dataset listed at the start
 of this module. The purpose of this video is to demonstrate the basic
 steps necessary to perform the task.
 
-#### 28. Checking Layer Properties in ArcGIS Pro (2 minutes including
-demo)
+#### 28. Checking Layer Properties in ArcGIS Pro (2 minutes including demo)
 
 When we need to learn about a layer's “settings” and background we can
 check the Layer Properties Dialog box. Here we can find some summarized
@@ -472,8 +469,7 @@ Note: This video is not showing the example dataset listed at the start
 of this module. The purpose of this video is to demonstrate the basic
 steps necessary to perform the task.
 
-#### 30. Looking at Attribute Table in ArcGIS Pro (2 minutes including
-demo)
+#### 30. Looking at Attribute Table in ArcGIS Pro (2 minutes including demo)
 
 Just as it is important to understand what data was collected and how,
 we have to understand how the data is organized in these files. To do
@@ -496,8 +492,7 @@ Note: This video is not showing the example dataset listed at the start
 of this module. The purpose of this video is to demonstrate the basic
 steps necessary to perform the task.
 
-#### 32. On the Fly Projection Change in ArcGIS Pro (6 minutes including
-demo)
+#### 32. On the Fly Projection Change in ArcGIS Pro (6 minutes including demo)
 
 Sometimes a researcher will give you files that are in different
 projections. This can cause layers to not appear as you would expect for
@@ -527,8 +522,7 @@ Note: This video is not showing the example dataset listed at the start
 of this module. The purpose of this video is to demonstrate the basic
 steps necessary to perform the task.
 
-#### 34. Save Layer in New Projection in ArcGIS Pro (8 minutes including
-demo)
+#### 34. Save Layer in New Projection in ArcGIS Pro (8 minutes including demo)
 
 If the layer needs to be saved in the correct projection we suggest you
 ask the researcher to transform the file for you to ensure it is done
@@ -552,8 +546,7 @@ Note: This video is not showing the example dataset listed at the start
 of this module. The purpose of this video is to demonstrate the basic
 steps necessary to perform the task.
 
-#### 37. Module Objectives Review: Environment Setup (5 minutes depending
-on size of workshop and how many helps can do the checks)
+#### 37. Module Objectives Review: Environment Setup (5 minutes depending on size of workshop and how many helps can do the checks)
 
 This is the check understanding step. It is suggested that all
 participants either show the instructor or table helper (or can send in

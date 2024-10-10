@@ -24,7 +24,7 @@ Last updated: 2024-01-31 1300
 
 ### Adding Vector Data \[slides 8-9\]
 
-1.  Click on the “Open Data Source Manager” icon <img src="media/image4.png" style="width:0.3208in;height:0.34753in" alt="Image of the &quot;Open Data Source Manager&quot; icon" />
+1.  Click on the “Open Data Source Manager” icon 
 
 2.  When the “Data Source Manager \| Vector” dialog window opens, select “Vector” from the side menu
 
@@ -44,7 +44,7 @@ Last updated: 2024-01-31 1300
 
 ### Adding Raster Data \[slides 10-11\]
 
-1.  Click on the “Open Data Source Manager” icon <img src="media/image4.png" style="width:0.3208in;height:0.34753in" alt="Image of the &quot;Open Data Source Manager&quot; icon" />
+1.  Click on the “Open Data Source Manager” icon 
 
 2.  When the “Data Source Manager \| Raster” dialog window opens, select “Raster” from the side menu
 
@@ -193,11 +193,11 @@ these basic steps to get them started.
 
 3.  A form will appear, put the existing layer in the “Input Dataset or Feature Class box”
 
-4.  In the “Output Dataset or Feature Class” use the button to <img src="media/image1.png" style="width:0.35362in;height:0.36778in" alt="Image of the &quot;Output Dataset or Feature Class&quot; icon" /> navigate to the folder you wish to save the new layer too and give the file a unique and descriptive name
+4.  In the “Output Dataset or Feature Class” use the button to navigate to the folder you wish to save the new layer too and give the file a unique and descriptive name
 
     1.  We suggest using same naming convention and adding the new projection name at the end of the file name (example: 0_study_area_cover_type_UTM15N)
 
-5.  Click on the Globe <img src="media/image2.png" style="width:0.35362in;height:0.38437in" alt="Image of Globe button." /> button and search for the new coordinate system/projection
+5.  Click on the Globe button and search for the new coordinate system/projection
 
     1.  For this example search for EPSG:26915 - NAD/UTM zone 15N
 

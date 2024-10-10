@@ -72,7 +72,7 @@ In general, when curating data, we opt for open file formats whenever possible. 
 
 Many proprietary geospatial file formats can be opened with open source software. Open source geospatial community generally adapts very quickly to new formats. If you have a format that cannot currently open using QGIS, wait a few years and you likely will be able to. \[insert personal anecdotes if desired\] You often do lose functionality when opening proprietary formats in open source software. But if you transform the files to an alternate file format you may very well end up changing content or functionality as well. It's hard to know how much effort to put into making file formats accessible, because it's a constantly moving target.
 
-\[Next slide\]
+
 
 ## Slide 6.  Questions to Consider (1 minute)
  In the DCN CURATE(D) workflow, “T” is for “Transform file formats” [https://github.com/DataCurationNetwork/data-primers/blob/main/curated.md#transform-step](https://github.com/DataCurationNetwork/data-primers/blob/main/curated.md#transform-step)
@@ -86,7 +86,7 @@ So when you are trying to make decisions about transformation, ask:
 3.  And how much more accessible are you actually making that data
  through transformation?
 
-\[Next slide\]
+
 
 ## Slide 7.  Library of Congress Recommended Geospatial Formats (2 minutes)
  Turning to recommendations from the Library of Congress, they have some preferred formats including many of the options we've looked at today:
@@ -105,7 +105,7 @@ The overriding principle they recommend is the "Most complete data...even if pro
 
 (Note that in this direct quote “projection” is synonymous with “coordinate reference system”) [<u>Recommended Format Statement</u>](https://www.loc.gov/preservation/resources/rfs/geo-carto.html) (Library of Congress)
 
-\[Next slide\]
+
 
 ## Slide 8.  Why might you want to transform file formats? (2 minutes)
  So why might you want to transform files?
@@ -116,7 +116,7 @@ The overriding principle they recommend is the "Most complete data...even if pro
 
 - You also might want to transform it to provide access to data in proprietary formats that cannot be opened with open source tools. For example, you cannot open raster data that is in a geodatabase in QGIS or other software. You might provide that data in another format, while waiting for the open source community to catch up and make it accessible.
 
-\[Next slide\]
+
 
 ## Slide 9.  What should you watch out for when transforming files? (1 minute)
  As you are making a decision about whether to transform file formats, what things do you need to watch out for? At its core, the warning is that some geospatial data formats are complicated and switching between them can introduce unexpected errors and loss. We are going to focus on a few specific issues - the limitations and quirks of shapefiles and embedded metadata.
@@ -128,7 +128,7 @@ The overriding principle they recommend is the "Most complete data...even if pro
 
 ## Slide 11. Watch Out For: Researcher Transformed Shapefiles (1 minute)
  One thing to watch out for is that sometimes researchers will send you data that they have already transformed. Preemptively they may have decided to distribute data as a shapefile, because it is such a widely used format. If you see that the field names in the documentation don’t match the field names in the data - especially if they have been cut-off or shortened -- it is a sign that the original data format was something else. If the variables seem complex, you might want to follow-up to make sure the researcher knows about the limitations of shapefiles.
-\[Next slide\]
+
 
 ## Slide12. Watch Out For: Metadata (1 minute)
  It’s very very easy to lose embedded metadata during transformation! This is especially true of:
@@ -137,35 +137,36 @@ The overriding principle they recommend is the "Most complete data...even if pro
 
 - Likewise, metadata is generally lost when transforming from proprietary into open formats
  Check whether metadata is still embedded after transformation and provide alternative access if needed.
-\[Next slide\]
+
 
 ## Slide 13. Watch Out For: Additional Components in Project Files (1 minute)
  When you are dealing with more complex file format structures like geodatabases or project files, it's important to watch out for “extra” elements that may not be immediately visible. These could be things like custom tools, tasks or workflow models, or layers of metadata. These elements can be hard to represent outside of proprietary software. Custom toolboxes often require proprietary software to run successfully. Geodatabases and projects may contain multiple-levels of embedded metadata that can be time-consuming and difficult to export into a format that will be interoperable with other systems. If these elements are crucial to the submission and reuse of the data, it might not make sense to transform to another format (even if the original format is proprietary).
 
-\[Next slide\]
+
 
 ## Slide 14. Possible Transformations to Consider (1 minute)
  Okay - so let’s look at a few examples or what this might look like in practice. We recommend that you have the researcher do the actual transformation. There is always a chance that you might fundamentally alter something, so it's better to have the person closest to the data checking its integrity.
-> First, we are going to look at turning a Shapefile with Point data into a CSV. This would be an example of simplifying the data format
-\[Next slide\]
+
+First, we are going to look at turning a Shapefile with Point data into a CSV. This would be an example of simplifying the data format
+
 
 ## Slide 15. Possible Transformations to Consider: Shapefile Point Data to CSV: 01 (1 minute)
  Recall that vector data is basically a spreadsheet with geometry…a spreadsheet where each row represents a physical location such as a point, line, or area. To represent this, shapefiles require a set of related files - a spreadsheet (.dbf) plus several files describing the geometry and how that geometry relates back to the spreadsheet.
-\[Next slide\]
+
 
 ## Slide 16. Possible Transformations to Consider: Shapefile Point Data to CSV: 02 (1 minute)
  But if you are working with point data, you don’t really need three separate files to describe locations. That information can be conveyed just as well with a couple extra columns in the spreadsheet for latitude and longitude. One option for simplifying things and reducing the overall number of files in a submission is to export the spreadsheet portion of the shapefile as a CSV with the locations included.
 
 1.  Note: Doing this will remove embedded information about the projection and Coordinate Reference System. This information can be captured in the documentation but may not always be the best move.
- \[Next slide\]
+ 
 
 ## Slide 17. Possible Transformations to Consider: Geodatabase: 01 (1 minute)
  What if you are dealing with a more complex geodatabase, one that includes closely related datasets that have internal organization? There may be a lot of long variable names or special field types. We could convert some of them into CSV - the point data. But we couldn’t do that for the polygons, lines, or raster.
-\[Next slide\]
+
 
 ## Slide 18. Possible Transformations to Consider: Geodatabase: 02 (1 minute)
  We could convert them into a shapefile, but there would be a potential for a lot of content and structure to be lost.
-\[Next slide\]
+
 
 ## Slide 19. Possible Transformations to Consider: Geodatabase: 03 (2 minutes)
  What else can we do?
@@ -175,11 +176,11 @@ The overriding principle they recommend is the "Most complete data...even if pro
 - We could focus on the layers that are not well-recognized in open source software. QGIS can open vector data in a geodatabase, but not raster data. So we might want to export just the raster layers into another format.
 
 - You also might talk with the researcher and decide to focus on just a few priority layers. So maybe most of the layers have been included to provide context, but they aren’t things created by the researcher. Maybe this researcher did a survey of water fountains and that data isn’t available elsewhere. We might suggest providing just that data in a more open, accessible format to highlight it/make it more visible.
- \[Next slide\]
+ 
 
 ## Slide 20. Possible Transformations to Consider: Geodatabase: 04 (1 minute)
  If the researcher involved is set on providing the data in an open format. In this situation, you might suggest transforming to a GeoPackage. We haven’t talked about it much today, but it's an open source equivalent of a geodatabase and it could be an option. It has similar functionality, but the process of transforming content always risks change and embedded metadata will likely be lost.
-\[Next slide\]
+
 
 ## Slide 21. Activity: Discussion in groups (15 to 20 minutes)
  Imagine if the data we have been using for this training had been sent to us as a geodatabase. Take a look at this inventory in small groups and talk about what you would recommend for a few minutes, then we will come together as a large group and look at how we would implement it.
@@ -193,7 +194,7 @@ The overriding principle they recommend is the "Most complete data...even if pro
   - Have a copy of the two point layers (AmericanWoodcock_nests and GoldenWingedWarbler_nests) outside of the geodatabase because they are unique locations collected by the researcher
 
   - Move everything into a .GPKG to use a more open format
- \[Next slide\]
+ 
 
 ## Slide 22. Activity: Practice Transformation (10 to 20 minutes)
 
@@ -209,7 +210,7 @@ The overriding principle they recommend is the "Most complete data...even if pro
 
 - If you have time, you might also demonstrate how to reproject data starting from the files in the 5_Bad_projection
 
-\[Next slide\]
+
 
 ## Slide 23. Final Thoughts on Transformation (1 minute or more if you allow for report backs after the activity)
 
