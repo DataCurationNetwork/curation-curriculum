@@ -22,12 +22,12 @@ Last updated: 2024-02-08 1000
 - Understand the three principal components of a Coordinate Reference System
 
 ## Slides Notes: see
-[slides](https://docs.google.com/presentation/u/0/d/1mEjOVsL4Qi4mFGqB7UVBlVsySj922GCm8yfg0QbS8T4/edit)
+[slides](https://github.com/DataCurationNetwork/curation-curriculum/blob/e021bf358fb9af32ec6589388c5356396e47985d/Specialized%20Data%20Types/Geospatial/Lecture%20Slides/1_GIS_Introduction.pdf)
 (35 min)
 
 ## Activities (10 min)
 
-- Using the data in, [1-4_Excersise_Dataset](https://drive.google.com/drive/folders/1j6-gfQU93GCi2jnco5AvpRS5Inoa-zEC?usp=drive_link) create a GIS project with one raster and one vector layer
+- Using the data in, [1-4_Excersise_Dataset](https://github.com/DataCurationNetwork/curation-curriculum/tree/e021bf358fb9af32ec6589388c5356396e47985d/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1-4_Excercise_Dataset) create a GIS project with one raster and one vector layer
 
   - Overview of Layers and Browser panes
 
@@ -375,7 +375,7 @@ Skills Check:
 
 ### Slide 31. Activities (10 min)
 
-- Using the data in [Dataset_No_ReadMe](https://drive.google.com/drive/folders/1PbrnvJ6WLZa1eVG8lYuvnXCs8Q09PAeT?usp=drive_link) (this is a subfolder of the 1-4_Excersise_Dataset,folder) create a GIS project with one raster and one vector layer
+- Using the data in [Dataset_No_ReadMe](https://github.com/DataCurationNetwork/curation-curriculum/blob/e021bf358fb9af32ec6589388c5356396e47985d/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1-4_Excercise_Dataset/Dataset_No_ReadMe.zip) (this is a subfolder of the 1-4_Excersise_Dataset,folder) create a GIS project with one raster and one vector layer
 
   - Review of Layers and Browser panes
 
