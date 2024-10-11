@@ -1,6 +1,6 @@
 # Module 0: Environment Setup Handout
 
-This handout accompanies a slidedeck with the file name “0_Environment_Setup”\
+This handout accompanies a slidedeck with the file name “0_Environment_Setup”
 
 Last updated: 2024-01-31 1300
 
