@@ -5,11 +5,13 @@
 
 **GitHub Citation:**  Gignac, P., Kenney, M., Schuler, A., Wright, S., Keshavarzian, N. 2024. Materials for Scientific Images Data Curation Curriculum. Data Curation Network GitHub Repository. 
 
-**Archived Citation:** [Forthcoming]
+**Archived Citation:** Gignac, Paul; Wright, Sarah; Kenney, Mariah; Schuler, Amy; Keshavarzian, Neggin. (2024). Scientific Images Curation Curriculum. Retrieved from the University Digital Conservancy, https://doi.org/10.24926/2024.265766.
 
 This curriculum was developed by the geospatial cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
 **Repo contents:**
+
+Note: Many files are provided in both pdf and md formats for broader access.
 
 [SciImag\_Lesson\_Plan.md](<SciImag_Lesson_Plan.md>) - The lesson plan 
 
