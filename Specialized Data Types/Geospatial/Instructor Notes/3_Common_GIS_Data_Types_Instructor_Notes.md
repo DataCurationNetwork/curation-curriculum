@@ -554,7 +554,7 @@ fall on the FAIR spectrum?
 Download and unzip (if needed) the provided example GIS datasets.
 
 Link to example dataset:
-[1-4_Excersise_Dataset](https://drive.google.com/drive/folders/1j6-gfQU93GCi2jnco5AvpRS5Inoa-zEC?usp=drive_link)
+[1-4_Excersise_Dataset](https://github.com/DataCurationNetwork/curation-curriculum/tree/16988e750504b949fd2d3530285a0610e7ddf9b7/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1-4_Excercise_Dataset)
 
 1.  Look at the files in the subfolder labeled study_area_cover_type, what tool or tools can you use to open this data? – Answer ArcGIS and QGIS
 
@@ -779,7 +779,7 @@ fall on the FAIR spectrum?
 Download and unzip (if needed) the provided example GIS datasets.
 
 “Dataset_No_ReadMe.zip” can be found in the folder: [1-4
-Exercise_Dataset](https://drive.google.com/drive/folders/1j6-gfQU93GCi2jnco5AvpRS5Inoa-zEC?usp=sharing)
+Exercise_Dataset](https://github.com/DataCurationNetwork/curation-curriculum/tree/16988e750504b949fd2d3530285a0610e7ddf9b7/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1-4_Excercise_Dataset)
 
 1.  Identify which files are a vector type and which are a raster type.
 
@@ -1034,7 +1034,7 @@ Activity:
 
 1.  Download and unzip (if needed) the provided example GIS datasets with an appropriate tool.
 
-    1.  Link to example dataset: [https://drive.google.com/drive/folders/1edQUG4XPE0mDLpg5p22E0GuVo6LQQtgG?usp=drive_link](https://drive.google.com/drive/folders/1edQUG4XPE0mDLpg5p22E0GuVo6LQQtgG?usp=drive_link)
+    1.  Link to example dataset: [https://drive.google.com/drive/folders/1edQUG4XPE0mDLpg5p22E0GuVo6LQQtgG?usp=drive_link](https://github.com/DataCurationNetwork/curation-curriculum/tree/16988e750504b949fd2d3530285a0610e7ddf9b7/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1-4_Excercise_Dataset)
 
 2.  Based on the file extensions you find there, identify which tool you will use to open the dataset.
 
