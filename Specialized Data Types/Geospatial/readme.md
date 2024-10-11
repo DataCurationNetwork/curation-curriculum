@@ -5,13 +5,13 @@
 
 **GitHub Citation:**  Christiansen, L., Grove, K., Kernik, M., Norris, T., Moore, J. 2024. Materials for Geospatial Data Curation Curriculum. Data Curation Network GitHub Repository. 
 
-**Archived Citation:**
+**Archived Citation:** Christiansen, Leighton L.; Grove, Kelly; Kernik, Melinda; Norris, Timothy; Moore, Jennifer. (2024). Geospatial Curation Curriculum. Retrieved from the University Digital Conservancy, https://doi.org/10.24926/2024.265767.
 
 This curriculum was developed by the geospatial cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
 **Repo Contents:**
 
-All files in this dataset are related to teaching the curriculum. The files are numbered to reflect the suggested order they are introduced in. Files that begin with the same number reflect use in the same module.
+All files in this dataset are related to teaching the curriculum. The files are numbered to reflect the suggested order they are introduced in. Files that begin with the same number reflect use in the same module. Note that some files are provided in pdf and md formats to broaden access. 
 
 [Lesson\_Plan.md](<Geospatial_Lesson_Plan.md>) - Easy to use overview of the curriculum with links to materials
 
