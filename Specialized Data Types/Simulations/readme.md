@@ -5,11 +5,13 @@
 
 **GitHub Citation:**  Misgna, G., Rios, F., Shimon, H., Wynholds, L., Marsolek, W.  2024. Materials for Simulations Data Curation Curriculum. Data Curation Network GitHub Repository. 
 
-**Archived Citation:** [Forthcoming]
+**Archived Citation:** Wynholds, L.; Shimon, Heather; Rios, Fernando; Misgna, Girmaye; Marsolek, Wanda. (2024). Simulations Curation Curriculum. Retrieved from the University Digital Conservancy, https://doi.org/10.24926/2024.265765.
 
 This curriculum was developed by the simulations cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
 **Repo contents:**
+
+Note: Many files are provided in both pdf and md formats for broader access.
 
 [Simulations\_Lesson\_Plan.md](<Simulations_Lesson_Plan.md>) - The lesson plan 
 
