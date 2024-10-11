@@ -6,7 +6,7 @@ Last updated: 2024-01-31 1300
 
 ## Download the Example Dataset:
 
-- [0_Environment_Setup_Datasets](https://drive.google.com/drive/folders/1yXnGJ2dV1WxI3Y8AH645kH5R1Zo3gTLK?usp=sharing) folder
+- [0_Environment_Setup_Datasets](https://github.com/DataCurationNetwork/curation-curriculum/tree/fa13133d2767e3859d80030e5b315a7facffa944/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/0_Environment_Setup_Datsets) folder
 
   - Be sure to unzip the file
 
