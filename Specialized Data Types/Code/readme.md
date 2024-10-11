@@ -7,10 +7,11 @@
 
 **Archived Citation:** Cooper, Talya; Janée, Greg; Maye, Kay P.; Ruhs, Nick; Erickson, Seth. (2024). Code Curation Curriculum. Retrieved from the University Digital Conservancy, https://doi.org/10.24926/2024.265764.
 
-This curriculum was developed by the geospatial cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
+This curriculum was developed by the code cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
 **Repo contents:**
-Note: Many files are provided are provided in both pdf and md formats to aid in broader access.
+
+Note: Many files are provided in both pdf and md formats for broader access.
 
 [Code\_Lesson\_Plan](<Code_Lesson_Plan.md>) - The lesson plan
 
