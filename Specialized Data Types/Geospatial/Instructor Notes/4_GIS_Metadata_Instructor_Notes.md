@@ -232,7 +232,7 @@ or there is no documentation yet - opt for human-readable.
 ### Slide 14. Check and Understand (5 minutes)
 
 Have the students open files and look for the metadata in the
-[1-4_Excercise_Dataset](https://drive.google.com/drive/folders/1j6-gfQU93GCi2jnco5AvpRS5Inoa-zEC?usp=drive_link).
+[1-4_Excercise_Dataset]([https://drive.google.com/drive/folders/1j6-gfQU93GCi2jnco5AvpRS5Inoa-zEC?usp=drive_link](https://github.com/DataCurationNetwork/curation-curriculum/tree/16988e750504b949fd2d3530285a0610e7ddf9b7/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1-4_Excercise_Dataset)).
 
 1.  As they look through the metadata, have them pay attention to certain details, especially the coordinate reference system, the kinds of data, and the kinds of metadata.
 
@@ -530,7 +530,7 @@ shortcomings are, and move on.
 Slide Title: Put it in Practice: Exercise
 
 Look at at the files in in
-[https://bit.ly/GIS_1-4_Dataset](https://bit.ly/GIS_1-4_Dataset)
+[https://bit.ly/GIS_1-4_Dataset](https://github.com/DataCurationNetwork/curation-curriculum/tree/16988e750504b949fd2d3530285a0610e7ddf9b7/Specialized%20Data%20Types/Geospatial/Exercise%20Materials/1-4_Excercise_Dataset)
 and
 
 1.  Find and evaluate the metadata for each layer
