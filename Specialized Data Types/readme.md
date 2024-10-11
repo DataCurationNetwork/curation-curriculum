@@ -27,7 +27,7 @@ Curriculum also uses real or augmented datasets in exercises, data citations for
 
 **Citation and Reuse:** The materials are available for reuse by the broader community under a Creative Commons Attribution 4.0 license (CC-BY). Each data type has a unique citation that should be used when reusing those materials including a DOI pointing the archived copy of the materials (see below). 
 
-**Archived Copies and Ongoing Development:** PDF copies of most files that were part of the IMLS funded project are also available and archived with the University of Minnesota Digital Conservancy Data Curation Network Collection [add link]. The GitHub files are the dynamic versions of the curriculum that might be updated and revised as the curriculum is iterated upon. 
+**Archived Copies and Ongoing Development:** PDF copies of most files that were part of the IMLS funded project are also available and archived with the University of Minnesota Digital Conservancy Data Curation Network Collection [[link](https://hdl.handle.net/11299/265761)]. The GitHub files are the dynamic versions of the curriculum that might be updated and revised as the curriculum is iterated upon. 
 
 **Project Design Team:**
 
