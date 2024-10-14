@@ -1,3 +1,5 @@
+# Request Worksheet
+
 Dear XYZ,
 
 Thank you for submitting data to the Pixelated Platypus Data Repository.
@@ -9,17 +11,13 @@ reusable.
 
 If possible, please provide,
 
-> Descriptions for abbreviations used
->
-> Funding references: funder name(s), award numbers or other identifiers
->
-> Methodological information, specifically details related to imaging:
+- Descriptions for abbreviations used
+- Funding references: funder name(s), award numbers or other identifiers
+- Methodological information, specifically details related to imaging:
 
-- Image acquisition: instrument attribution, image acquisition
-  > parameters
+- Image acquisition: instrument attribution, image acquisition parameters
 
-- Image data: result of image acquisition, or processing of image data,
-  > such as,
+- Image data: result of image acquisition, or processing of image data, such as,
 
   - Type
 
@@ -35,5 +33,4 @@ If possible, please provide,
 
   - Image processing method
 
-- Study protocols, codebooks or README files generated for this project
-  > or dataset
+- Study protocols, codebooks or README files generated for this project or dataset

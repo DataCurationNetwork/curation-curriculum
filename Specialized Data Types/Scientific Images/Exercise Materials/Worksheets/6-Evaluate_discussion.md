@@ -1,18 +1,17 @@
+#Evaluate Discussion Worksheet
+
 For this wrap-up, you will evaluate this dataset according to the FAIR
 and CARE principles.
 
-1.  *Review the final dataset, as currently visible and compare against
-    > the FAIR principles. Is this dataset FAIR?*
+1.  Review the final dataset, as currently visible and compare against
+    > the FAIR principles. Is this dataset FAIR?
 
 [<u>FAIR data</u>](https://www.go-fair.org/fair-principles/) are,
 
-**Findable**
-
-**Accessible**
-
-**Interoperable**
-
-**Reusable**
+- Findable
+- Accessible
+- Interoperable
+- Reusable
 
 While the FAIR principles address the characteristics that facilitate
 data sharing, there may be ethical issues that arise when working with
@@ -22,16 +21,12 @@ within or by those communities.
 Consider the [<u>CARE Principles</u>](https://www.gida-global.org/care)
 for Indigenous Data Governance,
 
-**Collective Benefit**
+- Collective Benefit
+- Authority to Control
+- Responsibility
+- Ethics
 
-**Authority to Control**
-
-**Responsibility**
-
-**Ethics**
-
-2.  *Can you think of examples where CARE principles might apply to
-    > scientific images?*
+2.  Can you think of examples where CARE principles might apply to scientific images?
 
 Additional resources:
 
