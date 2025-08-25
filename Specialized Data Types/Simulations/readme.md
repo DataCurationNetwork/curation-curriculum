@@ -9,6 +9,12 @@
 
 This curriculum was developed by the simulations cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
+**Subsequent workshops taught with these materials**
+
+DCN-NIH Specialized Data Curation: Code and Simulation Data (May 2025): [workshop webpage](https://datacurationnetwork.github.io/NIH-2025/codesim/), (archived materials coming soon)
+
+Citation: Erickson, S., Janée, G., Marsolek, W., Weaver, L. (2025). DCN-NIH Specialized Data Curation: Code and Simulation Data. https://datacurationnetwork.github.io/NIH-2025/codesim/
+
 **Repo contents:**
 
 Note: Many files are provided in both pdf and md formats for broader access.
@@ -26,3 +32,15 @@ Exercise Materials (folder):
 [Simulations\_CuratorLog\_Template.txt](https://github.com/DataCurationNetwork/curation-curriculum/blob/005dd48da6f027e016c72624f6b48950d348f3b0/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_CuratorLog_Template.txt) - A template for a Curator Log
 
 [Simulations\_Worksheet\_EvaluatingDataQuality.pdf](https://github.com/DataCurationNetwork/curation-curriculum/blob/005dd48da6f027e016c72624f6b48950d348f3b0/Specialized%20Data%20Types/Simulations/Exercise%20Materials/Simulations_Worksheet_EvaluatingDataQuality.pdf) - A workshop for evaluating the quality of simulations data
+
+----------------------------------------------------------------------------------------
+
+#### Please update the following fields with each contribution
+
+### Version:
+
+#### Summary of changes:
+
+#### Date [mm/dd/yyyy]
+
+Note: please add change date in descending order
