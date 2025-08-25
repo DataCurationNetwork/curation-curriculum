@@ -10,6 +10,7 @@
 This curriculum was developed by the code cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
 **Subsequent Workshops taught with these materials**
+
 DCN-NIH Specialized Data Curation: Code and Simulation Data (May 2025): workshop webpage (https://datacurationnetwork.github.io/NIH-2025/codesim/), (archived materials coming soon)
 Citation: Erickson, S., Janée, G., Marsolek, W., Weaver, L. (2025). DCN-NIH Specialized Data Curation: Code and Simulation Data. https://datacurationnetwork.github.io/NIH-2025/codesim/
 
