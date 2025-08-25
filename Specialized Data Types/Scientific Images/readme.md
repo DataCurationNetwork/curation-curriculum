@@ -9,6 +9,12 @@
 
 This curriculum was developed by the geospatial cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
+**Subsequent workshops taught with these materials**
+
+DCN-NIH Specialized Data Curation: Geospatial and Scientific Images (May 2025): [workshop webpage](https://datacurationnetwork.github.io/NIH-2025/scimgis/), (archived materials coming soon)
+
+Citation: Grove, K., Kenney, M., Keshavarzian, N., Norris, T., Schuler, A. (2025). DCN-NIH Specialized Data Curation: Geospatial and Scientific Images. https://datacurationnetwork.github.io/NIH-2025/scimgis/
+
 **Repo contents:**
 
 Note: Many files are provided in both pdf and md formats for broader access.
@@ -45,3 +51,15 @@ Exercise Materials (folder):
 Example dataset used in this workshop:
 
 - Dataset for 'Multi‑Step Crystallization of Self‑Organized Spiral Eutectics': <https://deepblue.lib.umich.edu/data/concern/data_sets/h415p962w>
+
+----------------------------------------------------------------------------------------
+
+#### Please update the following fields with each contribution
+
+### Version:
+
+#### Summary of changes:
+
+#### Date [mm/dd/yyyy]
+
+Note: please add change date in descending order
