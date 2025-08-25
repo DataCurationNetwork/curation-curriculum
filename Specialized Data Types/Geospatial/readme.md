@@ -9,6 +9,12 @@
 
 This curriculum was developed by the geospatial cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
+**Subsequent workshops taught with these materials**
+
+DCN-NIH Specialized Data Curation: Geospatial and Scientific Images (May 2025): [workshop webpage](https://datacurationnetwork.github.io/NIH-2025/scimgis/), (archived materials coming soon)
+
+Citation: Grove, K., Kenney, M., Keshavarzian, N., Norris, T., Schuler, A. (2025). DCN-NIH Specialized Data Curation: Geospatial and Scientific Images. https://datacurationnetwork.github.io/NIH-2025/scimgis/
+
 **Repo Contents:**
 
 All files in this dataset are related to teaching the curriculum. The files are numbered to reflect the suggested order they are introduced in. Files that begin with the same number reflect use in the same module. Note that some files are provided in pdf and md formats to broaden access. 
@@ -55,4 +61,14 @@ Lecture Slides (folder)
 
 [Folder of GIS Lecture Slides](https://drive.google.com/drive/folders/1Ezz0HUL20yXkvaJ4ecrwhEWxecoBkbdG?usp=sharing)
 
-Version History
+----------------------------------------------------------------------------------------
+
+#### Please update the following fields with each contribution
+
+### Version:
+
+#### Summary of changes:
+
+#### Date [mm/dd/yyyy]
+
+Note: please add change date in descending order
