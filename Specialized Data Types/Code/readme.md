@@ -5,7 +5,7 @@
 
 **GitHub Citation:**  Cooper, T., Janée, G., Maye, K., Ruhs, N., Erickson, S. 2024. Materials for Code Data Curation Curriculum. Data Curation Network GitHub Repository. 
 
-**Archived Citation:** Cooper, Talya; Janée, Greg; Maye, Kay P.; Ruhs, Nick; Erickson, Seth. (2024). Code Curation Curriculum. Retrieved from the University Digital Conservancy, https://doi.org/10.24926/2024.265764.
+**Archived Citation:** Cooper, Talya; Janée, Greg; Maye, Kay P.; Ruhs, Nick; Erickson, Seth. (2024). Code Curation Curriculum. Retrieved from the University of Minnesota Digital Conservancy, https://doi.org/10.24926/2024.265764.
 
 This curriculum was developed by the code cohort for the Data Curation Network's IMLS grant: Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas (code, geospatial data, scientific images, simulation data)
 
