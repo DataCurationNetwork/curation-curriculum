@@ -11,9 +11,9 @@ This curriculum was developed by the code cohort for the Data Curation Network's
 
 **Subsequent Workshops taught with these materials**
 
-DCN-NIH Specialized Data Curation: Code and Simulation Data (May 2025): [workshop webpage](https://datacurationnetwork.github.io/NIH-2025/codesim/), (archived materials coming soon)
+DCN-NIH Specialized Curation for Code and Simulations (May 2025): [workshop webpage](https://datacurationnetwork.github.io/NIH-2025/codesim/), [archived materials](https://doi.org/10.24926/2025.276529)
 
-Citation: Erickson, S., Janée, G., Marsolek, W., Weaver, L. (2025). DCN-NIH Specialized Data Curation: Code and Simulation Data. https://datacurationnetwork.github.io/NIH-2025/codesim/
+Citation: Erickson, S., Janée, G., Marsolek, W., Weaver, L. (2025). DCN-NIH Specialized Curation for Code and Simulations. [https://doi.org/10.24926/2025.276529](https://doi.org/10.24926/2025.276529)
 
 **Repo contents:**
 
